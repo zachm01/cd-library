@@ -1,0 +1,42 @@
+{
+    "RRD format": "DDD",
+    "all artists": [],
+    "copyright date": 1900,
+    "id": -1,
+    "label": "",
+    "num discs": 1,
+    "title": "",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 0.0,
+            "pieces": [
+                {
+                    "artists": [],
+                    "catalogue": "opus",
+                    "catalogue num": -1,
+                    "composer": "",
+                    "date": 1900,
+                    "num movements": -1,
+                    "title": "",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 0.0,
+                            "tracks": [-1],
+                            "subtracks": [
+                                {
+                                    "subtitle": "",
+                                    "timing": 0.0,
+                                    "track": -1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
