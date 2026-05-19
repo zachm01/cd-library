@@ -1,0 +1,3 @@
+# My CD Library
+
+In the summer of 2024, I began collecting compact discs so I could listen to my favourite classical music in such a way that does not require me to use music streaming services like Spotify, Apple Music, etc. I recently began documenting each CD that I own for several reasons. Firstly, I enjoy documenting things, and this is a fun project to do in my free time. Secondly, I can remember what CDs I have when I am not near my collection (I can't bring all 120+ discs with me everywhere!). Thirdly, people I know who want to give me CDs as gifts always worry that they will get me a duplicate; now, they have no excuse for not knowing my collection inside-and-out as well as I do. 
