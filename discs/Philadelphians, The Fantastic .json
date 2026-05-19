@@ -1,0 +1,316 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Saint-Saëns, Camille ",
+        "Dukas, Paul",
+        "Chabrier, Emmanuel",
+        "Mussorgsky, Modest",
+        "Smetana, Bedřich",
+        "Ponchielli, Amilcare",
+        "Brahms, Johannes",
+        "Gliere, Reinhold",
+        "Falla, Manuel da",
+        "Kabalevsky, Dmitri",
+        "Ormandy, Eugene",
+        "Philadelphia Orchestra"
+    ],
+    "copyright date": 1999,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Ormandy, Eugene",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": 40,
+                    "composer": "Saint-Saëns, Camille ",
+                    "date": 1874,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 7.683,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Danse Macabre",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Ormandy, Eugene",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Dukas, Paul",
+                    "date": 1897,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 10.567,
+                            "tracks": [
+                                2
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "The Sorcerer's Apprentice",
+                    "tracks": [
+                        2
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Ormandy, Eugene",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": 44,
+                    "composer": "Chabrier, Emmanuel",
+                    "date": 1883,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 6.95,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "España",
+                    "tracks": [
+                        3
+                    ],
+                    "catalogue": "D"
+                },
+                {
+                    "artists": [
+                        "Ormandy, Eugene",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Mussorgsky, Modest",
+                    "date": 1886,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 12.167,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "A Night on Bald Mountain",
+                    "tracks": [
+                        4
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Ormandy, Eugene",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": 93,
+                    "composer": "Smetana, Bedřich",
+                    "date": 1866,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Dance of the Comedians",
+                            "subtracks": [],
+                            "timing": 12.167,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "The Bartered Bride",
+                    "tracks": [
+                        5
+                    ],
+                    "catalogue": "T"
+                },
+                {
+                    "artists": [
+                        "Ormandy, Eugene",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": 47,
+                    "composer": "Saint-Saëns, Camille ",
+                    "date": 1877,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Bacchanale",
+                            "subtracks": [],
+                            "timing": 7.65,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Samson and Delilah",
+                    "tracks": [
+                        6
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Ormandy, Eugene",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": 9,
+                    "composer": "Ponchielli, Amilcare",
+                    "date": 1876,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Dance of the Hours",
+                            "subtracks": [],
+                            "timing": 10.5,
+                            "tracks": [
+                                7
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "La Giocanda",
+                    "tracks": [
+                        7
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Ormandy, Eugene",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": 1.5,
+                    "composer": "Brahms, Johannes",
+                    "date": 1873,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 3.083,
+                            "tracks": [
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Hungarian Dance No. 5",
+                    "tracks": [
+                        8
+                    ],
+                    "catalogue": "WoO"
+                },
+                {
+                    "artists": [
+                        "Ormandy, Eugene",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": 70,
+                    "composer": "Gliere, Reinhold",
+                    "date": 1927,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Russian Sailors' Dance",
+                            "subtracks": [],
+                            "timing": 3.817,
+                            "tracks": [
+                                9
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "The Red Poppy",
+                    "tracks": [
+                        9
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Ormandy, Eugene",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Falla, Manuel da",
+                    "date": 1924,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Ritual Fire Dance",
+                            "subtracks": [],
+                            "timing": 4.433,
+                            "tracks": [
+                                10
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "El Amor Brujo",
+                    "tracks": [
+                        10
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Ormandy, Eugene",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": 26,
+                    "composer": "Kabalevsky, Dmitri",
+                    "date": 1939,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Comedians' Galop",
+                            "subtracks": [],
+                            "timing": 1.7,
+                            "tracks": [
+                                11
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "The Comedians",
+                    "tracks": [
+                        11
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 74.667
+        }
+    ],
+    "id": 51,
+    "label": "High Performance",
+    "num discs": 1,
+    "title": "The Fantastic Philadelphians"
+}

@@ -1,0 +1,888 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Shostakovich, Dmitri",
+        "Emerson String Quartet"
+    ],
+    "copyright date": 2000,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 49,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1938,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Moderato",
+                            "subtracks": [],
+                            "timing": 3.917,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Moderato",
+                            "subtracks": [],
+                            "timing": 3.983,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro molto",
+                            "subtracks": [],
+                            "timing": 2.383,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 3.733,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "String Quartet No. 1 in C major",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 68,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1944,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Overture: Moderato con moto",
+                            "subtracks": [],
+                            "timing": 7.95,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Recitative and Romance: Adagio",
+                            "subtracks": [],
+                            "timing": 9.083,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Waltz: Allegro",
+                            "subtracks": [],
+                            "timing": 5.467,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Theme with Variations: Adagio – Moderato con moto – Allegretto – Più mosso – Allegro non troppo – Allegro – Adagio",
+                            "subtracks": [],
+                            "timing": 10.717,
+                            "tracks": [
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "String Quartet No. 2 in A major",
+                    "tracks": [
+                        5,
+                        8
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 73,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1946,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto",
+                            "subtracks": [],
+                            "timing": 6.867,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Moderato con moto",
+                            "subtracks": [],
+                            "timing": 4.367,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro non troppo",
+                            "subtracks": [],
+                            "timing": 3.833,
+                            "tracks": [
+                                11
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Adagio – attacca:",
+                            "subtracks": [],
+                            "timing": 4.733,
+                            "tracks": [
+                                12
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Moderato – Adagio",
+                            "subtracks": [],
+                            "timing": 8.3,
+                            "tracks": [
+                                13
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "String Quartet No. 3 in F major",
+                    "tracks": [
+                        9,
+                        13
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 75.433
+        },
+        {
+            "number": 2,
+            "pieces": [
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 83,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1949,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto",
+                            "subtracks": [],
+                            "timing": 3.833,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andantino",
+                            "subtracks": [],
+                            "timing": 6.383,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegretto – attacca:",
+                            "subtracks": [],
+                            "timing": 4.583,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegretto",
+                            "subtracks": [],
+                            "timing": 9.617,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "String Quartet No. 4 in D major",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 92,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1952,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro non troppo – attacca:",
+                            "subtracks": [],
+                            "timing": 11.3,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante – Andantino – Andante – Andantino – Andante – attacca:",
+                            "subtracks": [],
+                            "timing": 8.483,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Moderato – Allegretto – Andante",
+                            "subtracks": [],
+                            "timing": 10.483,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "String Quartet No. 5 in B-flat major",
+                    "tracks": [
+                        5,
+                        7
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 101,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1956,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto",
+                            "subtracks": [],
+                            "timing": 6.733,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Moderato con moto",
+                            "subtracks": [],
+                            "timing": 4.983,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Lento – attacca:",
+                            "subtracks": [],
+                            "timing": 3.95,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Lento – Allegretto – Andante – Lento",
+                            "subtracks": [],
+                            "timing": 6.55,
+                            "tracks": [
+                                11
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "String Quartet No. 6 in G major",
+                    "tracks": [
+                        8,
+                        11
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 76.95
+        },
+        {
+            "number": 3,
+            "pieces": [
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 108,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1960,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto – attacca:",
+                            "subtracks": [],
+                            "timing": 3.683,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Lento – attacca:",
+                            "subtracks": [],
+                            "timing": 2.8,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro – Allegretto – [Adagio]",
+                            "subtracks": [],
+                            "timing": 5.2,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "String Quartet No. 7 in F-sharp minor",
+                    "tracks": [
+                        1,
+                        3
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 110,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1960,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Largo – attacca:",
+                            "subtracks": [],
+                            "timing": 4.55,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro molto – attacca:",
+                            "subtracks": [],
+                            "timing": 2.617,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegretto – attacca:",
+                            "subtracks": [],
+                            "timing": 4.083,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Largo – attacca:",
+                            "subtracks": [],
+                            "timing": 4.75,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Largo",
+                            "subtracks": [],
+                            "timing": 3.683,
+                            "tracks": [
+                                9
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "String Quartet No. 8 in C minor",
+                    "tracks": [
+                        4,
+                        8
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 117,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1964,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Moderato con moto – attacca:",
+                            "subtracks": [],
+                            "timing": 4.4,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Adagio – attacca:",
+                            "subtracks": [],
+                            "timing": 3.783,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegretto – attacca:",
+                            "subtracks": [],
+                            "timing": 4.033,
+                            "tracks": [
+                                11
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Adagio – attacca:",
+                            "subtracks": [],
+                            "timing": 3,
+                            "tracks": [
+                                12
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 9.6,
+                            "tracks": [
+                                13
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "String Quartet No. 9 in E-flat major",
+                    "tracks": [
+                        9,
+                        13
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 118,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1964,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 4.2,
+                            "tracks": [
+                                14
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegretto furioso",
+                            "subtracks": [],
+                            "timing": 3.95,
+                            "tracks": [
+                                15
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Adagio – attacca:",
+                            "subtracks": [],
+                            "timing": 4.8,
+                            "tracks": [
+                                16
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegretto – Andante",
+                            "subtracks": [],
+                            "timing": 8.667,
+                            "tracks": [
+                                17
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "String Quartet No. 10 in A-flat major",
+                    "tracks": [
+                        14,
+                        17
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 77.933
+        },
+        {
+            "number": 4,
+            "pieces": [
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1934,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 4.567,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Adagio (Elegy) for String Quartet",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1932,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 2.783,
+                            "tracks": [
+                                2
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Allegretto (Polka) for String Quartet",
+                    "tracks": [
+                        2
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 122,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1966,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Introduction: Andantino – attacca:",
+                            "subtracks": [],
+                            "timing": 2.183,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Scherzo: Allegretto – attacca:",
+                            "subtracks": [],
+                            "timing": 2.683,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Recitative: Adagio – attacca:",
+                            "subtracks": [],
+                            "timing": 1.133,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Etude: Allegro – attacca:",
+                            "subtracks": [],
+                            "timing": 1.233,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Humoresque: Allegro – attacca:",
+                            "subtracks": [],
+                            "timing": 1.017,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Elegy: Adagio – attacca:",
+                            "subtracks": [],
+                            "timing": 4.2,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Finale: Moderato – Meno mosso – Moderato",
+                            "subtracks": [],
+                            "timing": 3.633,
+                            "tracks": [
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 7,
+                    "title": "String Quartet No. 11 in F minor",
+                    "tracks": [
+                        3,
+                        9
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 133,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1968,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Moderato – Allegretto – Moderato – Allegretto – Moderato",
+                            "subtracks": [],
+                            "timing": 6.483,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegretto – Adagio – Moderato – Adagio – Moderato – Allegretto",
+                            "subtracks": [],
+                            "timing": 19.383,
+                            "tracks": [
+                                11
+                            ]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "String Quartet No. 12 D-flat major",
+                    "tracks": [
+                        10,
+                        11
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 138,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1970,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Adagio – Doppio movimento – Tempo primo",
+                            "subtracks": [],
+                            "timing": 19.133,
+                            "tracks": [
+                                12
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "String Quartet No. 13 in B-flat minor",
+                    "tracks": [
+                        12
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 68.533
+        },
+        {
+            "number": 5,
+            "pieces": [
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 142,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1973,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto – Meno mosso – Allegretto – Meno mosso – Allegretto",
+                            "subtracks": [],
+                            "timing": 8.217,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Adagio – attacca:",
+                            "subtracks": [],
+                            "timing": 8.867,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegretto – Poco meno mosso – Adagio",
+                            "subtracks": [],
+                            "timing": 8.083,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "String Quartet No. 14 in F-sharp major",
+                    "tracks": [
+                        1,
+                        3
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Emerson String Quartet"
+                    ],
+                    "catalogue num": 144,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1974,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Elegy: Adagio – attacca:",
+                            "subtracks": [],
+                            "timing": 12.6,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Serenade: Adagio – attacca:",
+                            "subtracks": [],
+                            "timing": 5.783,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Intermezzo: Adagio – attacca:",
+                            "subtracks": [],
+                            "timing": 1.633,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Nocturne: Adagio – attacca:",
+                            "subtracks": [],
+                            "timing": 4.5,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Funeral March: Adagio molto – attacca:",
+                            "subtracks": [],
+                            "timing": 4.583,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Epilogue: Adagio – Adagio molto",
+                            "subtracks": [],
+                            "timing": 6.3,
+                            "tracks": [
+                                9
+                            ]
+                        }
+                    ],
+                    "num movements": 6,
+                    "title": "String Quartet No. 15 in E-flat minor",
+                    "tracks": [
+                        4,
+                        9
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 60.633
+        }
+    ],
+    "id": 22,
+    "label": "Deutsche Grammophon",
+    "num discs": 5,
+    "title": "Shostakovich: The String Quartets"
+}

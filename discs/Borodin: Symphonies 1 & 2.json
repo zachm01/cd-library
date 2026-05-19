@@ -1,0 +1,155 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Borodin, Alexander",
+        "Ashkenazy, Vladimir",
+        "Royal Philharmonic Orchestra"
+    ],
+    "copyright date": 1994,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Ashkenazy, Vladimir",
+                        "Royal Philharmonic Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Borodin, Alexander",
+                    "date": 1880,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 7.033,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "In the Steppes of Central Asia",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Ashkenazy, Vladimir",
+                        "Royal Philharmonic Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Borodin, Alexander",
+                    "date": 1867,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Adagio - Allegro - Adantino",
+                            "subtracks": [],
+                            "timing": 13.017,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Scherzo: Presto - Trio: Allegro",
+                            "subtracks": [],
+                            "timing": 6.933,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 8,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro molto vivo",
+                            "subtracks": [],
+                            "timing": 7.067,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony no. 1 in E-flat major",
+                    "tracks": [
+                        2,
+                        5
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Ashkenazy, Vladimir",
+                        "Royal Philharmonic Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Borodin, Alexander",
+                    "date": 1876,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 7.05,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Scherzo: Prestissimo - Trio: Allegretto",
+                            "subtracks": [],
+                            "timing": 5.117,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 8.8,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Finale: Allegro",
+                            "subtracks": [],
+                            "timing": 5.983,
+                            "tracks": [
+                                9
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony no. 2 in B minor",
+                    "tracks": [
+                        6,
+                        9
+                    ],
+                    "catalogue": ""
+                }
+            ],
+            "total timing": 69.583
+        }
+    ],
+    "id": 26,
+    "label": "Decca",
+    "num discs": 1,
+    "title": "Borodin: Symphonies 1 & 2"
+}

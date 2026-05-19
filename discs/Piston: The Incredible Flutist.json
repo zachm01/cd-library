@@ -1,0 +1,279 @@
+{
+    "RRD format": "",
+    "all artists": [
+        "Piston, Walter",
+        "Schwarz, Gerard",
+        "Goff, Scott",
+        "Danielson, Glen",
+        "Wunrow, Therese Elder",
+        "Julliard String Quartet",
+        "Seattle Symphony"
+    ],
+    "copyright date": 1900,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Schwarz, Gerard",
+                        "Goff, Scott",
+                        "Seattle Symphony"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Walter Pison",
+                    "date": 1938,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Introduction – Siesta in the Market Place",
+                            "subtracks": [],
+                            "timing": 1.05,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Entrance of the Vendors",
+                            "subtracks": [],
+                            "timing": 2.4,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Entrance of the Customers",
+                            "subtracks": [],
+                            "timing": 0.567,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Tango of the Merchant's Daughters",
+                            "subtracks": [],
+                            "timing": 3.067,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Arrival of the Circus",
+                            "subtracks": [],
+                            "timing": 0.567,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Circus March",
+                            "subtracks": [],
+                            "timing": 0.567,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "The Flutist",
+                            "subtracks": [],
+                            "timing": 2.267,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "Minuet",
+                            "subtracks": [],
+                            "timing": 0.65,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 9,
+                            "subtitle": "Spanish Waltz",
+                            "subtracks": [],
+                            "timing": 1.3,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 10,
+                            "subtitle": "Siciliana",
+                            "subtracks": [],
+                            "timing": 3.133,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 11,
+                            "subtitle": "Polka Finale",
+                            "subtracks": [],
+                            "timing": 2.133,
+                            "tracks": [
+                                11
+                            ]
+                        }
+                    ],
+                    "num movements": 11,
+                    "title": "The Incredible Flutist (Ballet Suite)",
+                    "tracks": [
+                        1,
+                        11
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Schwarz, Gerard",
+                        "Danielson, Glen",
+                        "Wunrow, Therese Elder",
+                        "Seattle Symphony"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Walter Pison",
+                    "date": 1952,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 8.433,
+                            "tracks": [
+                                12
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Fantasy for English Horn, Harp & Strings",
+                    "tracks": [
+                        12
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Schwarz, Gerard",
+                        "Seattle Symphony"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Walter Pison",
+                    "date": 1929,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 4,
+                            "tracks": [
+                                13
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 6.5,
+                            "tracks": [
+                                14
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 3.75,
+                            "tracks": [
+                                14
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Suite for Orchestra",
+                    "tracks": [
+                        13,
+                        15
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Schwarz, Gerard",
+                        "Julliard String Quartet",
+                        "Seattle Symphony"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Walter Pison",
+                    "date": 1976,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 9.917,
+                            "tracks": [
+                                16
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Concerto for String Quartet, Wind Instruments, and Percussion",
+                    "tracks": [
+                        16
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Schwarz, Gerard",
+                        "Seattle Symphony"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Walter Pison",
+                    "date": 1958,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Pslam: \"O sing unto the Lord a new song\"",
+                            "subtracks": [],
+                            "timing": 5.433,
+                            "tracks": [
+                                17
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Prayer of David: \"Bow down thine ear, O Lord\"",
+                            "subtracks": [],
+                            "timing": 11.767,
+                            "tracks": [
+                                18
+                            ]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "Psalm and Prayer of David",
+                    "tracks": [
+                        17,
+                        18
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 68.117
+        }
+    ],
+    "id": 6,
+    "label": "",
+    "num discs": 1,
+    "title": "Piston: The Incredible Flutist"
+}

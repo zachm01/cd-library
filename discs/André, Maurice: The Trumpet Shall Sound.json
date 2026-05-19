@@ -1,0 +1,875 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "André, Maurice",
+        "Mackerras, Charles",
+        "Richter, Karl",
+        "Sacher, Paul",
+        "Stadlmair, Hans",
+        "Bilgram, Hedwig",
+        "Sillem, Mauritz",
+        "Collegium Musicum Zürich",
+        "English Chamber Orchestra",
+        "Münchener Bach-Orchester",
+        "Münchener Kammerorchester",
+        "Telemann, Georg Philipp",
+        "Händel, George Frederic",
+        "Haydn, Joseph",
+        "Haydn, Michael",
+        "Richter, Franz Xaver",
+        "Scarlatti, Alessandro",
+        "Vivaldi, Antonio",
+        "Viviani, Giovanni Buonaventura",
+        "Torelli, Giuseppe",
+        "Stölzel, Gottfried Heinrich"
+    ],
+    "copyright date": 2003,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Telemann, Georg Philipp",
+                        "André, Maurice",
+                        "Richter, Karl",
+                        "Bilgram, Hedwig",
+                        "Münchener Bach-Orchester"
+                    ],
+                    "catalogue num": 51,
+                    "composer": "Telemann, Georg Philipp",
+                    "date": 1710,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 2.217,
+                            "tracks": [
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 2.583,
+                            "tracks": [
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Largo",
+                            "subtracks": [],
+                            "timing": 3.017,
+                            "tracks": [
+                                3,
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 2.183,
+                            "tracks": [
+                                4,
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Concerto in E-minor",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "TWV"
+                },
+                {
+                    "artists": [
+                        "Telemann, Georg Philipp",
+                        "André, Maurice",
+                        "Richter, Karl",
+                        "Bilgram, Hedwig",
+                        "Münchener Bach-Orchester"
+                    ],
+                    "catalogue num": 51,
+                    "composer": "Telemann, Georg Philipp",
+                    "date": 0,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro ma non troppo",
+                            "subtracks": [],
+                            "timing": 5.867,
+                            "tracks": [
+                                5,
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Adagio",
+                            "subtracks": [],
+                            "timing": 2.3,
+                            "tracks": [
+                                6,
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 3.483,
+                            "tracks": [
+                                7,
+                                7
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Concerto in G major",
+                    "tracks": [
+                        5,
+                        7
+                    ],
+                    "catalogue": "TWV"
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Richter, Karl",
+                        "Bilgram, Hedwig",
+                        "Münchener Bach-Orchester"
+                    ],
+                    "catalogue num": 301,
+                    "composer": "Händel, George Frederic",
+                    "date": 1740,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Adagio",
+                            "subtracks": [],
+                            "timing": 1.9,
+                            "tracks": [
+                                8,
+                                8
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 1.583,
+                            "tracks": [
+                                9,
+                                9
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Sicilliano: Largo",
+                            "subtracks": [],
+                            "timing": 2.317,
+                            "tracks": [
+                                10,
+                                10
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Vivace",
+                            "subtracks": [],
+                            "timing": 1.183,
+                            "tracks": [
+                                11,
+                                11
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Concerto in B-flat major (HWV 301)",
+                    "tracks": [
+                        8,
+                        11
+                    ],
+                    "catalogue": "HWV"
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Richter, Karl",
+                        "Bilgram, Hedwig",
+                        "Münchener Bach-Orchester"
+                    ],
+                    "catalogue num": 302,
+                    "composer": "Händel, George Frederic",
+                    "date": 1740,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Vivace",
+                            "subtracks": [],
+                            "timing": 2.667,
+                            "tracks": [
+                                12,
+                                12
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Fuga: Allegro",
+                            "subtracks": [],
+                            "timing": 2.133,
+                            "tracks": [
+                                13,
+                                13
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 2.3,
+                            "tracks": [
+                                14,
+                                14
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 1.683,
+                            "tracks": [
+                                15,
+                                15
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Concerto in B-flat major (HWV 302a)",
+                    "tracks": [
+                        12,
+                        15
+                    ],
+                    "catalogue": "HWV"
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Richter, Karl",
+                        "Bilgram, Hedwig",
+                        "Münchener Bach-Orchester"
+                    ],
+                    "catalogue num": 287,
+                    "composer": "Händel, George Frederic",
+                    "date": 1705,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Grave",
+                            "subtracks": [],
+                            "timing": 2.967,
+                            "tracks": [
+                                16,
+                                16
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 1.717,
+                            "tracks": [
+                                17,
+                                17
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Sarabande: Largo",
+                            "subtracks": [],
+                            "timing": 1.85,
+                            "tracks": [
+                                18,
+                                18
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 1.867,
+                            "tracks": [
+                                19,
+                                19
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Concerto in G minor (HWV 287)",
+                    "tracks": [
+                        16,
+                        19
+                    ],
+                    "catalogue": "HWV"
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Richter, Karl",
+                        "Bilgram, Hedwig",
+                        "Münchener Bach-Orchester"
+                    ],
+                    "catalogue num": 51,
+                    "composer": "Telemann, Georg Philipp",
+                    "date": 1740,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Grave",
+                            "subtracks": [],
+                            "timing": 1.867,
+                            "tracks": [
+                                16,
+                                16
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 2.367,
+                            "tracks": [
+                                17,
+                                17
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 1.7,
+                            "tracks": [
+                                18,
+                                18
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Vivace",
+                            "subtracks": [],
+                            "timing": 2.717,
+                            "tracks": [
+                                19,
+                                19
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Concerto in C minor",
+                    "tracks": [
+                        20,
+                        23
+                    ],
+                    "catalogue": "TWV"
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Stadlmair, Hans",
+                        "Hilde Noe",
+                        "Münchener Kammerorchester"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Haydn, Joseph",
+                    "date": 1796,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 6.417,
+                            "tracks": [
+                                24,
+                                24
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 4.017,
+                            "tracks": [
+                                25,
+                                25
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 4.55,
+                            "tracks": [
+                                26,
+                                26
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Trumpet Concerto in E-flat major",
+                    "tracks": [
+                        24,
+                        26
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Stadlmair, Hans",
+                        "Hilde Noe",
+                        "Münchener Kammerorchester"
+                    ],
+                    "catalogue num": 104,
+                    "composer": "Haydn, Michael",
+                    "date": 1763,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Adagio",
+                            "subtracks": [],
+                            "timing": 7.317,
+                            "tracks": [
+                                27,
+                                27
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 3.3,
+                            "tracks": [
+                                28,
+                                28
+                            ]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "Trumpet Concerto in D major",
+                    "tracks": [
+                        27,
+                        28
+                    ],
+                    "catalogue": "MH"
+                }
+            ],
+            "total timing": 79.5
+        },
+        {
+            "number": 2,
+            "pieces": [
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Münchener Kammerorchester",
+                        "Stadlmair, Hans"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Richter, Franz Xaver",
+                    "date": 0,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro moderato",
+                            "subtracks": [],
+                            "timing": 5.083,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 5.483,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 4.45,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Trumpet Concerto in D major",
+                    "tracks": [
+                        1,
+                        3
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Hans-Martin Linde",
+                        "Sacher, Paul",
+                        "Collegium Musicum Zürich"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Scarlatti, Alessandro",
+                    "date": 1715,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Spirituoso",
+                            "subtracks": [],
+                            "timing": 1.083,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Adagio",
+                            "subtracks": [],
+                            "timing": 1.267,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 1.9,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Adagio",
+                            "subtracks": [],
+                            "timing": 1.483,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Presto",
+                            "subtracks": [],
+                            "timing": 2.033,
+                            "tracks": [
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Sinfonia no. 2 in D major for Flute, Trumpet and Strings",
+                    "tracks": [
+                        4,
+                        8
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Sillem, Mauritz"
+                    ],
+                    "catalogue num": 537,
+                    "composer": "Antonio Vivaldi",
+                    "date": 1720,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 3.083,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Largo",
+                            "subtracks": [],
+                            "timing": 0.933,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 3.485,
+                            "tracks": [
+                                11
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Concerto in C major for 2 Trumpets (RV 537)",
+                    "tracks": [
+                        9,
+                        11
+                    ],
+                    "catalogue": "RV"
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Bilgram, Hedwig"
+                    ],
+                    "catalogue num": 4,
+                    "composer": "Viviani, Giovanni Buonaventura",
+                    "date": 1678,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 1.583,
+                            "tracks": [
+                                12
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 1.333,
+                            "tracks": [
+                                13
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Presto",
+                            "subtracks": [],
+                            "timing": 1.4,
+                            "tracks": [
+                                14
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 1.6,
+                            "tracks": [
+                                15
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Adagio",
+                            "subtracks": [],
+                            "timing": 1.117,
+                            "tracks": [
+                                16
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Sonata Prima in C major for Trumpet and Organ",
+                    "tracks": [
+                        12,
+                        16
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Sillem, Mauritz",
+                        "Mackerras, Charles",
+                        "English Chamber Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Torelli, Giuseppe",
+                    "date": 1701,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 2.567,
+                            "tracks": [
+                                17
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Adagio - Presto - Adagio",
+                            "subtracks": [],
+                            "timing": 2.633,
+                            "tracks": [
+                                18
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 2.16,
+                            "tracks": [
+                                19
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Trumpet Concerto in D major",
+                    "tracks": [
+                        17,
+                        19
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Sillem, Mauritz",
+                        "Mackerras, Charles",
+                        "English Chamber Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Stölzel, Gottfried Heinrich",
+                    "date": 0,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 3.233,
+                            "tracks": [
+                                20
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 2.633,
+                            "tracks": [
+                                21
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 3.117,
+                            "tracks": [
+                                22
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Concerto in D major for Trumpet and String Orchestra",
+                    "tracks": [
+                        20,
+                        22
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Sillem, Mauritz",
+                        "Mackerras, Charles",
+                        "English Chamber Orchestra"
+                    ],
+                    "catalogue num": 44,
+                    "composer": "Telemann, Georg Philipp",
+                    "date": 1733,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Moderato e grazioso",
+                            "subtracks": [],
+                            "timing": 3.117,
+                            "tracks": [
+                                23
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 4.183,
+                            "tracks": [
+                                24
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 2.73,
+                            "tracks": [
+                                25
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Concerto Sonata for Trumpet, Strings and Continuo (TWV 44:1)",
+                    "tracks": [
+                        23,
+                        25
+                    ],
+                    "catalogue": "TWV"
+                },
+                {
+                    "artists": [
+                        "André, Maurice",
+                        "Franz Crass",
+                        "Richter, Karl",
+                        "Münchener Bach-Orchester"
+                    ],
+                    "catalogue num": 56,
+                    "composer": "Händel, George Frederic",
+                    "date": 1741,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 10.367,
+                            "tracks": [
+                                26
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Aria \"Sie schallt, die Posaun\"",
+                    "tracks": [
+                        26
+                    ],
+                    "catalogue": "HWV"
+                }
+            ],
+            "total timing": 74.583
+        }
+    ],
+    "id": 4,
+    "label": "Deutsche Grammphon",
+    "num discs": 2,
+    "title": "André, Maurice: The Trumpet Shall Sound"
+}

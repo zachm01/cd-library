@@ -1,0 +1,306 @@
+{
+    "RRD format": "",
+    "all artists": [
+        "Shostakovich, Dmitri",
+        "Tourtchak, Stépan",
+        "Kiev Opera Orchestra",
+        "Kiev Opera Choir",
+        "Kiev Opera Soloists"
+    ],
+    "copyright date": -1,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Shostakovich, Dmitri",
+                        "Tourtchak, Stépan",
+                        "Kiev Opera Orchestra",
+                        "Kiev Opera Choir",
+                        "Kiev Opera Soloists"
+                    ],
+                    "catalogue num": 114,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1962,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Scene 1",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Katerina Alone",
+                                    "timing": 6.117,
+                                    "track": 1
+                                },
+                                {
+                                    "subtitle": "Katerina and Boris",
+                                    "timing": 5.283,
+                                    "track": 2
+                                },
+                                {
+                                    "subtitle": "Katerina, Boris, Zinovy, and the Workers",
+                                    "timing": 7.167,
+                                    "track": 3
+                                },
+                                {
+                                    "subtitle": "Symphonic Entracte",
+                                    "timing": 2.717,
+                                    "track": 4
+                                }
+                            ],
+                            "timing": 21.283,
+                            "tracks": [
+                                1,
+                                4
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Scene 2",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Aksina, Sergei, the workers, then Katerina",
+                                    "timing": 9.167,
+                                    "track": 5
+                                },
+                                {
+                                    "subtitle": "Symphonic Entracte",
+                                    "timing": 1.967,
+                                    "track": 6
+                                }
+                            ],
+                            "timing": 11.133,
+                            "tracks": [
+                                5,
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scene 3",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Katerina and Boris",
+                                    "timing": 9.183,
+                                    "track": 7
+                                },
+                                {
+                                    "subtitle": "Katerina and Sergei",
+                                    "timing": 7.867,
+                                    "track": 8
+                                }
+                            ],
+                            "timing": 17.05,
+                            "tracks": [
+                                7,
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Katerina Ismailova (Act I)",
+                    "tracks": [
+                        1,
+                        8
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 49.567
+        },
+        {
+            "number": 2,
+            "pieces": [
+                {
+                    "artists": [
+                        "Shostakovich, Dmitri",
+                        "Tourtchak, Stépan",
+                        "Kiev Opera Orchestra",
+                        "Kiev Opera Choir",
+                        "Kiev Opera Soloists"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1962,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Scene 4",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Boris, then Sergei, Katerina",
+                                    "timing": 11.117,
+                                    "track": 1
+                                },
+                                {
+                                    "subtitle": "Boris and Katerina (scene of the poisoned mushrooms); the Workers",
+                                    "timing": 8.334,
+                                    "track": 2
+                                },
+                                {
+                                    "subtitle": "The priest, Boris, Katerina (Boris' death)",
+                                    "timing": 4.833,
+                                    "track": 3
+                                },
+                                {
+                                    "subtitle": "Symphonic Entracte",
+                                    "timing": 6.883,
+                                    "track": 4
+                                }
+                            ],
+                            "timing": 31.167,
+                            "tracks": [
+                                1,
+                                4
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Scene 5",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Katerina and Sergei",
+                                    "timing": 13.75,
+                                    "track": 5
+                                },
+                                {
+                                    "subtitle": "Katerina, Sergei, and Zinovy (murder of Zinovy)",
+                                    "timing": 6.25,
+                                    "track": 6
+                                }
+                            ],
+                            "timing": 20,
+                            "tracks": [
+                                5,
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "Katerina Ismailova (Act II)",
+                    "tracks": [
+                        1,
+                        6
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 51.267
+        },
+        {
+            "number": 3,
+            "pieces": [
+                {
+                    "artists": [
+                        "Shostakovich, Dmitri",
+                        "Tourtchak, Stépan",
+                        "Kiev Opera Orchestra",
+                        "Kiev Opera Choir",
+                        "Kiev Opera Soloists"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1962,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Scene 6",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Sergei, Katerina, the small peasant",
+                                    "timing": 5.567,
+                                    "track": 1
+                                },
+                                {
+                                    "subtitle": "Symphonic Entracte",
+                                    "timing": 1.433,
+                                    "track": 2
+                                }
+                            ],
+                            "timing": 7,
+                            "tracks": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Scene 7",
+                            "subtracks": [
+                                {
+                                    "subtitle": "At the Police Station",
+                                    "timing": 7.583,
+                                    "track": 3
+                                },
+                                {
+                                    "subtitle": "Symphonic Entracte",
+                                    "timing": 1.917,
+                                    "track": 4
+                                }
+                            ],
+                            "timing": 9.5,
+                            "tracks": [
+                                3,
+                                4
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scene 8",
+                            "subtracks": [
+                                {
+                                    "subtitle": "The Wedding Feast",
+                                    "timing": 11.117,
+                                    "track": 5
+                                }
+                            ],
+                            "timing": 11.117,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Scene 9 (Act IV)",
+                            "subtracks": [
+                                {
+                                    "subtitle": "The Old Convict, the Convicts, Katerina, Sergei",
+                                    "timing": 15.833,
+                                    "track": 6
+                                },
+                                {
+                                    "subtitle": "Sonyetka, Sergei, Katerina",
+                                    "timing": 8.917,
+                                    "track": 7
+                                },
+                                {
+                                    "subtitle": "Katerina's Monologue; Final Scene",
+                                    "timing": 13.4,
+                                    "track": 8
+                                }
+                            ],
+                            "timing": 38.15,
+                            "tracks": [
+                                6,
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Katerina Ismailova (Acts III & IV)",
+                    "tracks": [
+                        1,
+                        8
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 66
+        }
+    ],
+    "id": 13,
+    "label": "Le Chant du Monde",
+    "num discs": 3,
+    "title": "Katerina Ismailova"
+}

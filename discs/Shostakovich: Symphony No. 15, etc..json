@@ -1,0 +1,158 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Shostakovich, Dmitri",
+        "Jansons, Mariss",
+        "Rudy, Mikhail",
+        "London Philharmonic Orchestra"
+    ],
+    "copyright date": 1998,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Jansons, Mariss",
+                        "London Philharmonic Orchestra"
+                    ],
+                    "catalogue num": 141,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1971,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto",
+                            "subtracks": [],
+                            "timing": 8.05,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Adagio – Largo – Adagio – Largo",
+                            "subtracks": [],
+                            "timing": 17.05,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegretto",
+                            "subtracks": [],
+                            "timing": 3.983,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Adagio – Allegretto – Adagio – Allegretto",
+                            "subtracks": [],
+                            "timing": 16.667,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony No. 15 in A",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Rudy, Mikhail",
+                        "Jansons, Mariss",
+                        "London Philharmonic Orchestra"
+                    ],
+                    "catalogue num": 102,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1956,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 7.533,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 6.383,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "[Allegro]",
+                            "subtracks": [],
+                            "timing": 5.483,
+                            "tracks": [
+                                7
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Piano Concerto No. 2 in F",
+                    "tracks": [
+                        5,
+                        7
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Jansons, Mariss",
+                        "London Philharmonic Orchestra"
+                    ],
+                    "catalogue num": 97,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1955,
+                    "movements": [
+                        {
+                            "number": 8,
+                            "subtitle": "Romance",
+                            "subtracks": [],
+                            "timing": 6.233,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Folk Feast",
+                            "subtracks": [],
+                            "timing": 2.9,
+                            "tracks": [
+                                9
+                            ]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "Suite: The Gadly",
+                    "tracks": [
+                        8,
+                        9
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 74.933
+        }
+    ],
+    "id": 48,
+    "label": "EMI",
+    "num discs": 1,
+    "title": "Shostakovich: Symphony No. 15, etc."
+}

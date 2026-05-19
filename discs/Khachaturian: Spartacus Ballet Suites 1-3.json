@@ -1,0 +1,164 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Khachaturian, Aram",
+        "Järvi, Neeme",
+        "Scottish National Orchestra"
+    ],
+    "copyright date": 1991,
+    "id": 62,
+    "label": "Chandos",
+    "num discs": 1,
+    "title": "Khachaturian: Spartacus Ballet Suites 1-3",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 62.883,
+            "pieces": [
+                {
+                    "artists": [
+                        "Järvi, Neeme",
+                        "Scottish National Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Khachaturian, Aram",
+                    "date": 1957,
+                    "num movements": 5,
+                    "title": "Spartacus: Ballet Suite No. 1",
+                    "tracks": [1, 5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Introduction and Dance of Nymphs",
+                            "timing": 5.017,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Introduction, Adagio of Aegina and Harmodius",
+                            "timing": 7.033,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Variations of Aegina and Bacchanalia",
+                            "timing": 3.567,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Scene and Dance with Crotalums",
+                            "timing": 3.833,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Dance of the Gaditanian Maidens and Victory of Spartacus",
+                            "timing": 6.217,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Järvi, Neeme",
+                        "Scottish National Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Khachaturian, Aram",
+                    "date": 1957,
+                    "num movements": 4,
+                    "title": "Spartacus: Ballet Suite No. 2",
+                    "tracks": [6, 9],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Adagio of Spartacus and Phrygia",
+                            "timing": 8.817,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Entrance of the Merchants, Dance of a Roman Courtesan, General Dance",
+                            "timing": 5.5,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Entrance of Spartacus, Quarrel, Harmodius' Treachery",
+                            "timing": 4.917,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Dance of the Pirates",
+                            "timing": 1.233,
+                            "tracks": [9],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Järvi, Neeme",
+                        "Scottish National Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Khachaturian, Aram",
+                    "date": 1957,
+                    "num movements": 5,
+                    "title": "Spartacus: Ballet Suite No. 3",
+                    "tracks": [10, 14],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "The Market",
+                            "timing": 2.683,
+                            "tracks": [10],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Dance of a Greek Slave",
+                            "timing": 2.4,
+                            "tracks": [11],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Dance of an Egyptian Girl",
+                            "timing": 3.333,
+                            "tracks": [12],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Dance of Phrygia and the Parting Scene",
+                            "timing": 5.05,
+                            "tracks": [13],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Sword Dance of the Young Thracians",
+                            "timing": 2.55,
+                            "tracks": [14],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

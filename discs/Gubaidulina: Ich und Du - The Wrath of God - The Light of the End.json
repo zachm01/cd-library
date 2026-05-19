@@ -1,0 +1,89 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Gubaidulina, Sofia",
+        "Nelsons, Andris",
+        "Gewandhausorchester Leipzig",
+        "Repin, Vadim"
+    ],
+    "copyright date": 2021,
+    "id": 92,
+    "label": "Deutsche Grammophon",
+    "num discs": 1,
+    "title": "Gubaidulina: Ich und Du - The Wrath of God - The Light of the End",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 62.767,
+            "pieces": [
+                {
+                    "artists": [
+                        "Nelsons, Andris",
+                        "Gewandhausorchester Leipzig",
+                        "Repin, Vadim"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Gubaidulina, Sofia",
+                    "date": 2018,
+                    "num movements": 1,
+                    "title": "Dialog: Ich und Du",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 21.5,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Nelsons, Andris",
+                        "Gewandhausorchester Leipzig"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Gubaidulina, Sofia",
+                    "date": 2020,
+                    "num movements": 1,
+                    "title": "The Wrath of God",
+                    "tracks": [2],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 17.033,
+                            "tracks": [2],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Nelsons, Andris",
+                        "Gewandhausorchester Leipzig"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Gubaidulina, Sofia",
+                    "date": 2003,
+                    "num movements": 1,
+                    "title": "The Light of the End",
+                    "tracks": [3],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 24.233,
+                            "tracks": [3],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

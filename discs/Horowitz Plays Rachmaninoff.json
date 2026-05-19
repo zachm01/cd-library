@@ -1,0 +1,157 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Rachmaninoff, Sergei",
+        "Horowitz, Vladimir", 
+        "Reiner, Fritz",
+        "RCA Victor Symphony Orchestra"
+    ],
+    "copyright date": 1989,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Horowitz, Vladimir"
+                    ],
+                    "catalogue num": 36,
+                    "composer": "Rachmaninoff, Sergei",
+                    "date": 1913,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro agitato",
+                            "subtracks": [],
+                            "timing": 9.35,
+                            "tracks": [1]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Non allegro; Lento",
+                            "subtracks": [],
+                            "timing": 6.517,
+                            "tracks": [2]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "L'istesso tempo; Allegro molto",
+                            "subtracks": [],
+                            "timing": 6.2,
+                            "tracks": [3]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Sonata No. 2",
+                    "tracks": [1, 3],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Horowitz, Vladimir"
+                    ],
+                    "catalogue num": 16,
+                    "composer": "Rachmaninoff, Sergei",
+                    "date": 1896,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "No. 2 in E-Flat Minor",
+                            "subtracks": [],
+                            "timing": 3.05,
+                            "tracks": [4]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Moments musicale",
+                    "tracks": [4],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Horowitz, Vladimir"
+                    ],
+                    "catalogue num": 32,
+                    "composer": "Rachmaninoff, Sergei",
+                    "date": 1910,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "No. 5 in G",
+                            "subtracks": [],
+                            "timing": 3.333,
+                            "tracks": [5]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "13 Preludes",
+                    "tracks": [5],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Horowitz, Vladimir"
+                    ],
+                    "catalogue num": 18,
+                    "composer": "Rachmaninoff, Sergei",
+                    "date": 1911,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 4.317,
+                            "tracks": [6]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Polka V.R.",
+                    "tracks": [6],
+                    "catalogue": "TSN ii"
+                },
+                {
+                    "artists": [
+                        "Horowitz, Vladimir",
+                        "Reiner, Fritz", 
+                        "RCA Victor Symphony Orchestra"
+                    ],
+                    "catalogue num": 30,
+                    "composer": "Rachmaninoff, Sergei",
+                    "date": 1909,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro ma non tanto",
+                            "subtracks": [],
+                            "timing": 15.367,
+                            "tracks": [7]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Intermezzo: Adagio",
+                            "subtracks": [],
+                            "timing": 9.767,
+                            "tracks": [8]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Finale: Alla breve",
+                            "subtracks": [],
+                            "timing": 12.183,
+                            "tracks": [9]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Piano Concerto No. 3",
+                    "tracks": [7, 9],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 70.567
+        }
+    ],
+    "id": 61,
+    "label": "RCA Victor",
+    "num discs": 1,
+    "title": "Horowitz Plays Rachmaninoff"
+}

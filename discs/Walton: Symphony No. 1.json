@@ -1,0 +1,127 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "William Walton",
+        "Previn, André",
+        "Royal Philharmonic Orchestra"
+    ],
+    "copyright date": 1987,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Previn, André",
+                        "Royal Philharmonic Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "William Walton",
+                    "date": 1935,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro assai",
+                            "subtracks": [],
+                            "timing": 14.3,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Presto, con malizia",
+                            "subtracks": [],
+                            "timing": 6.133,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Andante con maunconia",
+                            "subtracks": [],
+                            "timing": 11.9,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Maestoso",
+                            "subtracks": [],
+                            "timing": 12.8,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony No. 1 in B-flat minor",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Previn, André",
+                        "Royal Philharmonic Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "William Walton",
+                    "date": 1937,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 6.467,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Crown Imperial",
+                    "tracks": [
+                        5
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Previn, André",
+                        "Royal Philharmonic Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "William Walton",
+                    "date": 1953,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 7.15,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Orb & Scepter",
+                    "tracks": [
+                        6
+                    ],
+                    "catalogue": ""
+                }
+            ],
+            "total timing": 58.75
+        }
+    ],
+    "id": 55,
+    "label": "Telarc",
+    "num discs": 1,
+    "title": "Walton: Symphony No. 1"
+}

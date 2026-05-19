@@ -1,0 +1,99 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Respighi, Ottorino",
+        "Muti, Riccardo",
+        "Philadelphia Orchestra"
+    ],
+    "copyright date": 1985,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Muti, Riccardo",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": 141,
+                    "composer": "Respighi, Ottorino",
+                    "date": 1924,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 21.983,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Pines of Rome",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": "P"
+                },
+                {
+                    "artists": [
+                        "Muti, Riccardo",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": 106,
+                    "composer": "Respighi, Ottorino",
+                    "date": 1916,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 15.317,
+                            "tracks": [
+                                2
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Fountains of Rome",
+                    "tracks": [
+                        2
+                    ],
+                    "catalogue": "P"
+                },
+                {
+                    "artists": [
+                        "Muti, Riccardo",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": 157,
+                    "composer": "Respighi, Ottorino",
+                    "date": 1928,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 23.8,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Feste Romane",
+                    "tracks": [
+                        3
+                    ],
+                    "catalogue": "P"
+                }
+            ],
+            "total timing": 61.1
+        }
+    ],
+    "id": 11,
+    "label": "EMI",
+    "num discs": 1,
+    "title": "Respighi: Pini di Roma: Fontane di Roma: Feste Romane"
+}

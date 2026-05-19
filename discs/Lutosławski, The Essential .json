@@ -1,0 +1,406 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Argerich, Martha",
+        "Freire, Nelson",
+        "Schiff, Heinrich",
+        "Brunner, Eduard",
+        "Holliger, Heinz",
+        "Holliger, Ursula",
+        "Fischer-Dieskau, Dietrich",
+        "Lutosławski, Witold",
+        "Rowicki, Witold",
+        "Berliner Philharmoniker",
+        "Bavarian Radio Symphony Orchestra",
+        "Warsaw National Philharmonic"
+    ],
+    "copyright date": 1999,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Berliner Philharmoniker",
+                        "Lutosławski, Witold"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Lutosławski, Witold",
+                    "date": 1983,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 30.2,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Symphony No. 3",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Warsaw National Philharmonic",
+                        "Rowicki, Witold"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Lutosławski, Witold",
+                    "date": 1954,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Intrada: Allegro maestoso",
+                            "subtracks": [],
+                            "timing": 7.783,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Capriccio notturno e arioso: Vivace – Stesso movimento",
+                            "subtracks": [],
+                            "timing": 5.783,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Passacaglia, Toccaata e Chorale: Andante con moto – Allegro giusto (alla breve) – Molto Allegro (quasi alla breve) – Presto",
+                            "subtracks": [],
+                            "timing": 5.783,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Concerto for Orchestra",
+                    "tracks": [
+                        2,
+                        4
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Warsaw National Philharmonic",
+                        "Rowicki, Witold"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Lutosławski, Witold",
+                    "date": 1961,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Movement I",
+                            "subtracks": [],
+                            "timing": 3.283,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Movement II",
+                            "subtracks": [],
+                            "timing": 1.717,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Movement III",
+                            "subtracks": [],
+                            "timing": 3.033,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Movement IV",
+                            "subtracks": [],
+                            "timing": 4.5,
+                            "tracks": [
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Venetian Games",
+                    "tracks": [
+                        5,
+                        8
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Argerich, Martha",
+                        "Freire, Nelson"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Lutosławski, Witold",
+                    "date": 1941,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 5.133,
+                            "tracks": [
+                                9
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Variations on a Theme by Paganini",
+                    "tracks": [
+                        9
+                    ],
+                    "catalogue": ""
+                }
+            ],
+            "total timing": 78.783
+        },
+        {
+            "number": 2,
+            "pieces": [
+                {
+                    "artists": [
+                        "Schiff, Heinrich",
+                        "Bavarian Radio Symphony Orchestra",
+                        "Lutosławski, Witold"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Lutosławski, Witold",
+                    "date": 1970,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 22.867,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Cello Concerto",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Brunner, Eduard",
+                        "Bavarian Radio Symphony Orchestra",
+                        "Lutosławski, Witold"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Lutosławski, Witold",
+                    "date": 1955,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro molto",
+                            "subtracks": [],
+                            "timing": 0.933,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andantino",
+                            "subtracks": [],
+                            "timing": 2.65,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro giocoso",
+                            "subtracks": [],
+                            "timing": 1.267,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 3.167,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Allegro molto – Presto",
+                            "subtracks": [],
+                            "timing": 1.5,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Dance Preludes",
+                    "tracks": [
+                        2,
+                        6
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Holliger, Heinz",
+                        "Holliger, Ursula",
+                        "Bavarian Radio Symphony Orchestra",
+                        "Lutosławski, Witold"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Lutosławski, Witold",
+                    "date": 1980,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Rapsodico",
+                            "subtracks": [],
+                            "timing": 4.8,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Dolente",
+                            "subtracks": [],
+                            "timing": 6.833,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Marciale e grotesco",
+                            "subtracks": [],
+                            "timing": 6.6,
+                            "tracks": [
+                                9
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Concerto for oboe, harp, and chamber orchestra",
+                    "tracks": [
+                        7,
+                        9
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Fischer-Dieskau, Dietrich",
+                        "Berliner Philharmoniker",
+                        "Lutosławski, Witold"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Lutosławski, Witold",
+                    "date": 1975,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 14.067,
+                            "tracks": [
+                                10
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Les espaces du sommeil",
+                    "tracks": [
+                        10
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Warsaw National Philharmonic",
+                        "Rowicki, Witold"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Lutosławski, Witold",
+                    "date": 1958,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Prologue",
+                            "subtracks": [],
+                            "timing": 4.317,
+                            "tracks": [
+                                11
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Métamorphoses",
+                            "subtracks": [],
+                            "timing": 4.517,
+                            "tracks": [
+                                12
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Apogée",
+                            "subtracks": [],
+                            "timing": 0.617,
+                            "tracks": [
+                                13
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Épilogue",
+                            "subtracks": [],
+                            "timing": 4.483,
+                            "tracks": [
+                                14
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Funeral Music for string orchestra: Bartók, Béla in memoriam",
+                    "tracks": [
+                        11,
+                        14
+                    ],
+                    "catalogue": ""
+                }
+            ],
+            "total timing": 79.867
+        }
+    ],
+    "id": 47,
+    "label": "Philips",
+    "num discs": 2,
+    "title": "The Essential Lutosławski"
+}

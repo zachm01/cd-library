@@ -1,0 +1,201 @@
+{
+    "RRD format": "AAD",
+    "all artists": [
+        "Händel, George Frederic",
+        "Boulez, Pierre",
+        "New York Philharmonic"
+    ],
+    "copyright date": 1980,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Boulez, Pierre",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue num": 348,
+                    "composer": "George Frederic Handel",
+                    "date": 1717,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Ouverture",
+                            "subtracks": [],
+                            "timing": 4.317,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 2.683,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Andnate",
+                            "subtracks": [],
+                            "timing": 2.217,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "(Allegro da capo)",
+                            "subtracks": [],
+                            "timing": 2.667,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Air",
+                            "subtracks": [],
+                            "timing": 2.633,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Bourrée",
+                            "subtracks": [],
+                            "timing": 1.133,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Hornpipe",
+                            "subtracks": [],
+                            "timing": 1.5,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "Minuet",
+                            "subtracks": [],
+                            "timing": 3.883,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 9,
+                            "subtitle": "Aria",
+                            "subtracks": [],
+                            "timing": 2.7,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 10,
+                            "subtitle": "[Allegro]",
+                            "subtracks": [],
+                            "timing": 2.383,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 11,
+                            "subtitle": "Alla Hornpipe",
+                            "subtracks": [],
+                            "timing": 3.6,
+                            "tracks": [
+                                11
+                            ]
+                        }
+                    ],
+                    "num movements": 11,
+                    "title": "Water Music Suite",
+                    "tracks": [
+                        1,
+                        11
+                    ],
+                    "catalogue": "HWV"
+                },
+                {
+                    "artists": [
+                        "Boulez, Pierre",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue num": 351,
+                    "composer": "George Frederic Handel",
+                    "date": 1749,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Ouverture",
+                            "subtracks": [],
+                            "timing": 8.533,
+                            "tracks": [
+                                12
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Bourrée",
+                            "subtracks": [],
+                            "timing": 1.167,
+                            "tracks": [
+                                13
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "La Paix: Largo alla siciliana",
+                            "subtracks": [],
+                            "timing": 4.55,
+                            "tracks": [
+                                14
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Menuet I; Menuet II",
+                            "subtracks": [],
+                            "timing": 4.383,
+                            "tracks": [
+                                15
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "La Réjouissance: Allegro",
+                            "subtracks": [],
+                            "timing": 2,
+                            "tracks": [
+                                16
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Music for the Royal Fireworks",
+                    "tracks": [
+                        12,
+                        16
+                    ],
+                    "catalogue": "HWV"
+                }
+            ],
+            "total timing": 50.35
+        }
+    ],
+    "id": 31,
+    "label": "CBS",
+    "num discs": 1,
+    "title": "Handel: Water Music Suite"
+}

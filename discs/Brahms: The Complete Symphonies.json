@@ -1,0 +1,243 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Brahms, Johannes",
+        "Karajan, Herbert von",
+        "Berliner Philharmoniker"
+    ],
+    "copyright date": 1978,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Karajan, Herbert von",
+                        "Berliner Philharmoniker"
+                    ],
+                    "composer": "Brahms, Johannes",
+                    "catalogue": "opus",
+                    "catalogue num": 68,
+                    "date": 1876,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Un poco sostenuto - Allegro",
+                            "subtracks": [],
+                            "timing": 13.25,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante sostenuto",
+                            "subtracks": [],
+                            "timing": 8.95,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Un poco Allegretto e grazioso",
+                            "subtracks": [],
+                            "timing": 4.717,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Adagio - Più Andante - Allegro non troppo, ma con brio",
+                            "subtracks": [],
+                            "timing": 17.433,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony no. 1 in C minor (Op. 68)",
+                    "tracks": [
+                        1,
+                        4
+                    ]
+                },
+                {
+                    "artists": [
+                        "Karajan, Herbert von",
+                        "Berliner Philharmoniker"
+                    ],
+                    "composer": "Brahms, Johannes",
+                    "catalogue": "opus",
+                    "catalogue num": 90,
+                    "date": 1883,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro con brio",
+                            "subtracks": [],
+                            "timing": 9.933,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 7.7,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Poco Allegretto",
+                            "subtracks": [],
+                            "timing": 6.067,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 8.683,
+                            "tracks": [
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony no. 3 in F major (Op. 90)",
+                    "tracks": [
+                        5,
+                        8
+                    ]
+                }
+            ],
+            "total timing": 76.8
+        },
+        {
+            "number": 2,
+            "pieces": [
+                {
+                    "artists": [
+                        "Karajan, Herbert von",
+                        "Berliner Philharmoniker"
+                    ],
+                    "composer": "Brahms, Johannes",
+                    "catalogue": "opus",
+                    "catalogue num": 73,
+                    "date": 1877,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro non troppo",
+                            "subtracks": [],
+                            "timing": 14.9,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Adagio non troppo - L'istesso tempo, ma grazioso",
+                            "subtracks": [],
+                            "timing": 10.36,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegretto grazioso (Quasi Andantino) - Presto ma non assai - Tempo I",
+                            "subtracks": [],
+                            "timing": 4.983,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro con spirito",
+                            "subtracks": [],
+                            "timing": 8.617,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony no. 2 in D major (Op. 73)",
+                    "tracks": [
+                        1,
+                        4
+                    ]
+                },
+                {
+                    "artists": [
+                        "Karajan, Herbert von",
+                        "Berliner Philharmoniker"
+                    ],
+                    "composer": "Brahms, Johannes",
+                    "catalogue": "opus",
+                    "catalogue num": 98,
+                    "date": 1885,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro non troppo",
+                            "subtracks": [],
+                            "timing": 12.8,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante moderato",
+                            "subtracks": [],
+                            "timing": 11.083,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro giocoso - Poco meno presto - Tempo I",
+                            "subtracks": [],
+                            "timing": 6.067,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro energico e passionato - Più Allegro",
+                            "subtracks": [],
+                            "timing": 9.95,
+                            "tracks": [
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony no. 4 in E minor (Op. 98)",
+                    "tracks": [
+                        5,
+                        8
+                    ]
+                }
+            ],
+            "total timing": 78.933
+        }
+    ],
+    "id": 27,
+    "label": "Deutsche Grammophon",
+    "num discs": 2,
+    "title": "Brahms: The Complete Symphonies"
+}

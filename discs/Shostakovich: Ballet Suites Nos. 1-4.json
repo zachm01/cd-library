@@ -1,0 +1,282 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Shostakovich, Dmitri",
+        "Yablonsky, Dmitri",
+        "Russian Philharmonic Orchestra"
+    ],
+    "copyright date": 2004,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Yablonsky, Dmitri",
+                        "Russian Philharmonic Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1949,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Lyric Waltz (from Suite for Jazz Orchestra No. 1)",
+                            "subtracks": [],
+                            "timing": 2.167,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Dance (Pizzicato) (from The Limpid Stream)",
+                            "subtracks": [],
+                            "timing": 1.317,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Romance (from The Limpid Stream)",
+                            "subtracks": [],
+                            "timing": 2.767,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Polka (from The Limpid Stream)",
+                            "subtracks": [],
+                            "timing": 1.783,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Waltz-scherzo (from The Bolt)",
+                            "subtracks": [],
+                            "timing": 3.083,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Galop (from The Limpid Stream)",
+                            "subtracks": [],
+                            "timing": 1.683,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 6,
+                    "title": "Ballet Suite No. 1",
+                    "tracks": [
+                        1,
+                        6
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Yablonsky, Dmitri",
+                        "Russian Philharmonic Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1951,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Waltz (from The Limpid Stream)",
+                            "subtracks": [],
+                            "timing": 2.283,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Adagio (from The Limpid Stream)",
+                            "subtracks": [],
+                            "timing": 7.033,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Polka (from Suite for Jazz Orchestra No. 1)",
+                            "subtracks": [],
+                            "timing": 2.167,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Sentimental Romance (from The Tale of a Priest and His Servant Balda",
+                            "subtracks": [],
+                            "timing": 2.733,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Spring Waltz (from Michurin)",
+                            "subtracks": [],
+                            "timing": 2.283,
+                            "tracks": [
+                                11
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Finale (Galop) (from The Limpid Stream)",
+                            "subtracks": [],
+                            "timing": 3.45,
+                            "tracks": [
+                                12
+                            ]
+                        }
+                    ],
+                    "num movements": 6,
+                    "title": "Ballet Suite No. 2",
+                    "tracks": [
+                        7,
+                        12
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Yablonsky, Dmitri",
+                        "Russian Philharmonic Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1952,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Waltz (from The Human Comedy)",
+                            "subtracks": [],
+                            "timing": 2.583,
+                            "tracks": [
+                                13
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Gavotte (from the Human Comedy)",
+                            "subtracks": [],
+                            "timing": 2.183,
+                            "tracks": [
+                                14
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Dance (from The Limpid Stream)",
+                            "subtracks": [],
+                            "timing": 2.083,
+                            "tracks": [
+                                15
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Elegy (from The Human Comedy)",
+                            "subtracks": [],
+                            "timing": 3.583,
+                            "tracks": [
+                                16
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Waltz (from The Limpid Stream)",
+                            "subtracks": [],
+                            "timing": 1.833,
+                            "tracks": [
+                                17
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Galop (from The Limpid Stream)",
+                            "subtracks": [],
+                            "timing": 3.05,
+                            "tracks": [
+                                18
+                            ]
+                        }
+                    ],
+                    "num movements": 6,
+                    "title": "Ballet Suite No. 3",
+                    "tracks": [
+                        13,
+                        18
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Yablonsky, Dmitri",
+                        "Russian Philharmonic Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1953,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Prelude (Variations) (from The Limpid Stream)",
+                            "subtracks": [],
+                            "timing": 5.05,
+                            "tracks": [
+                                19
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Waltz (from The Song of the Great Rivers",
+                            "subtracks": [],
+                            "timing": 3.517,
+                            "tracks": [
+                                20
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scherzo (from The Bolt)",
+                            "subtracks": [],
+                            "timing": 3.633,
+                            "tracks": [
+                                21
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Ballet Suite No. 4",
+                    "tracks": [
+                        19,
+                        21
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 60.167
+        }
+    ],
+    "id": 42,
+    "label": "Naxos",
+    "num discs": 1,
+    "title": "Shostakovich: Ballet Suites Nos. 1-4"
+}

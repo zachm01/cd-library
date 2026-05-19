@@ -1,0 +1,241 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Kodály, Zoltán",
+        "Järvi, Neeme",
+        "Chicago Symphony Orchestra"
+    ],
+    "copyright date": 1990,
+    "id": 103,
+    "label": "Chandos",
+    "num discs": 1,
+    "title": "Kodály: Háry János Suite etc.",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 66.517,
+            "pieces": [
+                {
+                    "artists": [
+                        "Järvi, Neeme",
+                        "Chicago Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": -1,
+                    "composer": "Kodály, Zoltán",
+                    "date": 1933,
+                    "num movements": 1,
+                    "title": "Dances of Galánta",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 16.533,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Järvi, Neeme",
+                        "Chicago Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": -1,
+                    "composer": "Kodály, Zoltán",
+                    "date": 1927,
+                    "num movements": 6,
+                    "title": "Háry János Suite",
+                    "tracks": [2, 7],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Prelude: the Fairy Tale begins",
+                            "timing": 3.167,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Viennese Musical Clock",
+                            "timing": 2.25,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Song",
+                            "timing": 6.283,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "The Battle and Defeat of Napoleon",
+                            "timing": 4.533,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Intermezzo",
+                            "timing": 5.017,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Entrance of the Emperor and his court",
+                            "timing": 3.117,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Järvi, Neeme",
+                        "Chicago Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": -1,
+                    "composer": "Kodály, Zoltán",
+                    "date": 1941,
+                    "num movements": 18,
+                    "title": "Variations on a Hungarian Folksong (The Peacock)",
+                    "tracks": [8, 25],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Theme. Moderato",
+                            "timing": 3.15,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Variation i: Con brio",
+                            "timing": 0.35,
+                            "tracks": [9],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Variation ii",
+                            "timing": 0.35,
+                            "tracks": [10],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Variation iii: Più mosso",
+                            "timing": 0.283,
+                            "tracks": [11],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Variation iv: Poco calmato",
+                            "timing": 0.367,
+                            "tracks": [12],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Variation v: Appassionato",
+                            "timing": 0.8,
+                            "tracks": [13],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Variation vi: Calmato",
+                            "timing": 0.767,
+                            "tracks": [14],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "Variation vii: Vivo",
+                            "timing": 0.383,
+                            "tracks": [15],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 9,
+                            "subtitle": "Variation viii: Più vivo",
+                            "timing": 0.617,
+                            "tracks": [16],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 10,
+                            "subtitle": "Variation ix",
+                            "timing": 1.233,
+                            "tracks": [17],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 11,
+                            "subtitle": "Variation x: Molto vivo",
+                            "timing": 0.717,
+                            "tracks": [18],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 12,
+                            "subtitle": "Variation xi: Andante espressivo",
+                            "timing": 2.617,
+                            "tracks": [19],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 13,
+                            "subtitle": "Variation xii: Adagio",
+                            "timing": 3.617,
+                            "tracks": [20],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 14,
+                            "subtitle": "Variation xiii: Tempo di Marcia funebre",
+                            "timing": 1.7,
+                            "tracks": [21],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 15,
+                            "subtitle": "Variation xiv: Andante, poco rubato",
+                            "timing": 2.417,
+                            "tracks": [22],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 16,
+                            "subtitle": "Variation xv: Allegro giocoso",
+                            "timing": 0.6,
+                            "tracks": [23],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 17,
+                            "subtitle": "Variation xvi: Maestoso",
+                            "timing": 1.167,
+                            "tracks": [24],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 18,
+                            "subtitle": "Finale. Vivace",
+                            "timing": 4.067,
+                            "tracks": [25],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

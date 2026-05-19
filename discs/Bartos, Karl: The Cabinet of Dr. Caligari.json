@@ -1,0 +1,373 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Bartos, Karl",
+        "Black, Mathias",
+        "Ensemble of Sounds"
+    ],
+    "copyright date": 2024,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Bartos, Karl",
+                        "Black, Mathias",
+                        "The Ensemble of Sounds"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Bartos, Karl",
+                    "date": 2024,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Prologue",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Scary Memories",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Atonal Floating",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Full of Life",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "In the Town Hall",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "At the Funfair",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "A Mysterious Crime",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "At the Funfair 2",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 9,
+                            "subtitle": "The Cabinet of Dr. Caligari",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 10,
+                            "subtitle": "Jane's Theme",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 11,
+                            "subtitle": "March Grotesque 2",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                11
+                            ]
+                        },
+                        {
+                            "number": 12,
+                            "subtitle": "Jane's Theme 2",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                12
+                            ]
+                        },
+                        {
+                            "number": 13,
+                            "subtitle": "Shadows",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                13
+                            ]
+                        },
+                        {
+                            "number": 14,
+                            "subtitle": "Tragic Message",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                14
+                            ]
+                        },
+                        {
+                            "number": 15,
+                            "subtitle": "Suspicion",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                15
+                            ]
+                        },
+                        {
+                            "number": 16,
+                            "subtitle": "Tragic Message 2",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                16
+                            ]
+                        },
+                        {
+                            "number": 17,
+                            "subtitle": "The Plan",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                17
+                            ]
+                        },
+                        {
+                            "number": 18,
+                            "subtitle": "A Dark Figure",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                18
+                            ]
+                        },
+                        {
+                            "number": 19,
+                            "subtitle": "Caligari's Theme",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                19
+                            ]
+                        },
+                        {
+                            "number": 20,
+                            "subtitle": "Arrest of the Suspect",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                20
+                            ]
+                        },
+                        {
+                            "number": 21,
+                            "subtitle": "Caligari's Theme 2",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                21
+                            ]
+                        },
+                        {
+                            "number": 22,
+                            "subtitle": "Worried Jane",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                22
+                            ]
+                        },
+                        {
+                            "number": 23,
+                            "subtitle": "Interrogation",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                23
+                            ]
+                        },
+                        {
+                            "number": 24,
+                            "subtitle": "Jane's Fear",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                24
+                            ]
+                        },
+                        {
+                            "number": 25,
+                            "subtitle": "Francis's Observation",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                25
+                            ]
+                        },
+                        {
+                            "number": 26,
+                            "subtitle": "Cesare's Attack and Escape",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                26
+                            ]
+                        },
+                        {
+                            "number": 27,
+                            "subtitle": "Safe and Sound",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                27
+                            ]
+                        },
+                        {
+                            "number": 28,
+                            "subtitle": "Francis at a Loss",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                28
+                            ]
+                        },
+                        {
+                            "number": 29,
+                            "subtitle": "Caligari's Deception",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                29
+                            ]
+                        },
+                        {
+                            "number": 30,
+                            "subtitle": "Lunatic Asylum",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                30
+                            ]
+                        },
+                        {
+                            "number": 31,
+                            "subtitle": "In Search of the Truth",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                31
+                            ]
+                        },
+                        {
+                            "number": 32,
+                            "subtitle": "Out in the Field",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                32
+                            ]
+                        },
+                        {
+                            "number": 33,
+                            "subtitle": "The Director Rants and Rages",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                33
+                            ]
+                        },
+                        {
+                            "number": 34,
+                            "subtitle": "Scary Memories 2",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                34
+                            ]
+                        },
+                        {
+                            "number": 35,
+                            "subtitle": "Who's Mad Here?",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                35
+                            ]
+                        },
+                        {
+                            "number": 36,
+                            "subtitle": "Francis Rants and Rages",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                35
+                            ]
+                        },
+                        {
+                            "number": 37,
+                            "subtitle": "Epilogue",
+                            "subtracks": [],
+                            "timing": -1,
+                            "tracks": [
+                                37
+                            ]
+                        }
+                    ],
+                    "num movements": 7,
+                    "title": "The Cabinet of Dr. Caligari: Narrative Film Music and Sound Design for Robert Wiene's Psychological Thriller",
+                    "tracks": [
+                        1,
+                        37
+                    ],
+                    "catalogue": ""
+                }
+            ],
+            "total timing": -1
+        }
+    ],
+    "id": 25,
+    "label": "Electric Music",
+    "num discs": 1,
+    "title": "Bartos, Karl - The Cabinet of Dr. Caligari"
+}

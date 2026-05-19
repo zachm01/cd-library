@@ -1,0 +1,74 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Abbado, Claudio",
+        "Berliner Philharmoniker"
+    ],
+    "copyright date": 1991,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Abbado, Claudio",
+                        "Berliner Philharmoniker"
+                    ],
+                    "catalogue num": 11,
+                    "composer": "Mahler, Gustav",
+                    "date": 1888,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Langsam. Schleppend. Wie ein Naturlaut – Im Anfang sehr gemächlich",
+                            "subtracks": [],
+                            "timing": 16.217,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Kräftig bewegt, doch nicht zu schnell – Trio. Recht gemächlich",
+                            "subtracks": [],
+                            "timing": 7.383,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Feierlich und gemessen, ohne zu schleppen",
+                            "subtracks": [],
+                            "timing": 10.533,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Stürmich bewegt",
+                            "subtracks": [],
+                            "timing": 20.583,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony No. 1",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "GMW"
+                }
+            ],
+            "total timing": 54.717
+        }
+    ],
+    "id": 34,
+    "label": "Deutsche Grammophon",
+    "num discs": 1,
+    "title": "Mahler: Symphohnie Nr. 1"
+}

@@ -1,0 +1,154 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Strauss, Richard",
+        "Reiner, Fritz",
+        "Chicago Symphony Orchestra"
+    ],
+    "copyright date": 1993,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Reiner, Fritz",
+                        "Chicago Symphony Orchestra"
+                    ],
+                    "catalogue num": 176,
+                    "composer": "Strauss, Richard",
+                    "date": 1896,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Sunrise",
+                                    "timing": 1.517,
+                                    "track": 1
+                                },
+                                {
+                                    "subtitle": "Of the people of the unseen world",
+                                    "timing": 3.167,
+                                    "track": 2
+                                },
+                                {
+                                    "subtitle": "Of the great longing",
+                                    "timing": 1.75,
+                                    "track": 3
+                                },
+                                {
+                                    "subtitle": "Of joys and passions",
+                                    "timing": 1.85,
+                                    "track": 4
+                                },
+                                {
+                                    "subtitle": "Dirge",
+                                    "timing": 2.25,
+                                    "track": 5
+                                },
+                                {
+                                    "subtitle": "Of science",
+                                    "timing": 4,
+                                    "track": 6
+                                },
+                                {
+                                    "subtitle": "The convalescent",
+                                    "timing": 5.017,
+                                    "track": 7
+                                },
+                                {
+                                    "subtitle": "Dance Song and Night Song",
+                                    "timing": 7.6,
+                                    "track": 8
+                                },
+                                {
+                                    "subtitle": "Night Wanderer's Song",
+                                    "timing": 4.65,
+                                    "track": 9
+                                }
+                            ],
+                            "timing": 31.8,
+                            "tracks": [
+                                1,
+                                9
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Also Sprach Zarathustra",
+                    "tracks": [
+                        1,
+                        9
+                    ],
+                    "catalogue": "TrV"
+                },
+                {
+                    "artists": [
+                        "Reiner, Fritz",
+                        "Chicago Symphony Orchestra"
+                    ],
+                    "catalogue num": 40,
+                    "composer": "Strauss, Richard",
+                    "date": 1898,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [
+                                {
+                                    "subtitle": "The hero",
+                                    "timing": 4.233,
+                                    "track": 10
+                                },
+                                {
+                                    "subtitle": "The hero's adversaries",
+                                    "timing": 3.083,
+                                    "track": 11
+                                },
+                                {
+                                    "subtitle": "The hero's companion",
+                                    "timing": 11.95,
+                                    "track": 12
+                                },
+                                {
+                                    "subtitle": "The hero's battlefield",
+                                    "timing": 8.717,
+                                    "track": 13
+                                },
+                                {
+                                    "subtitle": "The hero's works of peace",
+                                    "timing": 4.667,
+                                    "track": 14
+                                },
+                                {
+                                    "subtitle": "The hero's retreat from the world and fulfillment",
+                                    "timing": 10.817,
+                                    "track": 15
+                                }
+                            ],
+                            "timing": 43.467,
+                            "tracks": [
+                                10,
+                                15
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Ein Heldenleben",
+                    "tracks": [
+                        10,
+                        15
+                    ],
+                    "catalogue": "TrV"
+                }
+            ],
+            "total timing": 75.433
+        }
+    ],
+    "id": 49,
+    "label": "RCA",
+    "num discs": 1,
+    "title": "Strauss, Richard in High Fidelity"
+}

@@ -1,0 +1,90 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Copland, Aaron",
+        "Bernstein, Leonard",
+        "New York Philharmonic",
+        "Smith, Philip",
+        "Stacy, Thomas"
+    ],
+    "copyright date": 1986,
+    "id": 68,
+    "label": "Deutsche Grammophon",
+    "num discs": 1,
+    "title": "Copland: Symphony No. 3 • Quiet City",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 54.167,
+            "pieces": [
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Copland, Aaron",
+                    "date": 1946,
+                    "num movements": 4,
+                    "title": "Symphony No. 3",
+                    "tracks": [1, 4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Molto moderato",
+                            "timing": 11.017,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro molto",
+                            "timing": 8.067,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Andantino quasi allegretto",
+                            "timing": 10.333,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Molto deliberato (Fanfare) – Allegro risoluto",
+                            "timing": 13.9,
+                            "tracks": [3],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "Smith, Philip",
+                        "Stacy, Thomas",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Copland, Aaron",
+                    "date": 1939,
+                    "num movements": 1,
+                    "title": "Quiet City",
+                    "tracks": [5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 10.583,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

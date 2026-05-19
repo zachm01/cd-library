@@ -1,0 +1,77 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Mahler, Gustav",
+        "Maazel, Lorin",
+        "Battle, Kathleen",
+        "Wiener Philharmoniker"
+    ],
+    "copyright date": 1984,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Maazel, Lorin",
+                        "Battle, Kathleen",
+                        "Wiener Philharmoniker"
+                    ],
+                    "catalogue num": 37,
+                    "composer": "Mahler, Gustav",
+                    "date": 1900,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Bedächtig, nicht eilen.",
+                            "subtracks": [],
+                            "timing": 18.05,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "In gemächlicher bewegung, ohne hast",
+                            "subtracks": [],
+                            "timing": 9.467,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Ruhevoll",
+                            "subtracks": [],
+                            "timing": 22.517,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Sehr behaglich",
+                            "subtracks": [],
+                            "timing": 10.683,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony No. 4 in G major",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "GMW"
+                }
+            ],
+            "total timing": 60.933
+        }
+    ],
+    "id": 56,
+    "label": "CBS",
+    "num discs": 1,
+    "title": "Mahler: Symphony No. 4"
+}

@@ -1,0 +1,84 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Mahler, Gustav",
+        "Nanut, Anton",
+        "Radio Symphony Orchestra Ljubljana"
+    ],
+    "copyright date": 1994,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Nanut, Anton",
+                        "Radio Symphony Orchestra Ljubljana"
+                    ],
+                    "catalogue num": 44,
+                    "composer": "Mahler, Gustav",
+                    "date": 1902,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Trauermarsch",
+                            "subtracks": [],
+                            "timing": 11.75,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Stürmig bewegt",
+                            "subtracks": [],
+                            "timing": 13.133,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scherzo",
+                            "subtracks": [],
+                            "timing": 15.417,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Adagietto",
+                            "subtracks": [],
+                            "timing": 9.033,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Rondo-Finale: Allegro giocoso",
+                            "subtracks": [],
+                            "timing": 13.75,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Symphony No. 5 in C-sharp minor",
+                    "tracks": [
+                        1,
+                        5
+                    ],
+                    "catalogue": "GMW"
+                }
+            ],
+            "total timing": 63.317
+        }
+    ],
+    "id": 35,
+    "label": "Point",
+    "num discs": 1,
+    "title": "Mahler: Symphony No. 5"
+}

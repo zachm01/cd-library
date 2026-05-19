@@ -1,0 +1,101 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Rachmaninoff, Sergei",
+        "Slatkin, Leonard",
+        "Detroit Symphony Orchestra"
+    ],
+    "copyright date": 2010,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Slatkin, Leonard",
+                        "Detroit Symphony Orchestra"
+                    ],
+                    "catalogue num": 34,
+                    "composer": "Rachmaninoff, Sergei",
+                    "date": 1915,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "No. 14: Vocalise",
+                            "subtracks": [],
+                            "timing": 6.633,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "14 Romances",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Slatkin, Leonard",
+                        "Detroit Symphony Orchestra"
+                    ],
+                    "catalogue num": 27,
+                    "composer": "Rachmaninoff, Sergei",
+                    "date": 1908,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Largo – Allegro moderato",
+                            "subtracks": [],
+                            "timing": 18.167,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro molto",
+                            "subtracks": [],
+                            "timing": 9,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Adagio",
+                            "subtracks": [],
+                            "timing": 13.533,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro vivace",
+                            "subtracks": [],
+                            "timing": 13.383,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony No. 2 in E minor",
+                    "tracks": [
+                        2,
+                        5
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 60.717
+        }
+    ],
+    "id": 39,
+    "label": "Naxos",
+    "num discs": 1,
+    "title": "Rachmaninoff: Symphony No. 2"
+}

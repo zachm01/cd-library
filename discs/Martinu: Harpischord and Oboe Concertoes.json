@@ -1,0 +1,127 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Martinů, Bohuslav",
+        "Růžičková, Zuzana",
+        "Rehàk, Václav",
+        "Neumann, Václav",
+        "Czech Philharmonic Chamber Orchestra",
+        "Krejči, Jiři",
+        "Škvor, Petr",
+        "Večtomov, Alexandr",
+        "Czech Philharmonic",
+        "Topinka, Vladimir"
+    ],
+    "copyright date": 1990,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Rehàk, Václav",
+                        "Neumann, Václav",
+                        "Růžičková, Zuzana",
+                        "Czech Philharmonic Chamber Orchestra"
+                    ],
+                    "catalogue num": 246,
+                    "composer": "Martinů, Bohuslav",
+                    "date": 1935,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Poco allegro",
+                            "subtracks": [],
+                            "timing": 6.334,
+                            "tracks": [1]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Adagio",
+                            "subtracks": [],
+                            "timing": 4.55,
+                            "tracks": [2]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegretto",
+                            "subtracks": [],
+                            "timing": 6.583,
+                            "tracks": [3]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Concerto for Harpsichord and Small Orchestra",
+                    "tracks": [1, 3],
+                    "catalogue": "H"
+                },
+                {
+                    "artists": [
+                        "Krejči, Jiři",
+                        "Škvor, Petr",
+                        "Czech Philharmonic Chamber Orchestra"
+                    ],
+                    "catalogue num": 353,
+                    "composer": "Martinů, Bohuslav",
+                    "date": 1953,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Moderato",
+                            "subtracks": [],
+                            "timing": 4.95,
+                            "tracks": [4]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Poco andante",
+                            "subtracks": [],
+                            "timing": 6.4,
+                            "tracks": [5]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Poco allegro",
+                            "subtracks": [],
+                            "timing": 4.233,
+                            "tracks": [6]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Concerto for Oboe and Small Orchestra",
+                    "tracks": [4, 6],
+                    "catalogue": "H"
+                },
+                {
+                    "artists": [
+                        "Škvor, Petr",
+                        "Topinka, Vladimir",
+                        "Večtomov, Alexandr",
+                        "Czech Philharmonic"
+                    ],
+                    "catalogue num": 143,
+                    "composer": "Martinů, Bohuslav",
+                    "date": 1924,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 13.617,
+                            "tracks": [7]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Concertino for Cello with Piano, Wind, and Percussion Accompaniment",
+                    "tracks": [7],
+                    "catalogue": "H"
+                }
+            ],
+            "total timing": 47.167
+        }
+    ],
+    "id": 54,
+    "label": "Supraphon",
+    "num discs": 1,
+    "title": "Martinu: Harpischord and Oboe Concertoes"
+}

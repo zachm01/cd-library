@@ -1,0 +1,232 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Takemitsu. Toru",
+        "Knussen, Oliver",
+        "London Sinfonietta",
+        "Crossley, Paul",
+        "Serkin, Peter",
+        "Collins, Michael",
+        "Wiel, Mark van de",
+        "Thompson, Michael",
+        "Crowley, Andrew",
+        "Bell, Sebastian",
+        "Hulse, Gareth",
+        "Orford, John",
+        "Lines, Timothy",
+        "Hirsch, Rebecca",
+        "Atherton, Joan",
+        "Silverthorne, Paul",
+        "Gill, Timothy"
+    ],
+    "copyright date": 1998,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Knussen, Oliver",
+                        "London Sinfonietta"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Takemitsu. Toru",
+                    "date": 1987,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 2.017,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Day Signal – Signals from Heaven I –",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Knussen, Oliver",
+                        "London Sinfonietta",
+                        "Crossley, Paul",
+                        "Serkin, Peter"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Takemitsu. Toru",
+                    "date": 1991,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 16.2,
+                            "tracks": [
+                                2
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Quotation of a Dream",
+                    "tracks": [
+                        2
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Knussen, Oliver",
+                        "London Sinfonietta"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Takemitsu. Toru",
+                    "date": 1991,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 10.7,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "How Slow the Wind",
+                    "tracks": [
+                        3
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Knussen, Oliver",
+                        "London Sinfonietta"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Takemitsu. Toru",
+                    "date": 1988,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 12.65,
+                            "tracks": [
+                                2
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Twill by Twilight",
+                    "tracks": [
+                        4
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Knussen, Oliver",
+                        "London Sinfonietta",
+                        "Collins, Michael",
+                        "Wiel, Mark van de",
+                        "Thompson, Michael",
+                        "Crowley, Andrew",
+                        "Bell, Sebastian",
+                        "Hulse, Gareth",
+                        "Orford, John"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Takemitsu. Toru",
+                    "date": 1993,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 12.033,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Archipelago S.",
+                    "tracks": [
+                        5
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Knussen, Oliver",
+                        "London Sinfonietta",
+                        "Bell, Sebastian",
+                        "Lines, Timothy",
+                        "Hirsch, Rebecca",
+                        "Atherton, Joan",
+                        "Silverthorne, Paul",
+                        "Gill, Timothy"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Takemitsu. Toru",
+                    "date": 1985,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 13.683,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Dream/Window",
+                    "tracks": [
+                        6
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Knussen, Oliver",
+                        "London Sinfonietta"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Takemitsu. Toru",
+                    "date": 1987,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 3.317,
+                            "tracks": [
+                                7
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Night Signal – Signals from Heaven II –",
+                    "tracks": [
+                        7
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 71.05
+        }
+    ],
+    "id": 46,
+    "label": "Deutsche Grammophon",
+    "num discs": 1,
+    "title": "Takemitsu: Quotation of a Dream"
+}

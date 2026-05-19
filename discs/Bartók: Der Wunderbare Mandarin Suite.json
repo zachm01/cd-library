@@ -1,0 +1,111 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Bartók, Béla",
+        "Ozawa, Seiji",
+        "Kubelik, Rafael",
+        "Boston Symphony Orchestra"
+    ],
+    "copyright date": 1977,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Ozawa, Seiji",
+                        "Boston Symphony Orchestra"
+                    ],
+                    "catalogue": "Sz",
+                    "catalogue num": 73,
+                    "composer": "Bartók, Béla",
+                    "date": 1924,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 19.6,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "The Miraculous Mandarin (Suite)",
+                    "tracks": [
+                        1
+                    ]
+                },
+                {
+                    "artists": [
+                        "Kubelik, Rafael",
+                        "Boston Symphony Orchestra"
+                    ],
+                    "catalogue num": 116,
+                    "composer": "Bartók, Béla",
+                    "date": 1943,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Introduzione: Allegro non troppo – Allegro vivace – Tempo I",
+                            "subtracks": [],
+                            "timing": 10.2,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Giuoco delle coppie: Allegretto scherzando",
+                            "subtracks": [],
+                            "timing": 6.633,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Elegia: Andante non troppo",
+                            "subtracks": [],
+                            "timing": 7.317,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Intermezzo interrotto: Allegretto",
+                            "subtracks": [],
+                            "timing": 4.5,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Finale: Pesante – Presto",
+                            "subtracks": [],
+                            "timing": 9.7,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Concerto for Orchestra",
+                    "tracks": [
+                        2,
+                        6
+                    ],
+                    "catalogue": "Sz"
+                }
+            ],
+            "total timing": 58.1
+        }
+    ],
+    "id": 59,
+    "label": "Deutsche Grammophon",
+    "num discs": 1,
+    "title": "Bartók: Der Wunderbare Mandarin Suite"
+}

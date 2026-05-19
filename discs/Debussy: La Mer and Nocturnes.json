@@ -1,0 +1,113 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Debussy, Claude",
+        "Giulini, Carlo Maria",
+        "Philharmonia Orchestra",
+        "Philharmonia Choir"
+    ],
+    "copyright date": 1988,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Giulini, Carlo Maria",
+                        "Philharmonia Orchestra"
+                    ],
+                    "catalogue num": 109,
+                    "composer": "Debussy, Claude",
+                    "date": 1905,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "De l'aube à midi sur la mer",
+                            "subtracks": [],
+                            "timing": 9.417,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Jeux de vagues",
+                            "subtracks": [],
+                            "timing": 7.067,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Dialogue du vent et de la mer",
+                            "subtracks": [],
+                            "timing": 8.667,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "La Mer",
+                    "tracks": [
+                        1,
+                        3
+                    ],
+                    "catalogue": "L"
+                },
+                {
+                    "artists": [
+                        "Giulini, Carlo Maria",
+                        "Philharmonia Orchestra",
+                        "Philharmonia Choir"
+                    ],
+                    "catalogue num": 91,
+                    "composer": "Debussy, Claude",
+                    "date": 1899,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Nuages",
+                            "subtracks": [],
+                            "timing": 8.733,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Fêtes",
+                            "subtracks": [],
+                            "timing": 6.2,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Sirènes",
+                            "subtracks": [],
+                            "timing": 11.367,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Nocturnes",
+                    "tracks": [
+                        4,
+                        6
+                    ],
+                    "catalogue": "L"
+                }
+            ],
+            "total timing": 51.9
+        }
+    ],
+    "id": 28,
+    "label": "EMI",
+    "num discs": 1,
+    "title": "Debussy: La Mer and Nocturnes"
+}

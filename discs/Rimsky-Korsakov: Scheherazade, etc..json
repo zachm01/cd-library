@@ -1,0 +1,159 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Rimsky-Korsakov, Nikolai",
+        "Borodin, Alexander",
+        "Beecham, Thomas",
+        "Royal Philharmonic Orchestra",
+        "Beecham Choral Society"
+    ],
+    "copyright date": 1999,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Beecham, Thomas",
+                        "Royal Philharmonic Orchestra"
+                    ],
+                    "catalogue num": 35,
+                    "composer": "Rimsky-Korsakov, Nikolai",
+                    "date": 1888,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "The Sea and Sinbad's Ship",
+                            "subtracks": [],
+                            "timing": 10.067,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "The Story of the Kalendar Prince",
+                            "subtracks": [],
+                            "timing": 12.033,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "The Young Prince and the Young Princess",
+                            "subtracks": [],
+                            "timing": 10.7,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "The Festival of Baghdad – The Sea – The Ship goes to pieces on a Rock surmounted by a Bronze Warrior",
+                            "subtracks": [],
+                            "timing": 12.85,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Scheherazade (Op. 35)",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Beecham, Thomas",
+                        "Royal Philharmonic Orchestra",
+                        "Beecham Choral Society"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Borodin, Alexander",
+                    "date": 1887,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Introduction: Andantino",
+                            "subtracks": [],
+                            "timing": 2.567,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro vivo",
+                            "subtracks": [],
+                            "timing": 1.267,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 2.283,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Presto",
+                            "subtracks": [],
+                            "timing": 1.483,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Moderato alla breve",
+                            "subtracks": [],
+                            "timing": 1.55,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Presto",
+                            "subtracks": [],
+                            "timing": 1.55,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Allegro con Spirito",
+                            "subtracks": [],
+                            "timing": 1.517,
+                            "tracks": [
+                                10
+                            ]
+                        }
+                    ],
+                    "num movements": 7,
+                    "title": "Polovtsian Dances",
+                    "tracks": [
+                        5,
+                        11
+                    ],
+                    "catalogue": ""
+                }
+            ],
+            "total timing": 58.117
+        }
+    ],
+    "id": 12,
+    "label": "EMI",
+    "num discs": 1,
+    "title": "Rimsky-Korsakov: Scheherazade, etc."
+}

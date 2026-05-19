@@ -1,0 +1,463 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Canadian Brass",
+        "Holborne, Antony",
+        "Gibbons, Orlando",
+        "Wilbye, John",
+        "Morley, Thomas",
+        "Bull, John",
+        "Byrd, William",
+        "Dering, Richard",
+        "Holmes, John",
+        "Johnson, Robert",
+        "Weelkes, Thomas"
+    ],
+    "copyright date": 1990,
+    "id": 78,
+    "label": "CBS",
+    "num discs": 1,
+    "title": "Canadian Brass: English Renaissance Music",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 56.3,
+            "pieces": [
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Holborne, Antony",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Galliard",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.933,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Holborne, Antony",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Alman: The Honeysuckle",
+                    "tracks": [2],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.5,
+                            "tracks": [2],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Gibbons, Orlando",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "The Silver Swan",
+                    "tracks": [3],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.317,
+                            "tracks": [3],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Holborne, Antony",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Coranto: Heigh Ho Holiday",
+                    "tracks": [4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.2,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Wilbye, John",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Oft Have I Vowed",
+                    "tracks": [5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 3.117,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Morley, Thomas",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "My Bonny Lass",
+                    "tracks": [6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.433,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Bull, John",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Coranto: Alarm",
+                    "tracks": [7],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 2.067,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Byrd, William",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Fortune",
+                    "tracks": [8],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 4.217,
+                            "tracks": [8],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Morley, Thomas",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Doe You Not Know",
+                    "tracks": [9],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.4,
+                            "tracks": [9],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Dering, Richard",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Pavan",
+                    "tracks": [10],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 2.033,
+                            "tracks": [10],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Byrd, William",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Rowland",
+                    "tracks": [11],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Lord Willoughby's March",
+                            "timing": 2.15,
+                            "tracks": [11],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Holmes, John",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Thus Bonny-Boots",
+                    "tracks": [12],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.8,
+                            "tracks": [12],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Byrd, William",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Jig",
+                    "tracks": [13],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.9,
+                            "tracks": [13],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Wilbye, John",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "The Lady Oriana",
+                    "tracks": [14],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.667,
+                            "tracks": [14],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Johnson, Robert",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "The Satyr's Dance",
+                    "tracks": [15],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 2.2667,
+                            "tracks": [15],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Byrd, William",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Pavan of Five Parts",
+                    "tracks": [16],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 2.533,
+                            "tracks": [16],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Byrd, William",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Callino Casturame",
+                    "tracks": [17],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.667,
+                            "tracks": [17],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Weelkes, Thomas",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "O Care, Thou Wilt Despatch Me",
+                    "tracks": [18],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 3.683,
+                            "tracks": [18],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Holborne, Antony",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "Lullaby",
+                    "tracks": [19],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.883,
+                            "tracks": [19],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Byrd, William",
+                    "date": -1,
+                    "num movements": 6,
+                    "title": "The Fitzwilliam Suite",
+                    "tracks": [20, 25],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "The Woods So Wilde",
+                            "timing": 1.933,
+                            "tracks": [20],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Alman",
+                            "timing": 1.1,
+                            "tracks": [21],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Pavana",
+                            "timing": 1.583,
+                            "tracks": [22],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Galiarda",
+                            "timing": 1.5,
+                            "tracks": [23],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "La Volta",
+                            "timing": 1.65,
+                            "tracks": [24],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "The Earle of Oxford's Marche",
+                            "timing": 3.167,
+                            "tracks": [25],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": ["Canadian Brass"],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Byrd, William",
+                    "date": -1,
+                    "num movements": 1,
+                    "title": "The Bells",
+                    "tracks": [26],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 5.6,
+                            "tracks": [26],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

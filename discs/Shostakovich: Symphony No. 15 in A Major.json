@@ -1,0 +1,64 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Shostakovich, Dmitri",
+        "Rozhdestvensky, Gennady",
+        "USSR Ministry of Culture State Symphony Orchestra"
+    ],
+    "copyright date": 1983,
+    "id": 63,
+    "label": "Melodiya",
+    "num discs": 1,
+    "title": "Shostakovich Symphony No. 15 in A Major",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 42.817,
+            "pieces": [
+                {
+                    "artists": [
+                        "Rozhdestvensky, Gennady", 
+                        "USSR Ministry of Culture State Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 141,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1971,
+                    "num movements": 4,
+                    "title": "Symphony No. 15 in A Major",
+                    "tracks": [4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto",
+                            "timing": 7.667,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Adagio",
+                            "timing": 16.4,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegretto",
+                            "timing": 4.417,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Adagio – Allegretto",
+                            "timing": 14.333,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

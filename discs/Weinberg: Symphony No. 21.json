@@ -1,0 +1,123 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Weinberg, Mieczysław",
+        "Vasilyev, Dmitri",
+        "Siberian Symphony Orchestra",
+        "Bartenyeva, Veronika"
+    ],
+    "copyright date": 2014,
+    "id": 96,
+    "label": "Toccata Classics",
+    "num discs": 1,
+    "title": "Mieczysław Weinberg Orchestral Music Volume One",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 67.467,
+            "pieces": [
+                {
+                    "artists": [
+                        "Vasilyev, Dmitri",
+                        "Siberian Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 47,
+                    "composer": "Weinberg, Mieczysław",
+                    "date": 1950,
+                    "num movements": 4,
+                    "title": "Polish Tunes",
+                    "tracks": [1, 4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Adagio — Allegro",
+                            "timing": 2.183,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andantino",
+                            "timing": 4.1,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro",
+                            "timing": 3.45,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro moderato",
+                            "timing": 3.9,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Vasilyev, Dmitri",
+                        "Siberian Symphony Orchestra",
+                        "Bartenyeva, Veronika"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 152,
+                    "composer": "Weinberg, Mieczysław",
+                    "date": 1991,
+                    "num movements": 6,
+                    "title": "Symphony No. 21 \"Kaddish\"",
+                    "tracks": [5, 9],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Largo",
+                            "timing": 17.783,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro molto —",
+                            "timing": 7.3,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Largo —",
+                            "timing": 5.433,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Presto —",
+                            "timing": 3.0,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Andantino —",
+                            "timing": 7.133,
+                            "tracks": [9],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Lento —",
+                            "timing": 13.167,
+                            "tracks": [10],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Shostakovich, Dmitri",
+        "Haitink, Bernard",
+        "Rintzler, Marius",
+        "Concertgebouw Orchestra",
+        "Choir of the Concertgebouw Orchestra"
+    ],
+    "copyright date": 1986,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Haitink, Bernard",
+                        "Rintzler, Marius",
+                        "Concertgebouw Orchestra",
+                        "Choir of the Concertgebouw Orchestra"
+                    ],
+                    "catalogue num": 113,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1962,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Babi Yar (Adagio)",
+                            "subtracks": [],
+                            "timing": 17.183,
+                            "tracks": [1]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Humour (Allegretto)",
+                            "subtracks": [],
+                            "timing": 8.3,
+                            "tracks": [2]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "In the store (Adagio)",
+                            "subtracks": [],
+                            "timing": 13.1,
+                            "tracks": [3]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Fears (Largo)",
+                            "subtracks": [],
+                            "timing": 12.367,
+                            "tracks": [4]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "A Career (Allegretto)",
+                            "subtracks": [],
+                            "timing": 13.383,
+                            "tracks": [5]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Symphony No. 13 \"Babi Yar\"",
+                    "tracks": [1, 5],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 64.334
+        }
+    ],
+    "id": 59,
+    "label": "Decca",
+    "num discs": 1,
+    "title": "Shostakovich: Symphony No. 13"
+}

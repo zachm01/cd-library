@@ -1,0 +1,115 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Varèse, Edgard",
+        "Ives, Charles",
+        "Dohn\u00e1nyi, Christoph von",
+        "Ling, Jahja",
+        "Cleveland Orchestra",
+        "Cleveland Chorus",
+        "Sachs, Michael"
+    ],
+    "copyright date": 1994,
+    "id": 84,
+    "label": "London",
+    "num discs": 1,
+    "title": "Varèse: Amériques • Ives: Symphony No. 4",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 60.867,
+            "pieces": [
+                {
+                    "artists": [
+                        "Dohn\u00e1nyi, Christoph von",
+                        "Cleveland Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Varèse, Edgard",
+                    "date": 1921,
+                    "num movements": 1,
+                    "title": "Amériques",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 21.683,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Dohn\u00e1nyi, Christoph von",
+                        "Ling, Jahja",
+                        "Cleveland Orchestra",
+                        "Cleveland Chorus"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Ives, Chalres",
+                    "date": 1924,
+                    "num movements": 4,
+                    "title": "Symphony No. 4",
+                    "tracks": [2, 5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Prelude: Maestoso",
+                            "timing": 3.367,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegretto",
+                            "timing": 12.683,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Fugue: Andante moderato",
+                            "timing": 8.233,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Very slowly — Largo maestoso",
+                            "timing": 8.633,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Dohn\u00e1nyi, Christoph von",
+                        "Cleveland Orchestra",
+                        "Sachs, Michael"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Ives, Chalres",
+                    "date": 1908,
+                    "num movements": 1,
+                    "title": "The Unanswered Question",
+                    "tracks": [6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 6.267,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

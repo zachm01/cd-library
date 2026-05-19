@@ -1,0 +1,244 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Ravel, Maurice",
+        "Mussorgsky, Modest",
+        "Maazel, Lorin",
+        "New Philharmonia Orchestra",
+        "Philharmonia Orchestra"
+    ],
+    "copyright date": 1972,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Maazel, Lorin",
+                        "Philharmonia Orchestra"
+                    ],
+                    "catalogue num": 81,
+                    "composer": "Ravel, Maurice",
+                    "date": 1928,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 13.083,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Boléro",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": "M"
+                },
+                {
+                    "artists": [
+                        "Maazel, Lorin",
+                        "Philharmonia Orchestra"
+                    ],
+                    "catalogue num": 19,
+                    "composer": "Ravel, Maurice",
+                    "date": 1899,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 6.383,
+                            "tracks": [
+                                2
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Pavane pour une Infante défunte",
+                    "tracks": [
+                        2
+                    ],
+                    "catalogue": "M"
+                },
+                {
+                    "artists": [
+                        "Maazel, Lorin",
+                        "Philharmonia Orchestra"
+                    ],
+                    "catalogue num": 43.4,
+                    "composer": "Ravel, Maurice",
+                    "date": 1918,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 7.817,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Alborada del gracioso",
+                    "tracks": [
+                        3
+                    ],
+                    "catalogue": "M"
+                },
+                {
+                    "artists": [
+                        "Maazel, Lorin",
+                        "Philharmonia Orchestra"
+                    ],
+                    "catalogue num": 72,
+                    "composer": "Ravel, Maurice",
+                    "date": 1920,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Poème chorégraphique",
+                            "subtracks": [],
+                            "timing": 7.817,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "La Valse",
+                    "tracks": [
+                        4
+                    ],
+                    "catalogue": "M"
+                },
+                {
+                    "artists": [
+                        "Maazel, Lorin",
+                        "New Philharmonia Orchestra"
+                    ],
+                    "catalogue num": 24,
+                    "composer": "Ravel, Maurice",
+                    "date": 1922,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Promenade – The Gnome – Promenade",
+                            "subtracks": [],
+                            "timing": 4.767,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "The Old Castle – Promenade",
+                            "subtracks": [],
+                            "timing": 4.783,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Tuileries",
+                            "subtracks": [],
+                            "timing": 0.967,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Bydlo – Promenade",
+                            "subtracks": [],
+                            "timing": 3.267,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Ballet of the chicks in their shells",
+                            "subtracks": [],
+                            "timing": 1.117,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Two Polish Jews (Goldberg & Schmuyle)",
+                            "subtracks": [],
+                            "timing": 2.067,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "The Market Place at Limoges",
+                            "subtracks": [],
+                            "timing": 1.383,
+                            "tracks": [
+                                11
+                            ]
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "The Catacombs",
+                            "subtracks": [],
+                            "timing": 1.75,
+                            "tracks": [
+                                12
+                            ]
+                        },
+                        {
+                            "number": 9,
+                            "subtitle": "Cum mortius in lingua mortua",
+                            "subtracks": [],
+                            "timing": 1.717,
+                            "tracks": [
+                                13
+                            ]
+                        },
+                        {
+                            "number": 10,
+                            "subtitle": "The Hut on Fowls' Legs",
+                            "subtracks": [],
+                            "timing": 3.433,
+                            "tracks": [
+                                14
+                            ]
+                        },
+                        {
+                            "number": 11,
+                            "subtitle": "The Great Gate of Kiev",
+                            "subtracks": [],
+                            "timing": 5.9,
+                            "tracks": [
+                                15
+                            ]
+                        }
+                    ],
+                    "num movements": 11,
+                    "title": "Pictures at an Exhibition",
+                    "tracks": [
+                        5,
+                        15
+                    ],
+                    "catalogue": "M.A"
+                }
+            ],
+            "total timing": 70.917
+        }
+    ],
+    "id": 40,
+    "label": "EMI",
+    "num discs": 1,
+    "title": "Ravel, Mussorgsky"
+}

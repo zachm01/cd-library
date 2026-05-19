@@ -1,0 +1,134 @@
+{
+    "RRD format": "",
+    "all artists": [
+        "Sibelius, Jean",
+        "Glazunov, Alexander",
+        "Schumann, Robert",
+        "Rozhdestvensky, Gennady",
+        "Oistrakh, Igor",
+        "Grand Symphony Orchestra of Radio and Television"
+    ],
+    "copyright date": 1996,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Rozhdestvensky, Gennady",
+                        "Oistrakh, Igor",
+                        "Grand Symphony Orchestra of Radio and Television"
+                    ],
+                    "catalogue num": 47,
+                    "composer": "Sibelius, Jean",
+                    "date": 1904,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro moderato",
+                            "subtracks": [],
+                            "timing": 14.317,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Adagio di molto",
+                            "subtracks": [],
+                            "timing": 7.833,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro ma non tanto",
+                            "subtracks": [],
+                            "timing": 6.65,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Concerto for Violin and Orchestra in D minor",
+                    "tracks": [
+                        1,
+                        3
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Rozhdestvensky, Gennady",
+                        "Oistrakh, Igor",
+                        "Grand Symphony Orchestra of Radio and Television"
+                    ],
+                    "catalogue num": 82,
+                    "composer": "Glazunov, Alexander",
+                    "date": 1904,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 18.45,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Concerto for Violin and Orchestra in A minor",
+                    "tracks": [
+                        4
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Rozhdestvensky, Gennady",
+                        "Oistrakh, Igor",
+                        "Grand Symphony Orchestra of Radio and Television"
+                    ],
+                    "catalogue num": 1,
+                    "composer": "Robert Schuman",
+                    "date": 1853,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "In kräftigen, nicht zu schnellen Tempo",
+                            "subtracks": [],
+                            "timing": 12.517,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Langsam – Lebhaft, doch nicht schnell",
+                            "subtracks": [],
+                            "timing": 12.567,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "Concerto for Violin and Orchestra in D minor",
+                    "tracks": [
+                        5,
+                        6
+                    ],
+                    "catalogue": "WoO"
+                }
+            ],
+            "total timing": 72.5
+        }
+    ],
+    "id": 45,
+    "label": "The Classical Russia Revelation",
+    "num discs": 1,
+    "title": "Rozhdestvensky: Sibelius - Glazunov - Schumann — Violin Works"
+}

@@ -1,0 +1,64 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "J\u00e4rvi, Neeme", 
+        "Scottish National Orchestra",
+        "Shostakovich, Dmitri"
+    ],
+    "copyright date": 1988,
+    "id": 80,
+    "label": "Chandos",
+    "num discs": 1,
+    "title": "Shostakovich: Symphony No. 7",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 69.1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Järvi, Neeme",
+                        "Scottish National Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 60,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1941,
+                    "num movements": 4,
+                    "title": "Symphony No. 7 in C major",
+                    "tracks": [1, 4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto",
+                            "timing": 25.5,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Moderato (poco allegretto)",
+                            "timing": 11.05,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Adagio - attacca",
+                            "timing": 17.05,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro non troppo",
+                            "timing": 15.3,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

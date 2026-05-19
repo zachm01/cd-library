@@ -1,0 +1,50 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Stravinsky, Igor",
+        "Dorati, Antal",
+        "Detroit Symphony Orchestra"
+    ],
+    "copyright date": 1982,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Dorati, Antal",
+                        "Detroit Symphony Orchestra"
+                    ],
+                    "catalogue num": 15,
+                    "composer": "Stravinsky, Igor",
+                    "date": 1913,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Part 1",
+                            "subtracks": [],
+                            "timing": 15.917,
+                            "tracks": [1]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Part 2",
+                            "subtracks": [],
+                            "timing": 17.733,
+                            "tracks": [2]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "Le Sacre Du Printemps",
+                    "tracks": [1],
+                    "catalogue": "K"
+                }
+            ],
+            "total timing": 33.65
+        }
+    ],
+    "id": 60,
+    "label": "Decca",
+    "num discs": 1,
+    "title": "Stavinsky: Le Sacre du Printemps"
+}

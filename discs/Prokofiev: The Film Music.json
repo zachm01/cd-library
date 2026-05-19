@@ -1,0 +1,244 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Prokofiev, Sergei",
+        "Slatkin, Leonard",
+        "Saint Louis Symphony Orchestra",
+        "Saint Louis Symphony Chorus",
+        "Carlson, Claudine",
+        "Timberlake, Samuel",
+        "Voketaitis, Arnold"
+    ],
+    "copyright date": 1990,
+    "id": 67,
+    "label": "Vox",
+    "num discs": 2,
+    "title": "Prokofiev: The Film Music",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 65.417,
+            "pieces": [
+                {
+                    "artists": [
+                        "Slatkin, Leonard",
+                        "Saint Louis Symphony Orchestra",
+                        "Saint Louis Symphony Chorus",
+                        "Carlson, Claudine",
+                        "Timberlake, Samuel"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 116,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1946,
+                    "num movements": 11,
+                    "title": "Ivan the Terrible",
+                    "tracks": [1, 11],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "No. 1. Overture and Chorus",
+                            "timing": 3.3,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "No. 2. March of the young Ivan; Ocean—Sea",
+                            "timing": 3.917,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "No. 4. I'll Be the Tsar!; God is Glorified; No. 6. Long live our Tsar! (chorus); No. 7. Ocean—Sea",
+                            "timing": 3.15,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "No. 9. Simpleton; No. 10. The White Swan; No. 11. Glorification; No. 12. The White Swan",
+                            "timing": 7.033,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "No. 13. One the Bones of Foes; No. 14. the Tartars",
+                            "timing": 1.967,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "No. 15. Cannoneers; No. 16. To Kazan",
+                            "timing": 12.117,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "No. 17. Ivan Pleads with the Boyars",
+                            "timing": 7.383,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "No. 18. Effrosinya and Anastasia; No. 19 Song of the Beaver; No. 20. Ivan at the Coffin of Anastasia; No. 21. The Choir of the Tsar's Men; No. 22. The Oath of the Tsar's Men",
+                            "timing": 16.7,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 9,
+                            "subtitle": "No. 23. The Song of Fyodor Basmanov and the Tsar's Men; No. 24. The Dance of the Tsar's Men",
+                            "timing": 4.3,
+                            "tracks": [9],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 10,
+                            "subtitle": "No. 24a. Polonaise",
+                            "timing": 1.55,
+                            "tracks": [10],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 11,
+                            "subtitle": "No. 25. Finale",
+                            "timing": 3.617,
+                            "tracks": [11],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "total timing": 59.167,
+            "pieces": [
+                {
+                    "artists": [
+                        "Slatkin, Leonard",
+                        "Saint Louis Symphony Orchestra",
+                        "Saint Louis Symphony Chorus",
+                        "Carlson, Claudine"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 78,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1939,
+                    "num movements": 7,
+                    "title": "Alexander Nevsky: Cantata",
+                    "tracks": [1, 7],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Russia Under The Mongolian Yoke",
+                            "timing": 3.417,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Song About Alexander Nevsky",
+                            "timing": 3.433,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "The Crusaders in Pskov",
+                            "timing": 6.617,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Arise, Ye Russian People",
+                            "timing": 2.1,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "The Battle on the Ice",
+                            "timing": 12.35,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "The Field of the Dead",
+                            "timing": 5.75,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Alexander's Entry into Pskov",
+                            "timing": 4.717,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Slatkin, Leonard",
+                        "Saint Louis Symphony Orchestra",
+                        "Saint Louis Symphony Chorus",
+                        "Voketaitis, Arnold"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 60,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1934,
+                    "num movements": 5,
+                    "title": "Lieutenant Kizheh: Symphony Suite",
+                    "tracks": [8, 12],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "The Birth of Kizheh",
+                            "timing": 4.117,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Romance",
+                            "timing": 4.417,
+                            "tracks": [9],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Kizheh's Wedding",
+                            "timing": 2.8,
+                            "tracks": [10],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Troika",
+                            "timing": 2.8,
+                            "tracks": [11],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "The Burial of Kizheh",
+                            "timing": 5.967,
+                            "tracks": [12],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

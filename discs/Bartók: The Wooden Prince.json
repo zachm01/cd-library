@@ -1,0 +1,334 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Bartók, Béla",
+        "Scriabin, Alexander",
+        "Boulez, Pierre",
+        "New York Philharmonic",
+        "BBC Symphony Orchestra"
+    ],
+    "copyright date": 1994,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Boulez, Pierre",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue num": 60,
+                    "composer": "Bartók, Béla",
+                    "date": 1916,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Molto moderato",
+                            "subtracks": [],
+                            "timing": 4.567,
+                            "tracks": [
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "First Dance: Dance of the Princess in the forest. Molto moderato",
+                            "subtracks": [],
+                            "timing": 4.9,
+                            "tracks": [
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro - Second Dance: Dance of the Trees. Assai moderato",
+                            "subtracks": [],
+                            "timing": 5.533,
+                            "tracks": [
+                                3,
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Third Dance: Dance of the waves. Andante",
+                            "subtracks": [],
+                            "timing": 9.017,
+                            "tracks": [
+                                4,
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "The Princess notices the staff with the golden locks. Allegro",
+                            "subtracks": [],
+                            "timing": 2.317,
+                            "tracks": [
+                                5,
+                                5
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Fourth Dance: Dance of the Princess with the wooden doll. Allegro",
+                            "subtracks": [],
+                            "timing": 12.317,
+                            "tracks": [
+                                6,
+                                6
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Great Apotheosis: Homage of the trees, waters and flowers. Più sostenuto",
+                            "subtracks": [],
+                            "timing": 2.667,
+                            "tracks": [
+                                7,
+                                7
+                            ]
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "Fifth Dance: The Princess in her endeavour to make the Wooden Prince dance, pulls and pushes him about. Meno mosso (subito)",
+                            "subtracks": [],
+                            "timing": 1.933,
+                            "tracks": [
+                                8,
+                                8
+                            ]
+                        },
+                        {
+                            "number": 9,
+                            "subtitle": "Sixth Dance: She tries to attract the real Prince with her secuctive dancing. Allegretto",
+                            "subtracks": [],
+                            "timing": 1.433,
+                            "tracks": [
+                                9,
+                                9
+                            ]
+                        },
+                        {
+                            "number": 10,
+                            "subtitle": "Seventh Dance: Dismayed, the Princess attempts to hurry after the Prince, but the forest bars her way. Moderato",
+                            "subtracks": [],
+                            "timing": 8.1,
+                            "tracks": [
+                                10,
+                                10
+                            ]
+                        },
+                        {
+                            "number": 11,
+                            "subtitle": "Slow curtain. a tempo",
+                            "subtracks": [],
+                            "timing": 0.583,
+                            "tracks": [
+                                11,
+                                11
+                            ]
+                        }
+                    ],
+                    "num movements": 11,
+                    "title": "The Wooden Prince",
+                    "tracks": [
+                        1,
+                        11
+                    ],
+                    "catalogue": "Sz"
+                }
+            ],
+            "total timing": 53.367
+        },
+        {
+            "number": 2,
+            "pieces": [
+                {
+                    "artists": [
+                        "Boulez, Pierre",
+                        "BBC Symphony Orchestra"
+                    ],
+                    "catalogue num": 106,
+                    "composer": "Bartók, Béla",
+                    "date": 1936,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante tranquillo",
+                            "subtracks": [],
+                            "timing": 8,
+                            "tracks": [
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 7.5,
+                            "tracks": [
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Adagio",
+                            "subtracks": [],
+                            "timing": 7.733,
+                            "tracks": [
+                                3,
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro molto",
+                            "subtracks": [],
+                            "timing": 6.75,
+                            "tracks": [
+                                4,
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Music for Strings, Percussion, and Celesta",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "Sz"
+                },
+                {
+                    "artists": [
+                        "Boulez, Pierre",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue num": 77,
+                    "composer": "Bartók, Béla",
+                    "date": 1923,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Moderato",
+                            "subtracks": [],
+                            "timing": 4.033,
+                            "tracks": [
+                                5,
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro molto",
+                            "subtracks": [],
+                            "timing": 2.183,
+                            "tracks": [
+                                6,
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro vivace",
+                            "subtracks": [],
+                            "timing": 3.117,
+                            "tracks": [
+                                7,
+                                7
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Molto tranquillo",
+                            "subtracks": [],
+                            "timing": 3.317,
+                            "tracks": [
+                                8,
+                                8
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Comodo - ",
+                            "subtracks": [],
+                            "timing": 1,
+                            "tracks": [
+                                9,
+                                9
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Finale. Allegro",
+                            "subtracks": [],
+                            "timing": 4.2,
+                            "tracks": [
+                                10,
+                                10
+                            ]
+                        }
+                    ],
+                    "num movements": 6,
+                    "title": "Dance Suite",
+                    "tracks": [
+                        5,
+                        10
+                    ],
+                    "catalogue": "Sz"
+                },
+                {
+                    "artists": [
+                        "Boulez, Pierre",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue num": 54,
+                    "composer": "Scriabin, Alexander",
+                    "date": 1923,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Andante. Languido - Allegro volando - Lento -",
+                                    "timing": 3.633
+                                },
+                                {
+                                    "subtitle": "Allegro non troppo - Moderato avec délice - Allegro - Allegro dramatico - Lento - Allegro volando - Lento",
+                                    "timing": 10.55
+                                },
+                                {
+                                    "subtitle": "Allegro - Scherzando - Allegro molto. Leggierissimo. Volando",
+                                    "timing": 7.2
+                                }
+                            ],
+                            "timing": 20.883,
+                            "tracks": [
+                                11,
+                                13
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Le Poème de l'extase, Op. 54",
+                    "tracks": [
+                        11,
+                        13
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 69.433
+        }
+    ],
+    "id": 19,
+    "label": "Sony",
+    "num discs": 2,
+    "title": "Bartók: The Wooden Prince"
+}

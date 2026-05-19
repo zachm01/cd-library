@@ -1,0 +1,96 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Bartók, Béla",
+        "Haitink, Bernard",
+        "von Otter, Anna Sofie",
+        "Tomlinson, John",
+        "Berliner Philharmoniker"
+    ],
+    "copyright date": 1996,
+    "id": 70,
+    "label": "EMI",
+    "num discs": 1,
+    "title": "Bartók: Bluebeard's Castle",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 62.933,
+            "pieces": [
+                {
+                    "artists": [
+                        "Haitink, Bernard",
+                        "von Otter, Anna Sofie",
+                        "Tomlinson, John",
+                        "Berliner Philharmoniker"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 11,
+                    "composer": "Bartók, Béla",
+                    "date": 1911,
+                    "num movements": 8,
+                    "title": "Bluebeard's Castle",
+                    "tracks": [1, 8],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Prologue & Opening",
+                            "timing": 16.533,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "First Door - The Torture Chamber",
+                            "timing": 4.133,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Second Door - The Armoury",
+                            "timing": 4.533,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Third Door - The Treasury",
+                            "timing": 2.433,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Fourth Door - The Secret Garden",
+                            "timing": 4.967,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Fifth Door - Bluebeard's Kingdom",
+                            "timing": 6.683,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Sixth Door - Tears",
+                            "timing": 13.45,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "Seventh Door - Blubeard's Former Wives",
+                            "timing": 10.15,
+                            "tracks": [8],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

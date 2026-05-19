@@ -1,0 +1,129 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Nielsen, Carl",
+        "Leaper, Adrian",
+        "National Symphony Orchestra of Ireland"
+    ],
+    "copyright date": 1900,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Adrain Leaper",
+                        "National Symphony Orchestra of Ireland"
+                    ],
+                    "catalogue num": 16,
+                    "composer": "Nielsen, Carl",
+                    "date": 1892,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro orgoglioso",
+                            "subtracks": [],
+                            "timing": 8.917,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante",
+                            "subtracks": [],
+                            "timing": 8,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro comodo",
+                            "subtracks": [],
+                            "timing": 7.85,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Finale: Allegro con fuoco",
+                            "subtracks": [],
+                            "timing": 8.367,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony No. 1 in G minor (Op. 7)",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "FS"
+                },
+                {
+                    "artists": [
+                        "Adrain Leaper",
+                        "National Symphony Orchestra of Ireland"
+                    ],
+                    "catalogue num": 116,
+                    "composer": "Nielsen, Carl",
+                    "date": 1925,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Tempo giusto",
+                            "subtracks": [],
+                            "timing": 13.55,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Humoreske: Allegretto",
+                            "subtracks": [],
+                            "timing": 4.167,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Proposta Seria: Adagio",
+                            "subtracks": [],
+                            "timing": 5.883,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Theme with Variations: Allegro",
+                            "subtracks": [],
+                            "timing": 10.817,
+                            "tracks": [
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony No. 6 \"Sinfonia semplice\"",
+                    "tracks": [
+                        5,
+                        8
+                    ],
+                    "catalogue": "FS"
+                }
+            ],
+            "total timing": 67.767
+        }
+    ],
+    "id": 37,
+    "label": "Naxos",
+    "num discs": 1,
+    "title": "Nielsen: Symphonies 1 & 6"
+}

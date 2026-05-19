@@ -1,0 +1,71 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Mahler, Gustav", 
+        "Leonard Bernstein", 
+        "Wiener Philharmoniker"
+    ],
+    "copyright date": 1988,
+    "id": 64,
+    "label": "Deutsche Grammophon",
+    "num discs": 1,
+    "title": "Mahler: Symphonie Nr. 5",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 75.0,
+            "pieces": [
+                {
+                    "artists": [
+                        "Leonard Bernstein",
+                        "Wiener Philharmoniker"
+                    ],
+                    "catalogue": "GMW",
+                    "catalogue num": 44,
+                    "composer": "Mahler, Gustav",
+                    "date": 1902,
+                    "num movements": 5,
+                    "title": "Symphonie No. 5",
+                    "tracks": [1, 5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Trauermarsch. In gemessenem Schritt. Streng. Wie ein Kondukt",
+                            "timing": 14.533,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Stürmich bewegt, mit größter Vehemnz",
+                            "timing": 14.983,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scherzo. Kräftig, nicht zu schnell",
+                            "timing": 19.033,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Adagietto. Sehr langsam",
+                            "timing": 11.217,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Rondo-Finale. Allegro – Allegro giocoso. Frisch",
+                            "timing": 15.0,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

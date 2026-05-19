@@ -1,0 +1,152 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Shostakovich, Dmitri",
+        "Bernstein, Leonard",
+        "Chicago Symphony Orchestra"
+    ],
+    "copyright date": 1989,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "Chicago Symphony Orchestra"
+                    ],
+                    "catalogue num": 10,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1925,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto – Allegro non troppo",
+                            "subtracks": [],
+                            "timing": 8.9,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro – Meno mosso – Allegro – Meno mosso",
+                            "subtracks": [],
+                            "timing": 4.767,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Lento – Largo – [Lento] (attacca:)",
+                            "subtracks": [],
+                            "timing": 10.317,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro molto – Lento – Allegro molto – Meno mosso – Allegro molto – Molto meno mosso – Adagio – Largo – Più mosso – Presto",
+                            "subtracks": [],
+                            "timing": 10.617,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony No. 1",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "Chicago Symphony Orchestra"
+                    ],
+                    "catalogue num": 60,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1941,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto—'War'",
+                            "subtracks": [],
+                            "timing": 31.717,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Symphony No. 7 \"Leningrad\" (Movement 1)",
+                    "tracks": [
+                        5
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 66.717
+        },
+        {
+            "number": 2,
+            "pieces": [
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "Chicago Symphony Orchestra"
+                    ],
+                    "catalogue num": 60,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1941,
+                    "movements": [
+                        {
+                            "number": 2,
+                            "subtitle": "Moderato (poco allegretto)—'Memories'",
+                            "subtracks": [],
+                            "timing": 14.8,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Adagio–'Native Expanses' (attacca:)",
+                            "subtracks": [],
+                            "timing": 19.417,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro non troppo—'Victory'",
+                            "subtracks": [],
+                            "timing": 18.867,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Symphony No. 7 \"Leningrad\" (Movements 2-4)",
+                    "tracks": [
+                        1,
+                        3
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 53.167
+        }
+    ],
+    "id": 17,
+    "label": "Deutsche Grammophon",
+    "num discs": 2,
+    "title": "Shostakovich: Symphonien Nr. 1 & 7 \"Leningrad\""
+}

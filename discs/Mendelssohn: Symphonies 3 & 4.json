@@ -1,0 +1,147 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Mendelssohn, Felix",
+        "Solti, Georg",
+        "Chicago Symphony Orchestra"
+    ],
+    "copyright date": 1986,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Solti, Georg",
+                        "Chicago Symphony Orchestra"
+                    ],
+                    "catalogue num": 56,
+                    "composer": "Mendelssohn, Felix",
+                    "date": 1842,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante con moto",
+                            "subtracks": [],
+                            "timing": 3.517,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro un poco agitato",
+                            "subtracks": [],
+                            "timing": 12.4,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scherzo: Vivace non troppo",
+                            "subtracks": [],
+                            "timing": 4.317,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Adagio",
+                            "subtracks": [],
+                            "timing": 10.967,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Allegro vivacissimo",
+                            "subtracks": [],
+                            "timing": 6.883,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Allegro maestoso assai",
+                            "subtracks": [],
+                            "timing": 2.067,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 6,
+                    "title": "Symphony No. 3 in A minor (Op. 56) \"Scottish\"",
+                    "tracks": [
+                        1,
+                        6
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Solti, Georg",
+                        "Chicago Symphony Orchestra"
+                    ],
+                    "catalogue num": 90,
+                    "composer": "Mendelssohn, Felix",
+                    "date": 1833,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro vivace",
+                            "subtracks": [],
+                            "timing": 10.05,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante con moto",
+                            "subtracks": [],
+                            "timing": 6.75,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Con moto moderato",
+                            "subtracks": [],
+                            "timing": 7.517,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Saltarello: Presto",
+                            "subtracks": [],
+                            "timing": 5.683,
+                            "tracks": [
+                                10
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony No. 4 in A major (Op. 90) \"Italian\"",
+                    "tracks": [
+                        7,
+                        10
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 70.151
+        }
+    ],
+    "id": 36,
+    "label": "Decca",
+    "num discs": 1,
+    "title": "Mendelssohn: Symphonies 3 & 4"
+}

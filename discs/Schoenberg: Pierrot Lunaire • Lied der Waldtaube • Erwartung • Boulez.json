@@ -1,0 +1,272 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Schoenberg, Arnold",
+        "Pierre Boulez", 
+        "Martin, Janis",
+        "Minton, Yvonne",
+        "Barenboim, Daniel",
+        "Debost, Michael",
+        "Pay, Anthony",
+        "Zukerman, Pinchas",
+        "Harrell, Lynn",
+        "Norman, Jessye",
+        "Ensemble InterContemporain",
+        "BBC Symphony Orchestra"
+    ],
+    "copyright date": 1982,
+    "id": 91,
+    "label": "Sony",
+    "num discs": 1,
+    "title": "Schoenberg: Pierrot Lunaire • Lied der Waldtaube • Erwartung • Boulez",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 76.4,
+            "pieces": [
+                {
+                    "artists": [
+                        "Boulez, Pierre",
+                        "Martin, Janis",
+                        "BBC Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 17,
+                    "composer": "Schoenberg, Arnold",
+                    "date": 1909,
+                    "num movements": 4,
+                    "title": "Erwartung",
+                    "tracks": [1, 8],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Scene 1 \"Hier hinein?... Man sieht den Weg nicht...\"",
+                            "timing": 2.883,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Scene 2 \"Ist das noch der Weg?\"",
+                            "timing": 2.833,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scene 3 \"Da kommt ein Licht!...\"",
+                            "timing": 1.4,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scene 4",
+                            "timing": 22.116,
+                            "tracks": [4, 8],
+                            "subtracks": [
+                                {
+                                    "subtitle": "\"Er ist auch nicht da...\"",
+                                    "timing": 2.533,
+                                    "track": 4
+                                },
+                                {
+                                    "subtitle": "\"Das Mondlicht... nein dort...\"",
+                                    "timing": 8.05,
+                                    "track": 5
+                                },
+                                {
+                                    "subtitle": "\"Nein, das ist doch nicht möglich...\"",
+                                    "timing": 1.633,
+                                    "track": 6
+                                },
+                                {
+                                    "subtitle": "\"Du siehst wieder dort hin!...\"",
+                                    "timing": 6.767,
+                                    "track": 7
+                                },
+                                {
+                                    "subtitle": "\"Der Morgen trennt uns...\"",
+                                    "timing": 3.133,
+                                    "track": 8
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Boulez, Pierre",
+                        "Minton, Yvonne",
+                        "Barenboim, Daniel",
+                        "Debost, Michael",
+                        "Pay, Anthony",
+                        "Zukerman, Pinchas", 
+                        "Harrell, Lynn"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 21,
+                    "composer": "Schoenberg, Arnold",
+                    "date": 1912,
+                    "num movements": 3,
+                    "title": "Pierrot Lunaire",
+                    "tracks": [9, 29],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Part 1",
+                            "timing": 11.852,
+                            "tracks": [9, 15],
+                            "subtracks": [
+                                {
+                                    "subtitle": "Mondestrunken",
+                                    "timing": 1.65,
+                                    "track": 9
+                                },
+                                {
+                                    "subtitle": "Colombine",
+                                    "timing": 1.717,
+                                    "track": 10
+                                },
+                                {
+                                    "subtitle": "Der Dandy",
+                                    "timing": 1.217,
+                                    "track": 11
+                                },
+                                {
+                                    "subtitle": "Eine blasse Wässerschein",
+                                    "timing": 1.617,
+                                    "track": 12
+                                },
+                                {
+                                    "subtitle": "Valse de Chopin",
+                                    "timing": 1.217,
+                                    "track": 13
+                                },
+                                {
+                                    "subtitle": "Madonna",
+                                    "timing": 2.067,
+                                    "track": 14
+                                },
+                                {
+                                    "subtitle": "Der kranke Mond",
+                                    "timing": 2.367,
+                                    "track": 15
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Part 2",
+                            "timing": 10.868,
+                            "tracks": [16, 22],
+                            "subtracks": [
+                                {
+                                    "subtitle": "Nacht (Passacaglia)",
+                                    "timing": 2.217,
+                                    "track": 16
+                                },
+                                {
+                                    "subtitle": "Gebet an Pierrot",
+                                    "timing": 0.883,
+                                    "track": 17
+                                },
+                                {
+                                    "subtitle": "Raub",
+                                    "timing": 1.1,
+                                    "track": 18
+                                },
+                                {
+                                    "subtitle": "Rote Messe",
+                                    "timing": 1.767,
+                                    "track": 19
+                                },
+                                {
+                                    "subtitle": "Galgenlied",
+                                    "timing": 0.334,
+                                    "track": 20
+                                },
+                                {
+                                    "subtitle": "Enthauptung",
+                                    "timing": 2.217,
+                                    "track": 21
+                                },
+                                {
+                                    "subtitle": "Die Kreuze",
+                                    "timing": 2.35,
+                                    "track": 22
+                                }
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Part 3",
+                            "timing": 11.118,
+                            "tracks": [23, 29],
+                            "subtracks": [
+                                {
+                                    "subtitle": "Heimweh",
+                                    "timing": 1.967,
+                                    "track": 23
+                                },
+                                {
+                                    "subtitle": "Gemeinheit",
+                                    "timing": 1.167,
+                                    "track": 24
+                                },
+                                {
+                                    "subtitle": "Parodie",
+                                    "timing": 1.283,
+                                    "track": 25
+                                },
+                                {
+                                    "subtitle": "Der Mondfleck",
+                                    "timing": 0.9,
+                                    "track": 26
+                                },
+                                {
+                                    "subtitle": "Serenade",
+                                    "timing": 2.334,
+                                    "track": 27
+                                },
+                                {
+                                    "subtitle": "Heimfahrt (Barcarole)",
+                                    "timing": 1.75,
+                                    "track": 28
+                                },
+                                {
+                                    "subtitle": "O alter Duft",
+                                    "timing": 1.717,
+                                    "track": 28
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Boulez, Pierre",
+                        "Jessye Norman",
+                        "Ensemble Intercontemporain"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": -1,
+                    "composer": "Schoenberg, Arnold",
+                    "date": 1922,
+                    "num movements": 1,
+                    "title": "Lied der Waldtaube",
+                    "tracks": [30],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 12.667,
+                            "tracks": [30],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

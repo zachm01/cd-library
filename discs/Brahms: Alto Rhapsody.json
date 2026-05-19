@@ -1,0 +1,119 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Brahms, Johannes",
+        "Shaw, Robert",
+        "Horne, Marilyn",
+        "Atlanta Symphony Orchestra",
+        "Atlanta Symphony Chorus"
+    ],
+    "copyright date": 1988,
+    "id": 97,
+    "label": "Telarc",
+    "num discs": 1,
+    "title": "Brahms: Alto Rhapsody",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 54.867,
+            "pieces": [
+                {
+                    "artists": [
+                        "Shaw, Robert",
+                        "Horne, Marilyn",
+                        "Atlanta Symphony Orchestra",
+                        "Atlanta Symphony Chorus"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 53,
+                    "composer": "Brahms, Johannes",
+                    "date": 1869,
+                    "num movements": 1,
+                    "title": "Alto Rhapsody",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 14.017,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Shaw, Robert",
+                        "Horne, Marilyn",
+                        "Atlanta Symphony Orchestra",
+                        "Atlanta Symphony Chorus"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 89,
+                    "composer": "Brahms, Johannes",
+                    "date": 1882,
+                    "num movements": 1,
+                    "title": "Gesang der Parzen",
+                    "tracks": [2],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 11.55,
+                            "tracks": [2],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Shaw, Robert",
+                        "Horne, Marilyn",
+                        "Atlanta Symphony Orchestra",
+                        "Atlanta Symphony Chorus"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 82,
+                    "composer": "Brahms, Johannes",
+                    "date": 1881,
+                    "num movements": 1,
+                    "title": "Nänie",
+                    "tracks": [3],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 12.9,
+                            "tracks": [3],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Shaw, Robert",
+                        "Horne, Marilyn",
+                        "Atlanta Symphony Orchestra",
+                        "Atlanta Symphony Chorus"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 54,
+                    "composer": "Brahms, Johannes",
+                    "date": 1871,
+                    "num movements": 1,
+                    "title": "Schicksalslied",
+                    "tracks": [4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 16.033,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

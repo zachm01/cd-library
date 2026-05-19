@@ -1,0 +1,111 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Tchaikovsky, Pyotr Ilyich",
+        "Fricsay, Ferenc",
+        "Berlin Radio Symphony Orchestra"
+    ],
+    "copyright date": 1996,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Fricsay, Ferenc",
+                        "Berlin Radio Symphony Orchestra"
+                    ],
+                    "catalogue num": 74,
+                    "composer": "Tchaikovsky, Pyotr Ilyich",
+                    "date": 1893,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Adagio – Allegro non troppo",
+                            "subtracks": [],
+                            "timing": 21.333,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro con grazia",
+                            "subtracks": [],
+                            "timing": 9.333,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro molto vivace",
+                            "subtracks": [],
+                            "timing": 8.917,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Finale: Adagio lamentoso – Andante",
+                            "subtracks": [],
+                            "timing": 11.067,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Symphony No. 6 in B minor (Op. 74)",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Fricsay, Ferenc",
+                        "Berlin Radio Symphony Orchestra"
+                    ],
+                    "catalogue num": 24,
+                    "composer": "Tchaikovsky, Pyotr Ilyich",
+                    "date": 1879,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Valse",
+                            "subtracks": [],
+                            "timing": 5.617,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Polonaise",
+                            "subtracks": [],
+                            "timing": 5.417,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "Eugene Onegin (Op. 24)",
+                    "tracks": [
+                        5,
+                        6
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 62.583
+        }
+    ],
+    "id": 52,
+    "label": "Deutsche Grammophon",
+    "num discs": 1,
+    "title": "Tchaïkovski - Symphonie No. 6"
+}

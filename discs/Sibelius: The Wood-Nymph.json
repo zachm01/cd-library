@@ -1,0 +1,223 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Sibelius, Jean",
+        "Vänskä, Osmo",
+        "Pöysti, Lasse",
+        "Lahti Symphony Orchestra"
+    ],
+    "copyright date": 1996,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": 15,
+                    "composer": "Sibelius, Jean",
+                    "date": 1894,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Ballade for orchestra",
+                            "subtracks": [],
+                            "timing": 21.6,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "The Wood-Nymph",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Pöysti, Lasse",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Sibelius, Jean",
+                    "date": 1925,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 2.683,
+                            "tracks": [
+                                2
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "A Lonely Ski-Trail",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": 54,
+                    "composer": "Sibelius, Jean",
+                    "date": 1908,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Act I",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Largo",
+                                    "timing": 0.183,
+                                    "track": 3
+                                },
+                                {
+                                    "subtitle": "Commodo",
+                                    "timing": 2.517,
+                                    "track": 4
+                                },
+                                {
+                                    "subtitle": "Adagio",
+                                    "timing": 0.267,
+                                    "track": 5
+                                }
+                            ],
+                            "timing": 2.967,
+                            "tracks": [
+                                3,
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Act II",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Lento assai",
+                                    "timing": 3.2,
+                                    "track": 6
+                                },
+                                {
+                                    "subtitle": "Adagio",
+                                    "timing": 0.25,
+                                    "track": 7
+                                },
+                                {
+                                    "subtitle": "Lento – Commodo – Lento – Allegro",
+                                    "timing": 4.35,
+                                    "track": 8
+                                },
+                                {
+                                    "subtitle": "Andantino",
+                                    "timing": 1.517,
+                                    "track": 9
+                                },
+                                {
+                                    "subtitle": "Andante",
+                                    "timing": 3.25,
+                                    "track": 10
+                                },
+                                {
+                                    "subtitle": "Lento",
+                                    "timing": 2.533,
+                                    "track": 11
+                                },
+                                {
+                                    "subtitle": "Moderato",
+                                    "timing": 2.283,
+                                    "track": 12
+                                }
+                            ],
+                            "timing": 17.383,
+                            "tracks": [
+                                6,
+                                12
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Act III",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Allegretto",
+                                    "timing": 0.95,
+                                    "track": 13
+                                },
+                                {
+                                    "subtitle": "Largemente",
+                                    "timing": 1.45,
+                                    "track": 14
+                                },
+                                {
+                                    "subtitle": "Adagio",
+                                    "timing": 1.683,
+                                    "track": 15
+                                },
+                                {
+                                    "subtitle": "Largemente molto",
+                                    "timing": 1.383,
+                                    "track": 16
+                                }
+                            ],
+                            "timing": 5.467,
+                            "tracks": [
+                                13,
+                                16
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Swanwhite",
+                    "tracks": [
+                        3,
+                        16
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Pöysti, Lasse",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": 15,
+                    "composer": "Sibelius, Jean",
+                    "date": 1922,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Melodrama",
+                            "subtracks": [],
+                            "timing": 10.167,
+                            "tracks": [
+                                17
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "The Wood-Nymph",
+                    "tracks": [
+                        17
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 62.133
+        }
+    ],
+    "id": 14,
+    "label": "BIS",
+    "num discs": 1,
+    "title": "Sibelius: The Wood-Nymph"
+}

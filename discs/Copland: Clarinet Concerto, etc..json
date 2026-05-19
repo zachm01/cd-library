@@ -1,0 +1,188 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Copland, Aaron",
+        "Shifrin, David", 
+        "Hill, Mark", 
+        "Baum, Neil",
+        "Schwarz, Gerard", 
+        "New York Chamber Symphony"
+    ],
+    "copyright date": 1989,
+    "id": 66,
+    "label": "EMI",
+    "num discs": 1,
+    "title": "Copland: Clarinet Concerto, etc.",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 71.683,
+            "pieces": [
+                {
+                    "artists": [
+                        "Schwarz, Gerard",
+                        "Shifrin, David",
+                        "New York Chamber Symphony"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Copland, Aaron",
+                    "date": 1948,
+                    "num movements": 1,
+                    "title": "Concerto for Clarinet and String Orchestra",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 15.783,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Schwarz, Gerard",
+                        "Shifrin, David",
+                        "Hill, Mark",
+                        "Baum, Neil",
+                        "New York Chamber Symphony"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Copland, Aaron",
+                    "date": 1925,
+                    "num movements": 5,
+                    "title": "Music for the Theatre",
+                    "tracks": [2, 6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Prologue",
+                            "timing": 5.75,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Dance",
+                            "timing": 3.2,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Interlude",
+                            "timing": 5.117,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Burlesque",
+                            "timing": 3.117,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Epilogue",
+                            "timing": 3.717,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Schwarz, Gerard",
+                        "Hill, Mark",
+                        "Baum, Neil",
+                        "New York Chamber Symphony"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Copland, Aaron",
+                    "date": 1940,
+                    "num movements": 1,
+                    "title": "Quiet City",
+                    "tracks": [7],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 8.95,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Schwarz, Gerard",
+                        "New York Chamber Symphony"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Copland, Aaron",
+                    "date": 1959,
+                    "num movements": 7,
+                    "title": "Dance Panels",
+                    "tracks": [8, 14],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Introduction: Moderato",
+                            "timing": 3.583,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegretto con tenerezza",
+                            "timing": 4.183,
+                            "tracks": [9],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scherzando",
+                            "timing": 4.1,
+                            "tracks": [10],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Pas de trois: Lento",
+                            "timing": 4.417,
+                            "tracks": [11],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Con brio",
+                            "timing": 3.467,
+                            "tracks": [12],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Con moto",
+                            "timing": 1.483,
+                            "tracks": [13],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Molto ritmico",
+                            "timing": 4.817,
+                            "tracks": [14],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

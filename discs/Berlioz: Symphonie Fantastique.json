@@ -1,0 +1,138 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Berlioz, Hector",
+        "Cherubini, Luigi",
+        "Auber, Daniel-François-Esprit",
+        "Markevitch, Igor",
+        "Orchestre Lamoureux"
+    ],
+    "copyright date": 1995,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Markevitch, Igor",
+                        "Orchestre Lamoureux"
+                    ],
+                    "catalogue num": 14,
+                    "composer": "Berlioz, Hector",
+                    "date": 1830,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "'Rêveries' Largo – Allegro agitato e appassionato assai",
+                            "subtracks": [],
+                            "timing": 14.25,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "'Un bal' Valse. Allegro non troppo",
+                            "subtracks": [],
+                            "timing": 6.133,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "'Scène aux champs' Adagio",
+                            "subtracks": [],
+                            "timing": 15.967,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "'Marche au supplice' Allegretto non troppo",
+                            "subtracks": [],
+                            "timing": 4.8,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "'Songe d'une nuit du Sabbat' Larghetto – Allegro",
+                            "subtracks": [],
+                            "timing": 11.05,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Symphonie Fantastique (Op. 14): Episode de la vie d'un artiste",
+                    "tracks": [
+                        1,
+                        5
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Markevitch, Igor",
+                        "Orchestre Lamoureux"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Cherubini, Luigi",
+                    "date": 1803,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Overture",
+                            "subtracks": [],
+                            "timing": 9.733,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "'Anacréon'",
+                    "tracks": [
+                        6
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Markevitch, Igor",
+                        "Orchestre Lamoureux"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Auber, Daniel-François-Esprit",
+                    "date": 1828,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Overture",
+                            "subtracks": [],
+                            "timing": 8.3,
+                            "tracks": [
+                                7
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "'La Muette de Portici'",
+                    "tracks": [
+                        7
+                    ],
+                    "catalogue": ""
+                }
+            ],
+            "total timing": 70.533
+        }
+    ],
+    "id": 50,
+    "label": "Deutsche Grammophon",
+    "num discs": 1,
+    "title": "Berlioz: Symphonie Fantastique"
+}

@@ -1,0 +1,201 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Dvořák, Antonín",
+        "Dohnányi, Christoph von",
+        "Cleveland Orchestra"
+    ],
+    "copyright date": 1990,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Dohnányi, Christoph von",
+                        "Cleveland Orchestra"
+                    ],
+                    "catalogue num": 46,
+                    "composer": "Dvořák, Antonín",
+                    "date": 1878,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "in C major",
+                            "subtracks": [],
+                            "timing": 3.933,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "in E minor",
+                            "subtracks": [],
+                            "timing": 4.917,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "in A-flat major",
+                            "subtracks": [],
+                            "timing": 4.567,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "in F major",
+                            "subtracks": [],
+                            "timing": 6.967,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "in A major",
+                            "subtracks": [],
+                            "timing": 3.367,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "in D major",
+                            "subtracks": [],
+                            "timing": 5.45,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "in C minor",
+                            "subtracks": [],
+                            "timing": 3.733,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "in G minor",
+                            "subtracks": [],
+                            "timing": 4.217,
+                            "tracks": [
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 8,
+                    "title": "Slavonic Dances, op. 46",
+                    "tracks": [
+                        1,
+                        8
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Dohnányi, Christoph von",
+                        "Cleveland Orchestra"
+                    ],
+                    "catalogue num": 72,
+                    "composer": "Dvořák, Antonín",
+                    "date": 1886,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "in B major",
+                            "subtracks": [],
+                            "timing": 4.333,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "in E minor",
+                            "subtracks": [],
+                            "timing": 6.217,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "in F major",
+                            "subtracks": [],
+                            "timing": 3.25,
+                            "tracks": [
+                                11
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "in D-flat major",
+                            "subtracks": [],
+                            "timing": 5.35,
+                            "tracks": [
+                                12
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "in B-flat minor",
+                            "subtracks": [],
+                            "timing": 2.517,
+                            "tracks": [
+                                13
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "in B-flat major",
+                            "subtracks": [],
+                            "timing": 3.867,
+                            "tracks": [
+                                14
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "in C major",
+                            "subtracks": [],
+                            "timing": 3.433,
+                            "tracks": [
+                                15
+                            ]
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "in A-flat major",
+                            "subtracks": [],
+                            "timing": 7.9,
+                            "tracks": [
+                                16
+                            ]
+                        }
+                    ],
+                    "num movements": 8,
+                    "title": "Slavonic Dances, op. 72",
+                    "tracks": [
+                        9,
+                        16
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 74.017
+        }
+    ],
+    "id": 29,
+    "label": "Decca",
+    "num discs": 1,
+    "title": "Dvořák: Slavonic Dances"
+}

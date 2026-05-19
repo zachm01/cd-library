@@ -1,0 +1,43 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Pettersson, Allan",
+        "Trojahn, Manfred",
+        "Deutsches Symphonie-Orchester Berlin"
+    ],
+    "copyright date": 1993,
+    "id": 102,
+    "label": "CPO",
+    "num discs": 1,
+    "title": "Pettersson, Allan: Symphony No. 6",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 60.633,
+            "pieces": [
+                {
+                    "artists": [
+                        "Trojahn, Manfred",
+                        "Deutsches Symphonie-Orchester Berlin"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Pettersson, Allan",
+                    "date": 1966,
+                    "num movements": 1,
+                    "title": "Symphony No. 6",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 60.633,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

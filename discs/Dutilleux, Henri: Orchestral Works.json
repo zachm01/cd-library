@@ -1,0 +1,147 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Dutilleux, Henri",
+        "Saraste, Jukka-Pekka",
+        "Toronto Symphony Orchestra"
+    ],
+    "copyright date": 1999,
+    "id": 98,
+    "label": "Finlandia",
+    "num discs": 1,
+    "title": "Henri Dutilleux: Orchestral Works",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 62.567,
+            "pieces": [
+                {
+                    "artists": [
+                        "Saraste, Jukka-Pekka",
+                        "Toronto Symphony Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Dutilleux, Henri",
+                    "date": 1959,
+                    "num movements": 3,
+                    "title": "Symphony No. 2",
+                    "tracks": [1, 3],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Animato, ma misterioso",
+                            "timing": 7.833,
+                            "tracks": [1],
+                            "subtracks": [ ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andantino sostenuto",
+                            "timing": 9.1,
+                            "tracks": [2],
+                            "subtracks": [ ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro fuocoso — Calmato",
+                            "timing": 11.2,
+                            "tracks": [3],
+                            "subtracks": [ ]
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Saraste, Jukka-Pekka",
+                        "Toronto Symphony Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Dutilleux, Henri",
+                    "date": 1965,
+                    "num movements": 5,
+                    "title": "Métaboles",
+                    "tracks": [4, 8],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Incantatiore",
+                            "timing": 3.317,
+                            "tracks": [4],
+                            "subtracks": [ ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Linéaire",
+                            "timing": 2.833,
+                            "tracks": [5],
+                            "subtracks": [ ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Obsessionnel",
+                            "timing": 3.1,
+                            "tracks": [6],
+                            "subtracks": [ ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Torpide",
+                            "timing": 2.533,
+                            "tracks": [7],
+                            "subtracks": [ ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Flamboyant",
+                            "timing": 4.117,
+                            "tracks": [8],
+                            "subtracks": [ ]
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Saraste, Jukka-Pekka",
+                        "Toronto Symphony Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Dutilleux, Henri",
+                    "date": 1991,
+                    "num movements": 2,
+                    "title": "Timbres, Espace, Mouvement",
+                    "tracks": [9, 11],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 7.75,
+                            "tracks": [9, 10],
+                            "subtracks": [
+                                {
+                                    "subtitle": "Nébuleuse",
+                                    "timing": 7.75,
+                                    "track": 9
+                                },
+                                {
+                                    "subtitle": "Interlude",
+                                    "timing": 3.85,
+                                    "track": 10
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Constellations",
+                            "timing": 6.55,
+                            "tracks": [11],
+                            "subtracks": [ ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

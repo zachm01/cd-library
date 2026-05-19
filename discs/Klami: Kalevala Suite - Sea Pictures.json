@@ -1,0 +1,172 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Klami, Uuno",
+        "Jorma Panula",
+        "Turku Philharmonic Orchestra"
+    ],
+    "copyright date": 1996,
+    "id": 99,
+    "label": "Naxos",
+    "num discs": 1,
+    "title": "Klami: Kalevala Suite - Sea Pictures",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 71.767,
+            "pieces": [
+                {
+                    "artists": [
+                        "Jorma Panula",
+                        "Turku Philharmonic Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 30,
+                    "composer": "Klami, Uuno",
+                    "date": 1940,
+                    "num movements": -1,
+                    "title": "Suomenlinna Overture",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 11.017,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Jorma Panula",
+                        "Turku Philharmonic Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 23,
+                    "composer": "Klami, Uuno",
+                    "date": 1933,
+                    "num movements": 5,
+                    "title": "Kalevala Suite",
+                    "tracks": [2, 6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "The Creation of the Earth",
+                            "timing": 6.683,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "The Sprout of Spring",
+                            "timing": 4.55,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Terhenniemi",
+                            "timing": 6.483,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Cradle Song for Lemminkäinen",
+                            "timing": 4.283,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "The Forging of the Sampo",
+                            "timing": 7.0,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                  "artists": [
+                      "Jorma Panula",
+                      "Turku Philharmonic Orchestra"
+                  ],
+                  "catalogue": "opus",
+                  "catalogue num": -1,
+                  "composer": "Klami, Uuno",
+                  "date": 1934,
+                  "num movements": 1,
+                  "title": "Lemminkäinen's Adventures on the Island of Saari",
+                  "tracks": [7],
+                  "movements": [
+                      {
+                          "number": 1,
+                          "subtitle": "",
+                          "timing": 10.733,
+                          "tracks": [7],
+                          "subtracks": []
+                      }
+                  ]
+              },
+                {
+                  "artists": [
+                      "Jorma Panula",
+                      "Turku Philharmonic Orchestra"
+                  ],
+                  "catalogue": "opus",
+                  "catalogue num": -1,
+                  "composer": "Klami, Uuno",
+                  "date": 1932,
+                  "num movements": 6,
+                  "title": "Sea Pictures",
+                  "tracks": [8, 13],
+                  "movements": [
+                      {
+                          "number": 1,
+                          "subtitle": "A Foggy Morning",
+                          "timing": 2.75,
+                          "tracks": [8],
+                          "subtracks": []
+                      },
+                      {
+                          "number": 2,
+                          "subtitle": "Captain Scrapuchinat",
+                          "timing": 2.6,
+                          "tracks": [9],
+                          "subtracks": []
+                      },
+                      {
+                          "number": 3,
+                          "subtitle": "The Deserted Three-Master",
+                          "timing": 4.5,
+                          "tracks": [10],
+                          "subtracks": []
+                      },
+                      {
+                          "number": 4,
+                          "subtitle": "Nocturne (Song of the Watch)",
+                          "timing": 2.933,
+                          "tracks": [11],
+                          "subtracks": []
+                      },
+                      {
+                          "number": 5,
+                          "subtitle": "Scène de Ballet",
+                          "timing": 1.45,
+                          "tracks": [12],
+                          "subtracks": []
+                      },
+                      {
+                          "number": 6,
+                          "subtitle": "3 Bf",
+                          "timing": 6.1,
+                          "tracks": [13],
+                          "subtracks": []
+                      }
+                  ]
+              }
+            ]
+        }
+    ]
+}

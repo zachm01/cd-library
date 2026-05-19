@@ -1,0 +1,96 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Prokofiev, Sergei",
+        "Perlman, Itzhak",
+        "Rozhdestvensky, Gennady",
+        "BBC Symphony Orchestra"
+    ],
+    "copyright date": 1982,
+    "id": 75,
+    "label": "EMI",
+    "num discs": 1,
+    "title": "Prokofiev: Violin Concerto Nos 1 & 2",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 48.65,
+            "pieces": [
+                {
+                    "artists": [
+                        "Perlman, Itzhak",
+                        "Rozhdestvensky, Gennady",
+                        "BBC Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 19,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1917,
+                    "num movements": 3,
+                    "title": "Violin Concerto No. 1 in D",
+                    "tracks": [1, 3],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andantino",
+                            "timing": 9.567,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Scherzo vivacissimo",
+                            "timing": 3.75,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Moderato",
+                            "timing": 8.517,
+                            "tracks": [3],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Perlman, Itzhak",
+                        "Rozhdestvensky, Gennady",
+                        "BBC Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 63,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1935,
+                    "num movements": 3,
+                    "title": "Violin Concerto No. 2 in G minor",
+                    "tracks": [4, 6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro moderato",
+                            "timing": 10.767,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante assai",
+                            "timing": 9.717,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro ben marcato",
+                            "timing": 6.067,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

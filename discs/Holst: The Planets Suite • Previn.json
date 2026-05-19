@@ -1,0 +1,87 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Holst, Gustav",
+        "Previn, André",
+        "London Symphony Orchestra",
+        "Ambrosian Singers"
+    ],
+    "copyright date": 1974,
+    "id": 73,
+    "label": "EMI",
+    "num discs": 1,
+    "title": "Holst: The Planets Suite • Previn",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 50.95,
+            "pieces": [
+                {
+                    "artists": [
+                        "Previn, André",
+                        "London Symphony Orchestra",
+                        "Ambrosian Singers"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 32,
+                    "composer": "Holst, Gustav",
+                    "date": 1916,
+                    "num movements": 7,
+                    "title": "The Planets",
+                    "tracks": [1, 7],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Mars, the Bringer of War",
+                            "timing": 7.0,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Venus, the Bringer of Peace",
+                            "timing": 8.65,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Mercury, the Winged Messenger",
+                            "timing": 3.783,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Jupiter, the Bringer of Jollity",
+                            "timing": 7.65,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Saturn, the Bringer of Old Age",
+                            "timing": 9.833,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Uranus, the Magician",
+                            "timing": 5.983,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Neptune, the Mystic",
+                            "timing": 7.517,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

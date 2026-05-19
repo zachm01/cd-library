@@ -1,0 +1,173 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Stravinsky, Igor",
+        "Järvi, Paavo",
+        "Cincinnati Symphony Orchestra"
+    ],
+    "copyright date": 2003,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Järvi, Paavo",
+                        "Cincinnati Symphony Orchestra"
+                    ],
+                    "catalogue num": 12,
+                    "composer": "Stravinsky, Igor",
+                    "date": 1947,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "The Shrove-Tide Fair. The Magic Trick. Russian Dance",
+                            "subtracks": [],
+                            "timing": 10.1,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Petroushka's Room",
+                            "subtracks": [],
+                            "timing": 4.567,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "The Blackamoor's Room. Dance of the Ballerina. Waltz of the Ballerina and the Blackamoor",
+                            "subtracks": [],
+                            "timing": 6.817,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "The Shrove-Tide Fair. Dance of the Nursemaids. Peasant with Bear. Gypsies and a Rake Vendor. Dance of the Coachmen. Masqueraders. Scuffle of the Blackamoor and Petroushka. Death of Petroushka. Police and the Juggler. Apparition of Petroushka's Ghost",
+                            "subtracks": [],
+                            "timing": 13.8,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Petroushka",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "K"
+                },
+                {
+                    "artists": [
+                        "Järvi, Paavo",
+                        "Cincinnati Symphony Orchestra"
+                    ],
+                    "catalogue num": 70,
+                    "composer": "Stravinsky, Igor",
+                    "date": 1945,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 4.033,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Scherzo a la Russe",
+                    "tracks": [
+                        5
+                    ],
+                    "catalogue": "K"
+                },
+                {
+                    "artists": [
+                        "Järvi, Paavo",
+                        "Cincinnati Symphony Orchestra"
+                    ],
+                    "catalogue num": 10,
+                    "composer": "Stravinsky, Igor",
+                    "date": 1919,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Introduction",
+                            "subtracks": [],
+                            "timing": 3.017,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "The Firebird and her Dance – Variation of the Firebird",
+                            "subtracks": [],
+                            "timing": 1.483,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Round of the Princesses of Khorovod",
+                            "subtracks": [],
+                            "timing": 4.983,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Infernal Dance of King Katschei",
+                            "subtracks": [],
+                            "timing": 4.05,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Berceuse",
+                            "subtracks": [],
+                            "timing": 3.467,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 11,
+                            "subtitle": "Finale",
+                            "subtracks": [],
+                            "timing": 3.083,
+                            "tracks": [
+                                11
+                            ]
+                        }
+                    ],
+                    "num movements": 6,
+                    "title": "The Firebird Suite",
+                    "tracks": [
+                        6,
+                        11
+                    ],
+                    "catalogue": "K"
+                }
+            ],
+            "total timing": 59.7
+        }
+    ],
+    "id": 16,
+    "label": "Telarc",
+    "num discs": 1,
+    "title": "Stravinsky: Petroushka - Scerzo a la Russe - The Firebird Suite"
+}

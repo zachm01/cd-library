@@ -1,0 +1,239 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Rozhdestvensky, Gennady",
+        "Shostakovich, Dmitri",
+        "Royal Stockholm Philharmonic Orchestra"
+    ],
+    "copyright date": 1996,
+    "id": 96,
+    "label": "Chandos",
+    "num discs": 1,
+    "title": "Shostakovich: The Limpid Stream",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 68.517,
+            "pieces": [
+                {
+                    "artists": [
+                        "Rozhdestvensky, Gennady",
+                        "Royal Stockholm Philharmonic Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 39,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1935,
+                    "num movements": 44,
+                    "title": "The Limpid Stream",
+                    "tracks": [1, 29],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Overture: Allegro",
+                            "timing": 2.783,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Adagio — Allegro — Allegro vivo",
+                            "timing": 3.334,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "March: Allegretto",
+                            "timing": 0.9,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegretto",
+                            "timing": 2.3,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Allegretto — Tempo de mazurka",
+                            "timing": 1.967,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Scene and Waltz — Entr'acte: Allegretto",
+                            "timing": 5.217,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "Feast: Allegro",
+                            "timing": 1.55,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 9,
+                            "subtitle": "Allegro",
+                            "timing": 1.0,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 12,
+                            "subtitle": "Scene 2: Moderato con moto",
+                            "timing": 1.783,
+                            "tracks": [9],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 13,
+                            "subtitle": "Waltz",
+                            "timing": 1.65,
+                            "tracks": [10],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 14,
+                            "subtitle": "Allegro",
+                            "timing": 1.35,
+                            "tracks": [11],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 15,
+                            "subtitle": "Presto",
+                            "timing": 2.367,
+                            "tracks": [12],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 20,
+                            "subtitle": "Invitation to the Meeting: Adagio",
+                            "timing": 1.133,
+                            "tracks": [13],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 21,
+                            "subtitle": "Allegro",
+                            "timing": 3.633,
+                            "tracks": [14],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 22,
+                            "subtitle": "Andantino",
+                            "timing": 0.567,
+                            "tracks": [15],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 25,
+                            "subtitle": "Adagio",
+                            "timing": 4.55,
+                            "tracks": [16],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 27,
+                            "subtitle": "Variation",
+                            "timing": 1.217,
+                            "tracks": [17],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 28,
+                            "subtitle": "Coda: Allegro",
+                            "timing": 0.633,
+                            "tracks": [18],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 29,
+                            "subtitle": "Adagio",
+                            "timing": 6.4,
+                            "tracks": [19],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 31,
+                            "subtitle": "Variation",
+                            "timing": 1.2,
+                            "tracks": [20],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 32,
+                            "subtitle": "Coda: Allegro",
+                            "timing": 1.633,
+                            "tracks": [21],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 33,
+                            "subtitle": "Allegro poco moderato",
+                            "timing": 1.983,
+                            "tracks": [22],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 34,
+                            "subtitle": "Coda: Presto",
+                            "timing": 2.733,
+                            "tracks": [23],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 36,
+                            "subtitle": "Allegro molto",
+                            "timing": 1.933,
+                            "tracks": [24],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 37,
+                            "subtitle": "—",
+                            "timing": 2.283,
+                            "tracks": [25],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 40,
+                            "subtitle": "Variation: Allegro",
+                            "timing": 1.167,
+                            "tracks": [26],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 41,
+                            "subtitle": "Pizzicato: Allegro",
+                            "timing": 1.083,
+                            "tracks": [27],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 42,
+                            "subtitle": "Variation: Allegro",
+                            "timing": 0.683,
+                            "tracks": [28],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 44,
+                            "subtitle": "Final dance: Allegro",
+                            "timing": 7.683,
+                            "tracks": [29],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

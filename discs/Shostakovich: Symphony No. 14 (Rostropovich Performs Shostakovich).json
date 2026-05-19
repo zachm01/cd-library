@@ -1,0 +1,227 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Shostakovich, Dmitri",
+        "Rostropovich, Mstislav",
+        "Vishnevskaya, Galina",
+        "Oistrakh, David",
+        "Reshetin, Mark",
+        "Vainberg, Moisei",
+        "Chamber Orchestra of Moscow"
+    ],
+    "copyright date": 1998,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Rostropovich, Mstislav",
+                        "Vishnevskaya, Galina",
+                        "Reshetin, Mark",
+                        "Chamber Orchestra of Moscow"
+                    ],
+                    "catalogue num": 135,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1969,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "De Profundis (Garcia-Lorca): Adagio",
+                            "subtracks": [],
+                            "timing": 4.883,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Malagueña (Garcia-Lorca): Allegretto",
+                            "subtracks": [],
+                            "timing": 2.383,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Lorelei (Apollinaire): Allegro molto",
+                            "subtracks": [],
+                            "timing": 8.35,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "The Suicide (Apollinaire): Adagio",
+                            "subtracks": [],
+                            "timing": 7.033,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "On Watch (Apollinaire): Allegretto",
+                            "subtracks": [],
+                            "timing": 2.883,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Madam, Look! (Apollinaire): Adagio",
+                            "subtracks": [],
+                            "timing": 2.033,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "The the Santé (Apollinaire): Adagio",
+                            "subtracks": [],
+                            "timing": 8.617,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "The Zaporozhian Cossack's Reply to the Sultan of Constinople (Apollinaire): Allegro",
+                            "subtracks": [],
+                            "timing": 1.95,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 9,
+                            "subtitle": "O Delvig, Delvig! (Küchelbecker): Andante",
+                            "subtracks": [],
+                            "timing": 4.217,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 10,
+                            "subtitle": "The Death of the Poet (Rilke): Largo",
+                            "subtracks": [],
+                            "timing": 5.267,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 11,
+                            "subtitle": "Conclusion (Rilke): Moderato",
+                            "subtracks": [],
+                            "timing": 1.067,
+                            "tracks": [
+                                11
+                            ]
+                        }
+                    ],
+                    "num movements": 11,
+                    "title": "Symphony No. 14 (Op. 135)",
+                    "tracks": [
+                        1,
+                        11
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Vishnevskaya, Galina",
+                        "Oistrakh, David",
+                        "Rostropovich, Mstislav",
+                        "Vainberg, Moisei"
+                    ],
+                    "catalogue num": 127,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1967,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Ophelia's Song",
+                            "subtracks": [],
+                            "timing": 2.817,
+                            "tracks": [
+                                12
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Gamayun, Bird of Prophecy (Viktor Vasnetsov's Picture)",
+                            "subtracks": [],
+                            "timing": 3.2,
+                            "tracks": [
+                                13
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "That Troubled Night",
+                            "subtracks": [],
+                            "timing": 2.883,
+                            "tracks": [
+                                14
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Deep in Sleep",
+                            "subtracks": [],
+                            "timing": 2.9,
+                            "tracks": [
+                                15
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "The Storm",
+                            "subtracks": [],
+                            "timing": 1.883,
+                            "tracks": [
+                                16
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Secret Signs",
+                            "subtracks": [],
+                            "timing": 4.683,
+                            "tracks": [
+                                17
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Music",
+                            "subtracks": [],
+                            "timing": 5.817,
+                            "tracks": [
+                                18
+                            ]
+                        }
+                    ],
+                    "num movements": 7,
+                    "title": "Seven Romances on Poems of Alexander Block (Op. 127)",
+                    "tracks": [
+                        12,
+                        18
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 72.45
+        }
+    ],
+    "id": 8,
+    "label": "The Classical Russia Revelation",
+    "num discs": 1,
+    "title": "Rostropovich Performs Shostakovich"
+}

@@ -1,0 +1,175 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Holst, Gustav",
+        "Bryant, Steven",
+        "Maslanka, David",
+        "Omar Thomas",
+        "Nowlin, Ryan",
+        "The President's Own U.S. Marine Band"
+    ],
+    "copyright date": 2024,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Nowlin, Ryan",
+                        "The President's Own U.S. Marine Band"
+                    ],
+                    "catalogue num": 105,
+                    "composer": "Holst, Gustav",
+                    "date": 1909,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 10.85,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Suite No. 1 in E-flat, Op. 28, No. 1",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": "H"
+                },
+                {
+                    "artists": [
+                        "Nowlin, Ryan",
+                        "The President's Own U.S. Marine Band"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Bryant, Steven",
+                    "date": 2007,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 10.283,
+                            "tracks": [
+                                2
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Suite Dreams",
+                    "tracks": [
+                        2
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Nowlin, Ryan",
+                        "The President's Own U.S. Marine Band"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Maslanka, David",
+                    "date": 1981,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "There is a desert on the moon where the dreamer sinks so deeply into the ground that she reaches hell.",
+                            "subtracks": [],
+                            "timing": 5.167,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "A drunken woman falls into the water and comes out renewed and sober.",
+                            "subtracks": [],
+                            "timing": 5.6,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "A horde of small animals frightens the dreamer. The animals increase to a tremendous size, and one of them devours the little girl.",
+                            "subtracks": [],
+                            "timing": 3.317,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "A drop of water is seen as it appears when looked at through a microscope. The girl sees that the drop is full of tree branches. This portrays the origin of the world.",
+                            "subtracks": [],
+                            "timing": 12.5,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "An ascent into heaven where pagan dances are being celebrated and a descent into hell where angels are doing good deeds.",
+                            "subtracks": [],
+                            "timing": 9.9,
+                            "tracks": [
+                                7
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "A Child's Garden of Dreams",
+                    "tracks": [
+                        3,
+                        7
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Nowlin, Ryan",
+                        "The President's Own U.S. Marine Band"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Omar Thomas",
+                    "date": 2018,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Testimony",
+                            "subtracks": [],
+                            "timing": 7.283,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Shout!",
+                            "subtracks": [],
+                            "timing": 5.65,
+                            "tracks": [
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "Come Sunday",
+                    "tracks": [
+                        8,
+                        9
+                    ],
+                    "catalogue": ""
+                }
+            ],
+            "total timing": 70.6
+        }
+    ],
+    "id": 33,
+    "label": "Naxos",
+    "num discs": 1,
+    "title": "what dreams may come"
+}

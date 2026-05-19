@@ -1,0 +1,215 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Shostakovich, Dmitri",
+        "Tchaikovsky, Pyotr Ilyich",
+        "Kiesewetter, Peter",
+        "Argerich, Martha",
+        "Kremer, Gidon",
+        "Maisky, Mischa"
+    ],
+    "copyright date": 1999,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Argerich, Martha",
+                        "Kremer, Gidon",
+                        "Maisky, Mischa"
+                    ],
+                    "catalogue num": 67,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1944,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante – Moderato – Poco più mosso",
+                            "subtracks": [],
+                            "timing": 8,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro con brio",
+                            "subtracks": [],
+                            "timing": 2.983,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Largo",
+                            "subtracks": [],
+                            "timing": 5.883,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegretto – Adagio",
+                            "subtracks": [],
+                            "timing": 12.183,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Trio for Piano, Violin and Violoncello No. 2 in E minor",
+                    "tracks": [
+                        2,
+                        5
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Argerich, Martha",
+                        "Kremer, Gidon",
+                        "Maisky, Mischa"
+                    ],
+                    "catalogue num": 50,
+                    "composer": "Tchaikovsky, Pyotr Ilyich",
+                    "date": 1882,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Pezzo elegiaco: Moderato assai – Allegro giusto – In tempo molto sostenuto – Adagio con duolo e ben sostenuto – Moderato assai – Allegro giusto",
+                            "subtracks": [],
+                            "timing": 18.5,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Tema con variazioni: Andante con moto",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Tema con variazioni: Andante con moto",
+                                    "timing": 0.95,
+                                    "track": 7
+                                },
+                                {
+                                    "subtitle": "Var. I",
+                                    "timing": 0.75,
+                                    "track": 8
+                                },
+                                {
+                                    "subtitle": "Var. II: Più mosso",
+                                    "timing": 0.533,
+                                    "track": 9
+                                },
+                                {
+                                    "subtitle": "Var. III: Allegro moderato",
+                                    "timing": 0.8,
+                                    "track": 10
+                                },
+                                {
+                                    "subtitle": "Var. IV: L'istesso tempo (Allegro moderato)",
+                                    "timing": 0.983,
+                                    "track": 11
+                                },
+                                {
+                                    "subtitle": "Var. V: L'istesso tempo",
+                                    "timing": 0.633,
+                                    "track": 12
+                                },
+                                {
+                                    "subtitle": "Var. VI: Tempo di Valse",
+                                    "timing": 2.8,
+                                    "track": 13
+                                },
+                                {
+                                    "subtitle": "Var. VII: Allegro moderato",
+                                    "timing": 1.133,
+                                    "track": 14
+                                },
+                                {
+                                    "subtitle": "Var. VIII: Fuga (Allegro moderato)",
+                                    "timing": 2.283,
+                                    "track": 15
+                                },
+                                {
+                                    "subtitle": "Var. IX: Andante flebile, ma non tanto",
+                                    "timing": 3.3,
+                                    "track": 16
+                                },
+                                {
+                                    "subtitle": "Var. X: Tempo di Mazurka",
+                                    "timing": 1.45,
+                                    "track": 17
+                                },
+                                {
+                                    "subtitle": "Var. XI: Moderato",
+                                    "timing": 2.3,
+                                    "track": 18
+                                },
+                                {
+                                    "subtitle": "Variazione finale e Coda: Allegretto risoluto e con fuoco",
+                                    "timing": 6.7,
+                                    "track": 19
+                                },
+                                {
+                                    "subtitle": "[Coda] Andante con moto – Lugubre",
+                                    "timing": 5.033,
+                                    "track": 20
+                                }
+                            ],
+                            "timing": 29.05,
+                            "tracks": [
+                                7,
+                                20
+                            ]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "Trio for Piano, Violin and Violoncello in A minor",
+                    "tracks": [
+                        6,
+                        20
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Argerich, Martha",
+                        "Kremer, Gidon",
+                        "Maisky, Mischa"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Kiesewetter, Peter",
+                    "date": -1,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 2.333,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Tango pathétique",
+                    "tracks": [
+                        21
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 79.35
+        }
+    ],
+    "id": 18,
+    "label": "Deutsche Grammophon",
+    "num discs": 1,
+    "title": "Tchaikovsky - Shostakovich - Piano Trios"
+}

@@ -1,0 +1,99 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Copland, Aaron",
+        "Ormandy, Eugene",
+        "Boston Symphony Orchestra",
+        "Philadelphia Orchestra"
+    ],
+    "copyright date": 1991,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Copland, Aaron",
+                        "Boston Symphony Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Copland, Aaron",
+                    "date": 1944,
+                    "movements": [],
+                    "num movements": 1,
+                    "title": "Appalachian Spring",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Copland, Aaron",
+                        "Boston Symphony Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Copland, Aaron",
+                    "date": 1956,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Introduction and Love Music",
+                            "subtracks": [],
+                            "timing": 10.25,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Party Scene",
+                            "subtracks": [],
+                            "timing": 4.883,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "The Promise of Living",
+                            "subtracks": [],
+                            "timing": 5.467,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "The Tender Land (Orchestral Suite from the Opera)",
+                    "tracks": [
+                        2,
+                        4
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Ormandy, Eugene",
+                        "Philadelphia Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Copland, Aaron",
+                    "date": 1938,
+                    "movements": [],
+                    "num movements": 1,
+                    "title": "Billy the Kid - Ballet Suite",
+                    "tracks": [
+                        5
+                    ],
+                    "catalogue": ""
+                }
+            ],
+            "total timing": 66.117
+        }
+    ],
+    "id": 9,
+    "label": "RCA",
+    "num discs": 1,
+    "title": "Copland: Appalachian Spring - The Tender Land - Billy the Kid"
+}

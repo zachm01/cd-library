@@ -1,0 +1,79 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Franck, César",
+        "Masur, Kurt",
+        "New York Philharmoic"
+    ],
+    "copyright date": 1992,
+    "id": 76,
+    "label": "Teldec",
+    "num discs": 1,
+    "title": "Franck: Symphonie in D minor - Les Eolides",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 48.4,
+            "pieces": [
+                {
+                    "artists": [
+                        "Masur, Kurt",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue": "FWV",
+                    "catalogue num": 48,
+                    "composer": "Franck, César",
+                    "date": 1888,
+                    "num movements": 3,
+                    "title": "Symphony in D minor",
+                    "tracks": [1, 3],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Lento — Allegro non troppo",
+                            "timing": 17.083,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegretto",
+                            "timing": 9.9,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro non troppo",
+                            "timing": 9.8,
+                            "tracks": [3],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Masur, Kurt",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue": "FWV",
+                    "catalogue num": 43,
+                    "composer": "Franck, César",
+                    "date": 1876,
+                    "num movements": 1,
+                    "title": "Les Eolides",
+                    "tracks": [4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 11.333,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

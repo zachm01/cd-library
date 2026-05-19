@@ -1,0 +1,150 @@
+{
+    "RRD format": "",
+    "all artists": [
+        "Strauss, Richard",
+        "Norman, Jessye",
+        "Masur, Kurt",
+        "Gewandhausorchester Leipzig"
+    ],
+    "copyright date": 1983,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Norman, Jessye",
+                        "Masur, Kurt",
+                        "Gewandhausorchester Leipzig"
+                    ],
+                    "catalogue num": 296,
+                    "composer": "Strauss, Richard",
+                    "date": 1948,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Frühling (Hesse)",
+                            "subtracks": [],
+                            "timing": 3.717,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "September (Hesse)",
+                            "subtracks": [],
+                            "timing": 5.433,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Beim Schlafengehen (Hesse)",
+                            "subtracks": [],
+                            "timing": 6.083,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Im Abendrot (Eichendorff)",
+                            "subtracks": [],
+                            "timing": 9.9,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Vier Letzte Lieder",
+                    "tracks": [
+                        1,
+                        4
+                    ],
+                    "catalogue": "TrV"
+                },
+                {
+                    "artists": [
+                        "Norman, Jessye",
+                        "Masur, Kurt",
+                        "Gewandhausorchester Leipzig"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Strauss, Richard",
+                    "date": -1,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Cäcille (Hart) (Op. 27/2)",
+                            "subtracks": [],
+                            "timing": 2.2,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Morgen (Mackay) (Op. 27/4)",
+                            "subtracks": [],
+                            "timing": 3.917,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Wiegenlied (Dehmel) (Op. 41/1)",
+                            "subtracks": [],
+                            "timing": 5.167,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Ruhe, meine Seele (Henckel) (Op. 27/1)",
+                            "subtracks": [],
+                            "timing": 4.4,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Meinem Kinde (Falke) (Op. 37/3)",
+                            "subtracks": [],
+                            "timing": 2.633,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Zueignung (von Gilm) (Op. 10/1)",
+                            "subtracks": [],
+                            "timing": 1.767,
+                            "tracks": [
+                                10
+                            ]
+                        }
+                    ],
+                    "num movements": 6,
+                    "title": "Orchesterlieder",
+                    "tracks": [
+                        5,
+                        10
+                    ],
+                    "catalogue": "TrV"
+                }
+            ],
+            "total timing": 45.217
+        }
+    ],
+    "id": 24,
+    "label": "Philips",
+    "num discs": 1,
+    "title": "R. Strauss: Vier Letzte Lieder - Norman, Jessye"
+}

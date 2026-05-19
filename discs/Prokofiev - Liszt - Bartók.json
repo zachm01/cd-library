@@ -1,0 +1,175 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Prokofiev, Sergei",
+        "Liszt, Franz",
+        "Bartók, Béla",
+        "Argerich, Martha",
+        "Freire, Nelson",
+        "Juillet, Chantal",
+        "Keulen, Isabelle van",
+        "Robinson, Harold",
+        "Woodhams, Richard",
+        "Collins, Michael"
+    ],
+    "copyright date": 1999,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Woodhams, Richard",
+                        "Collins, Michael",
+                        "Juillet, Chantal",
+                        "Keulen, Isabelle van",
+                        "Robinson, Harold"
+                    ],
+                    "catalogue num": 39,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1924,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Tema (Moderato) – Variation I (L'istesso tempo) – Variation II (Vivace)",
+                            "subtracks": [],
+                            "timing": 5.167,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante energico",
+                            "subtracks": [],
+                            "timing": 2.783,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro sostenuto, ma con brio",
+                            "subtracks": [],
+                            "timing": 2.2,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Adagio pesante",
+                            "subtracks": [],
+                            "timing": 3.133,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Allegro precipitato, ma non troppo presto",
+                            "subtracks": [],
+                            "timing": 2.65,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Andantino",
+                            "subtracks": [],
+                            "timing": 4.45,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 6,
+                    "title": "Quintet",
+                    "tracks": [
+                        1,
+                        6
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Argerich, Martha",
+                        "Freire, Nelson"
+                    ],
+                    "catalogue num": 258,
+                    "composer": "Liszt, Franz",
+                    "date": 1866,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "[Allegro energico – Grandioso – Quasi fantasia – Andante sostenuto – Allegro agitato assai – Andante, quasi marcia funebre – Più mosso – Allegro trionfante]",
+                            "subtracks": [],
+                            "timing": 18.383,
+                            "tracks": [
+                                7
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Concerto pathétique in E minor",
+                    "tracks": [
+                        7
+                    ],
+                    "catalogue": "S"
+                },
+                {
+                    "artists": [
+                        "Juillet, Chantal",
+                        "Collins, Michael",
+                        "Argerich, Martha"
+                    ],
+                    "catalogue num": 111,
+                    "composer": "Bartók, Béla",
+                    "date": 1866,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Verbunkos [Recruiting Dance]",
+                            "subtracks": [],
+                            "timing": 5.117,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Piheno [Relaxation]",
+                            "subtracks": [],
+                            "timing": 4.517,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Sebes [Fast dance]",
+                            "subtracks": [],
+                            "timing": 7.033,
+                            "tracks": [
+                                9
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Contrasts",
+                    "tracks": [
+                        8,
+                        10
+                    ],
+                    "catalogue": "Sz"
+                }
+            ],
+            "total timing": 55.8
+        }
+    ],
+    "id": 21,
+    "label": "EMI",
+    "num discs": 1,
+    "title": "Prokofiev - Liszt - Bartók"
+}

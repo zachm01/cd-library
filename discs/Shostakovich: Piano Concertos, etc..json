@@ -1,0 +1,149 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Jansons, Mariss",
+        "Shostakovich, Dmitri",
+        "Rudy, Mikhail",
+        "Antonsen, Ole Edvard",
+        "Berliner Philharmoniker",
+        "London Philharmonic Orchestra"
+    ],
+    "copyright date": 2003,
+    "id": 81,
+    "label": "EMI",
+    "num discs": 1,
+    "title": "Shostakovich: Piano Concertos, etc.",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 74.667,
+            "pieces": [
+                {
+                    "artists": [
+                        "Rudy, Mikhail",
+                        "Antonsen, Ole Edvard",
+                        "Janson, Mariss",
+                        "Berliner Philharmoniker"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 35,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1933,
+                    "num movements": 4,
+                    "title": "Concerto for Piano, Trumpet & Strings",
+                    "tracks": [1, 4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro moderato",
+                            "timing": 6.0,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Lento",
+                            "timing": 8.5,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Moderato",
+                            "timing": 1.683,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro brio",
+                            "timing": 6.75,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Rudy, Mikhail",
+                        "Janson, Mariss",
+                        "London Philharmonic Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 102,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1957,
+                    "num movements": 3,
+                    "title": "Piano Concerto No. 2 in F",
+                    "tracks": [5, 7],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro",
+                            "timing": 7.65,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante",
+                            "timing": 6.367,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "",
+                            "timing": 5.533,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Janson, Mariss",
+                        "Berliner Philharmoniker"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 10,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1925,
+                    "num movements": 4,
+                    "title": "Symphony No. 1",
+                    "tracks": [8, 11],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto — Allegro non troppo",
+                            "timing": 8.334,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro",
+                            "timing": 4.933,
+                            "tracks": [9],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Lento",
+                            "timing": 9.133,
+                            "tracks": [10],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro molto",
+                            "timing": 9.483,
+                            "tracks": [11],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

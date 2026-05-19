@@ -1,0 +1,103 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Shostakovich, Dmitri",
+        "Shostakovich, Maxim",
+        "Bavarian Radio Symphony Orchestra",
+        "Schiff, Heinrich"
+    ],
+    "copyright date": 1985,
+    "id": 93,
+    "label": "Philips",
+    "num discs": 1,
+    "title": "Shostakovich: Cello Concertos 1 & 2",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 61.467,
+            "pieces": [
+                {
+                    "artists": [
+                        "Shostakovich, Maxim",
+                        "Bavarian Radio Symphony Orchestra",
+                        "Schiff, Heinrich"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 107,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1959,
+                    "num movements": 4,
+                    "title": "Cello Concerto No. 1",
+                    "tracks": [1, 4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto",
+                            "timing": 6.0,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Moderato",
+                            "timing": 11.05,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Cadenza —",
+                            "timing": 6.1,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro con moto",
+                            "timing": 4.467,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Shostakovich, Maxim",
+                        "Bavarian Radio Symphony Orchestra",
+                        "Schiff, Heinrich"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 126,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1966,
+                    "num movements": 3,
+                    "title": "Cello Concerto No. 2",
+                    "tracks": [5, 7],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Largo",
+                            "timing": 14.067,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegretto —",
+                            "timing": 4.1,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegretto",
+                            "timing": 15.317,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

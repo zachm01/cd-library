@@ -1,0 +1,119 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Rachmaninoff, Sergei",
+        "Jansons, Mariss",
+        "St. Petersburg Philharmonic Orchestra"
+    ],
+    "copyright date": 1994,
+    "id": 69,
+    "label": "EMI",
+    "num discs": 1,
+    "title": "Rachmaninov: Symphony No. 2 • Scherzo • Vocalise",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 67.217,
+            "pieces": [
+                {
+                    "artists": [
+                        "Jansons, Mariss",
+                        "St. Petersburg Philharmonic Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 27,
+                    "composer": "Rachmaninoff, Sergei",
+                    "date": 1907,
+                    "num movements": 4,
+                    "title": "Symphony No. 2 in E minor",
+                    "tracks": [1, 5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 17.8,
+                            "tracks": [1, 2],
+                            "subtracks": [
+                                {
+                                    "subtitle": "Largo –",
+                                    "timing": 4.267,
+                                    "track": 1
+                                },
+                                {
+                                    "subtitle": "Allegro moderato",
+                                    "timing": 13.533,
+                                    "track": 2
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro molto",
+                            "timing": 9.517,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Adagio",
+                            "timing": 13.85,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro vivace",
+                            "timing": 13.6,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Jansons, Mariss",
+                        "St. Petersburg Philharmonic Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": -1,
+                    "composer": "Rachmaninoff, Sergei",
+                    "date": 1888,
+                    "num movements": 1,
+                    "title": "Scherzo in D minor",
+                    "tracks": [6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 5.483,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Jansons, Mariss",
+                        "St. Petersburg Philharmonic Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 34,
+                    "composer": "Rachmaninoff, Sergei",
+                    "date": 1915,
+                    "num movements": 1,
+                    "title": "14 Romances",
+                    "tracks": [7],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "No. 14: Vocalise",
+                            "timing": 6.95,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

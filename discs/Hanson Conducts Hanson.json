@@ -1,0 +1,138 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Hanson, Howard",
+        "Eastman-Rochester Orchestra",
+        "Eastman School of Music Chorus"
+    ],
+    "copyright date": 1990,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Hanson, Howard",
+                        "Eastman-Rochester Orchestra"
+                    ],
+                    "catalogue num": 21,
+                    "composer": "Hanson, Howard",
+                    "date": 1923,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante solenne – Allegro con forza",
+                            "subtracks": [],
+                            "timing": 11.533,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante teneramente, con semplicita",
+                            "subtracks": [],
+                            "timing": 5.75,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro con fuoco",
+                            "subtracks": [],
+                            "timing": 9.417,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Symphony No. 1 in E minor 'Nordic' (Op. 21)",
+                    "tracks": [
+                        1,
+                        3
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Hanson, Howard",
+                        "Eastman-Rochester Orchestra"
+                    ],
+                    "catalogue num": 30,
+                    "composer": "Hanson, Howard",
+                    "date": 1930,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Adagio; allegro moderato",
+                            "subtracks": [],
+                            "timing": 13.983,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante con tenerezza",
+                            "subtracks": [],
+                            "timing": 6.6,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro con brio",
+                            "subtracks": [],
+                            "timing": 7.317,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Symphony No. 2 'Romantic' (Op. 30)",
+                    "tracks": [
+                        4,
+                        6
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Hanson, Howard",
+                        "Eastman-Rochester Orchestra",
+                        "Eastman School of Music Chorus"
+                    ],
+                    "catalogue num": 44,
+                    "composer": "Hanson, Howard",
+                    "date": 1957,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 12.067,
+                            "tracks": [
+                                7
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Song of Democracy",
+                    "tracks": [
+                        7
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 66.667
+        }
+    ],
+    "id": 53,
+    "label": "Mercury Living Presence",
+    "num discs": 1,
+    "title": "Hanson Conducts Hanson"
+}

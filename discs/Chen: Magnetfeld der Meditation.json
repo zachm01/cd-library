@@ -1,0 +1,385 @@
+{
+    "RRD format": "",
+    "all artists": [
+        "Chen. Mauliang",
+        "Lu. Chiung-jung",
+        "Fu. Shan-chen",
+        "Chen. Hsing-an",
+        "Yang. Lei",
+        "Tsai. Chia-hui",
+        "Lu. Keng-feng",
+        "Ju. May-lin",
+        "Deng. Hsei-ping"
+    ],
+    "copyright date": 2001,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [],
+                    "catalogue num": 1,
+                    "composer": "Chen. Mauliang",
+                    "date": 1957,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Tranquil Night",
+                            "subtracks": [],
+                            "timing": -8.767,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "The Flower-Selling Girl",
+                            "subtracks": [],
+                            "timing": -8.767,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "The Flower-Selling Girl",
+                            "subtracks": [],
+                            "timing": -8.767,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "The window of the youth",
+                    "tracks": [
+                        1,
+                        3
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [],
+                    "catalogue num": 4,
+                    "composer": "Chen. Mauliang",
+                    "date": 1961,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "The Layering Poem Story",
+                            "subtracks": [],
+                            "timing": -12.5,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Heaven",
+                            "subtracks": [],
+                            "timing": -12.5,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Tonight",
+                            "subtracks": [],
+                            "timing": -12.5,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Drei Lieder nach alten chinesischen Gedichten",
+                    "tracks": [
+                        4,
+                        6
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [],
+                    "catalogue num": 5,
+                    "composer": "Chen. Mauliang",
+                    "date": 1961,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Dream of the Butterfly",
+                            "subtracks": [],
+                            "timing": -6.55,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Candle in Tear",
+                            "subtracks": [],
+                            "timing": -6.55,
+                            "tracks": [
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "Two nocturnes on old Chinese poems",
+                    "tracks": [
+                        7,
+                        8
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [],
+                    "catalogue num": 16,
+                    "composer": "Chen. Mauliang",
+                    "date": 1992,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Climbing Lo-Yu Plateau",
+                            "subtracks": [],
+                            "timing": -7.117,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "The Inlaid Zither",
+                            "subtracks": [],
+                            "timing": -7.117,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "To... I",
+                            "subtracks": [],
+                            "timing": -7.117,
+                            "tracks": [
+                                11
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "To... II",
+                            "subtracks": [],
+                            "timing": -7.117,
+                            "tracks": [
+                                12
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Grief",
+                            "subtracks": [],
+                            "timing": -7.117,
+                            "tracks": [
+                                13
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Five poems from Tang Dynasty",
+                    "tracks": [
+                        9,
+                        13
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [],
+                    "catalogue num": 18,
+                    "composer": "Chen. Mauliang",
+                    "date": 1992,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Fog",
+                            "subtracks": [],
+                            "timing": -6.717,
+                            "tracks": [
+                                14
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Song",
+                            "subtracks": [],
+                            "timing": -6.717,
+                            "tracks": [
+                                15
+                            ]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "Lieder nach Gedichten von Carl Sandburg und Maurice Mäterlinck",
+                    "tracks": [
+                        14,
+                        15
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [],
+                    "catalogue num": 20,
+                    "composer": "Chen. Mauliang",
+                    "date": 1993,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Table",
+                            "subtracks": [],
+                            "timing": -3.6,
+                            "tracks": [
+                                16
+                            ]
+                        },
+                        {
+                            "number": 1,
+                            "subtitle": "Night",
+                            "subtracks": [],
+                            "timing": -3.6,
+                            "tracks": [
+                                17
+                            ]
+                        }
+                    ],
+                    "num movements": 2,
+                    "title": "Vakuum",
+                    "tracks": [
+                        16,
+                        17
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [],
+                    "catalogue num": 2,
+                    "composer": "Chen. Mauliang",
+                    "date": 1957,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 4.73,
+                            "tracks": [
+                                18
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Cutting into the twilight I",
+                    "tracks": [
+                        18
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [],
+                    "catalogue num": 3,
+                    "composer": "Chen. Mauliang",
+                    "date": 1960,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 3.267,
+                            "tracks": [
+                                19
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Poem",
+                    "tracks": [
+                        19
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [],
+                    "catalogue num": 8,
+                    "composer": "Chen. Mauliang",
+                    "date": 1984,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 5.183,
+                            "tracks": [
+                                20
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Cutting into the twilight II",
+                    "tracks": [
+                        20
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [],
+                    "catalogue num": 17,
+                    "composer": "Chen. Mauliang",
+                    "date": 1992,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 2.167,
+                            "tracks": [
+                                21
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Das Weinglas Beethovens",
+                    "tracks": [
+                        21
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [],
+                    "catalogue num": 19,
+                    "composer": "Chen. Mauliang",
+                    "date": 1993,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 2.683,
+                            "tracks": [
+                                22
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Magnetfeld der Meditation",
+                    "tracks": [
+                        22
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 63.317
+        }
+    ],
+    "id": 20,
+    "label": "Contemporary Chamber Orchestra Taipei",
+    "num discs": 1,
+    "title": "Magnetfeld der Meditation"
+}

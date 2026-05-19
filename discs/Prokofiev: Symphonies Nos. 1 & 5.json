@@ -1,0 +1,157 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Prokofiev, Sergei",
+        "Temirkanov, Yuri",
+        "St. Petersburg Philharmonic Orchestra"
+    ],
+    "copyright date": 1991,
+    "id": 95,
+    "label": "RCA",
+    "num discs": 1,
+    "title": "Prokofiev: Symphonies Nos. 1 & 5",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 77.917,
+            "pieces": [
+                {
+                    "artists": [
+                        "Temirkanov, Yuri",
+                        "St. Petersburg Philharmonic Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 25,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1917,
+                    "num movements": 4,
+                    "title": "Symphony No. 1 \"Classical\"",
+                    "tracks": [1, 4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro con brio",
+                            "timing": 4.233,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Larghetto",
+                            "timing": 4.033,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Gavotte",
+                            "timing": 1.6,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Finale",
+                            "timing": 4.2,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Temirkanov, Yuri",
+                        "St. Petersburg Philharmonic Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 60,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1935,
+                    "num movements": 5,
+                    "title": "Lieutenant Kijé: Symphonic Suite",
+                    "tracks": [5, 9],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "The Birth of Kijé",
+                            "timing": 4.85,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Romance",
+                            "timing": 4.383,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "The Wedding of Kijé",
+                            "timing": 2.817,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Troika",
+                            "timing": 2.75,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "The Burial of Kijé",
+                            "timing": 5.883,
+                            "tracks": [9],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Temirkanov, Yuri",
+                        "St. Petersburg Philharmonic Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 100,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1944,
+                    "num movements": 4,
+                    "title": "Symphony No. 5 in B-flat major",
+                    "tracks": [10, 13],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante",
+                            "timing": 12.717,
+                            "tracks": [10],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro marcato",
+                            "timing": 9.433,
+                            "tracks": [11],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Adagio",
+                            "timing": 11.383,
+                            "tracks": [12],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro giocoso",
+                            "timing": 9.317,
+                            "tracks": [13],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

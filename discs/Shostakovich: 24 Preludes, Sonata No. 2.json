@@ -1,0 +1,233 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Shostakovich, Dmitri",
+        "Viardo, Vladimir"
+    ],
+    "copyright date": 1990,
+    "id": 65,
+    "label": "Nonesuch",
+    "num discs": 1,
+    "title": "Vladimir Viardo plays Shostakovich: Twenty-four Preludes Op. 34, Piano Sonata No.2 Op. 62",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 54.9,
+            "pieces": [
+                {
+                    "artists": [ "Viardo, Vladimir" ],
+                    "catalogue": "opus",
+                    "catalogue num": 34,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1933,
+                    "num movements": 24,
+                    "title": "Twenty-four Preludes",
+                    "tracks": [1, 24],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "C major (Moderato)",
+                            "timing": 0.95,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "A minor (Allegretto)",
+                            "timing": 0.767,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "G major (Andante)",
+                            "timing": 1.7,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "E minor (Moderato)",
+                            "timing": 1.8,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "D major (Allegro vivace)",
+                            "timing": 0.483,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "B minor (Allegretto)",
+                            "timing": 1.2,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "A major (Andante)",
+                            "timing": 0.783,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "F# minor (Allegretto)",
+                            "timing": 0.967,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 9,
+                            "subtitle": "E major (Presto)",
+                            "timing": 0.6,
+                            "tracks": [9],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 10,
+                            "subtitle": "C# minor (Moderato non troppo)",
+                            "timing": 1.633,
+                            "tracks": [10],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 11,
+                            "subtitle": "B major (Allegretto)",
+                            "timing": 0.883,
+                            "tracks": [11],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 12,
+                            "subtitle": "G# minor (Allegro non tropp",
+                            "timing": 1.067,
+                            "tracks": [12],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 13,
+                            "subtitle": "F# minor (Moderato)",
+                            "timing": 0.983,
+                            "tracks": [13],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 14,
+                            "subtitle": "Eb minor (Adagio)",
+                            "timing": 2.333,
+                            "tracks": [14],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 15,
+                            "subtitle": "Db major (Allegretto)",
+                            "timing": 0.833,
+                            "tracks": [15],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 16,
+                            "subtitle": "Bb minor (Andantino)",
+                            "timing": 1.333,
+                            "tracks": [16],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 17,
+                            "subtitle": "Ab major (Largo)",
+                            "timing": 1.517,
+                            "tracks": [17],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 18,
+                            "subtitle": "F minor (Allegretto)",
+                            "timing": 0.817,
+                            "tracks": [18],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 19,
+                            "subtitle": "Eb major (Andantino)",
+                            "timing": 1.467,
+                            "tracks": [19],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 20,
+                            "subtitle": "C minor (Allegretto furioso)",
+                            "timing": 0.65,
+                            "tracks": [20],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 21,
+                            "subtitle": "E major (Allegretto poco moderato)",
+                            "timing": 0.733,
+                            "tracks": [21],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 22,
+                            "subtitle": "G minor (Adagio)",
+                            "timing": 2.3,
+                            "tracks": [22],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 23,
+                            "subtitle": "F major (Moderato)",
+                            "timing": 1.117,
+                            "tracks": [23],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 24,
+                            "subtitle": "D minor (Allegretto)",
+                            "timing": 1.117,
+                            "tracks": [24],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [ "Viardo, Vladimir" ],
+                    "catalogue": "opus",
+                    "catalogue num": 61,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1942,
+                    "num movements": 3,
+                    "title": "Piano Sonata No. 2",
+                    "tracks": [25, 27],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegretto",
+                            "timing": 7.467,
+                            "tracks": [25],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Largo",
+                            "timing": 7.167,
+                            "tracks": [26],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Moderato – Allegro non troppo",
+                            "timing": 11.35,
+                            "tracks": [27],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

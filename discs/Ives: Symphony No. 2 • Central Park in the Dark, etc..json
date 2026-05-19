@@ -1,0 +1,203 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Ives, Charles",
+        "Bernstein, Leonard",
+        "New York Philharmonic"
+    ],
+    "copyright date": 1990,
+    "id": 83,
+    "label": "Deutsche Grammophon",
+    "num discs": 1,
+    "title": "Ives: Symphony No. 2 • Central Park in the Dark, etc.",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 67.533,
+            "pieces": [
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Ives, Charles",
+                    "date": 1902,
+                    "num movements": 5,
+                    "title": "Symphony No. 2",
+                    "tracks": [1, 5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante moderato",
+                            "timing": 6.267,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro",
+                            "timing": 11.1,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Adagio cantabile",
+                            "timing": 11.683,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Lento maestoso",
+                            "timing": 3.083,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Allegro molto vivace",
+                            "timing": 10.083,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Ives, Charles",
+                    "date": 1911,
+                    "num movements": 1,
+                    "title": "The Gong on the Hook and Ladder",
+                    "tracks": [6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Firemen's Parade on Main Street",
+                            "timing": 2.217,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Ives, Charles",
+                    "date": 1911,
+                    "num movements": 1,
+                    "title": "Tone Roads no. 1",
+                    "tracks": [7],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 3.267,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Ives, Charles",
+                    "date": 1904,
+                    "num movements": 1,
+                    "title": "Hymn: Largo cantabile",
+                    "tracks": [8],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 3.717,
+                            "tracks": [8],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Ives, Charles",
+                    "date": 1907,
+                    "num movements": 1,
+                    "title": "Hallowe'en",
+                    "tracks": [9],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.933,
+                            "tracks": [9],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Ives, Charles",
+                    "date": 1906,
+                    "num movements": 1,
+                    "title": "Central Park in the Dark",
+                    "tracks": [10],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 7.183,
+                            "tracks": [10],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "New York Philharmonic"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Ives, Charles",
+                    "date": 1908,
+                    "num movements": 1,
+                    "title": "The Unanswered Question",
+                    "tracks": [11],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 6.117,
+                            "tracks": [11],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

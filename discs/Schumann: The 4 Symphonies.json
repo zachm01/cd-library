@@ -1,0 +1,206 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Schumann, Robert",
+        "Bernstein, Leonard",
+        "Wiener Philharmoniker"
+    ],
+    "copyright date": 1986,
+    "id": 90,
+    "label": "Deutsche Grammophon",
+    "num discs": 2,
+    "title": "Schumann: The 4 Symphonies",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 76.183,
+            "pieces": [
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "Wiener Philharmoniker"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 38,
+                    "composer": "Schumann, Robert",
+                    "date": 1841,
+                    "num movements": 4,
+                    "title": "Symphony No. 1 in B-flat major",
+                    "tracks": [1, 4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante un poco maestoso — Allegro molto vivace",
+                            "timing": 11.55,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Larghetto — attaca:",
+                            "timing": 7.833,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scherzo: Molto vivace",
+                            "timing": 5.75,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro animato e grazioso",
+                            "timing": 8.267,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "Wiener Philharmoniker"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 61,
+                    "composer": "Schumann, Robert",
+                    "date": 1846,
+                    "num movements": 4,
+                    "title": "Symphony No. 2 in C major",
+                    "tracks": [5, 8],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Sostenuto assai — Allegro, ma non troppo",
+                            "timing": 12.983,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Scherzo: Allegro vivace",
+                            "timing": 7.117,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Adagio espressivo",
+                            "timing": 13.817,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro molto vivace",
+                            "timing": 8.767,
+                            "tracks": [8],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 1,
+            "total timing": 76.183,
+            "pieces": [
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "Wiener Philharmoniker"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 97,
+                    "composer": "Schumann, Robert",
+                    "date": 1851,
+                    "num movements": 5,
+                    "title": "Symphony No. 3 in E-flat major \"Rhenish\"",
+                    "tracks": [1, 5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Lebhaft",
+                            "timing": 9.75,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Scherzo: Sehr mäßig",
+                            "timing": 6.467,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Nicht schnell",
+                            "timing": 6.133,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Feierlich — (quasi attacca:)",
+                            "timing": 6.95,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Lebhaft",
+                            "timing": 5.4,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Bernstein, Leonard",
+                        "Wiener Philharmoniker"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 120,
+                    "composer": "Schumann, Robert",
+                    "date": 1853,
+                    "num movements": 4,
+                    "title": "Symphony No. 4 in D minor",
+                    "tracks": [5, 9],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Ziemlich langsam — Lebhaft — (attacca:)",
+                            "timing": 11.85,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Romanze: Ziemlich langsam — (attacca:)",
+                            "timing": 5.217,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scherzo: Lebhaft — Trio — (attacca:)",
+                            "timing": 5.9,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Langsam — Lebhaft",
+                            "timing": 9.483,
+                            "tracks": [9],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

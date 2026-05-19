@@ -1,0 +1,165 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Borodin, Alexander",
+        "Glinka, Mikhail",
+        "Mussorgsky, Modest",
+        "Tchaikovsky, Pytor Ilyich",
+        "Solti, Georg",
+        "London Symphony Orchestra",
+        "London Symphony Chorus",
+        "L'Orchestre de la Société des Concerts du Conservatoire de Paris"
+    ],
+    "copyright date": 1966,
+    "id": 79,
+    "label": "Decca",
+    "num discs": 1,
+    "title": "Romantic Russia - Sir Georg Solti",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 76.95,
+            "pieces": [
+                {
+                    "artists": [
+                        "Solti, Georg",
+                        "London Symphony Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Glinka, Mikhail",
+                    "date": 1842,
+                    "num movements": 1,
+                    "title": "Ruslan and Lyudmila",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Overture",
+                            "timing": 5.033,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Solti, Georg",
+                        "London Symphony Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Mussorgsky, Modest",
+                    "date": 1880,
+                    "num movements": 1,
+                    "title": "Khovanshchina",
+                    "tracks": [2],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Prelude",
+                            "timing": 5.083,
+                            "tracks": [2],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Solti, Georg",
+                        "London Symphony Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Mussorgsky, Modest",
+                    "date": 1867,
+                    "num movements": 1,
+                    "title": "Night on the Bare Mountain",
+                    "tracks": [3],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 11.183,
+                            "tracks": [3],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Solti, Georg",
+                        "London Symphony Orchestra",
+                        "London Symphony Chorus"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Borodin, Alexander",
+                    "date": 1887,
+                    "num movements": 2,
+                    "title": "Prince Igor",
+                    "tracks": [4, 5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Overture",
+                            "timing": 10.833,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Polovtsian Dances",
+                            "timing": 13.633,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Solti, Georg",
+                        "L'Orchestre de la Société des Concerts du Conservatoire de Paris"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 17,
+                    "composer": "Tchaikovsky, Pytor Ilyich",
+                    "date": 1872,
+                    "num movements": 4,
+                    "title": "Symphony No. 2 in C minor",
+                    "tracks": [6, 9],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante sostenuto — Allegro vivo",
+                            "timing": 10.7676,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andantino marzriale, quasi moderato",
+                            "timing": 6.334,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scherzo: Allegro molto vivace",
+                            "timing": 4.15,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Moderato assai — Allegro vivo",
+                            "timing": 9.783,
+                            "tracks": [9],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

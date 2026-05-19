@@ -1,0 +1,200 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Prokofiev, Sergei",
+        "Rimsky-Korsakov, Nikolai",
+        "Stravinsky, Igor",
+        "Khachaturian, Aram",
+        "Myaskovsky, Nikolaï",
+        "Rozhdestvensky, Gennady",
+        "Stockholm Concert Band"
+    ],
+    "copyright date": 1996,
+    "id": 100,
+    "label": "Chandos",
+    "num discs": 1,
+    "title": "Russian Concert Band Music",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 0.0,
+            "pieces": [
+                {
+                    "artists": [
+                        "Rozhdestvensky, Gennady",
+                        "Stockholm Concert Band"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 99,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1943,
+                    "num movements": 1,
+                    "title": "March for Military Band",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 2.617,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Rozhdestvensky, Gennady",
+                        "Stockholm Concert Band"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Rimsky-Korsakov, Nikolai",
+                    "date": 1878,
+                    "num movements": 1,
+                    "title": "Variations for Oboe & Military Band",
+                    "tracks": [2],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 9.75,
+                            "tracks": [2],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Rozhdestvensky, Gennady",
+                        "Stockholm Concert Band"
+                    ],
+                    "catalogue": "K",
+                    "catalogue num": 15,
+                    "composer": "Stravinsky, Igor",
+                    "date": 1917,
+                    "num movements": 1,
+                    "title": "Song of the Volga Boatmen",
+                    "tracks": [3],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.2,
+                            "tracks": [3],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Rozhdestvensky, Gennady",
+                        "Stockholm Concert Band"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 139,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1970,
+                    "num movements": 1,
+                    "title": "March of the Soviet Police",
+                    "tracks": [4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 1.483,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Rozhdestvensky, Gennady",
+                        "Stockholm Concert Band"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Rimsky-Korsakov, Nikolai",
+                    "date": 1878,
+                    "num movements": 1,
+                    "title": "Concerstück for Clarinet & Military Band",
+                    "tracks": [5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 8.6,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Rozhdestvensky, Gennady",
+                        "Stockholm Concert Band"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Khachaturian, Aram",
+                    "date": 1973,
+                    "num movements": 1,
+                    "title": "Soviet Police March",
+                    "tracks": [6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 4.133,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Rozhdestvensky, Gennady",
+                        "Stockholm Concert Band"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 46,
+                    "composer": "Myaskovsky, Nikolaï",
+                    "date": 1939,
+                    "num movements": 1,
+                    "title": "Symphony No. 19",
+                    "tracks": [7, 10],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Maestoso — Allegro giocoso",
+                            "timing": 7.083,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Moderato",
+                            "timing": 6.017,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Andante serioso",
+                            "timing": 6.783,
+                            "tracks": [9],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Poco maestoso — Vivo",
+                            "timing": 6.033,
+                            "tracks": [10],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

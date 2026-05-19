@@ -1,0 +1,215 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Bartók, Béla",
+        "Reiner, Fritz",
+        "Chicago Symphony Orchestra"
+    ],
+    "copyright date": 1993,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Reiner, Fritz",
+                        "Chicago Symphony"
+                    ],
+                    "catalogue num": 116,
+                    "composer": "Bartók, Béla",
+                    "date": 1943,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Introduzione: Andante non troppo; Allegro vivace",
+                            "subtracks": [],
+                            "timing": 9.917,
+                            "tracks": [
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Giuco delle coppie: Allegretto scherzando",
+                            "subtracks": [],
+                            "timing": 5.967,
+                            "tracks": [
+                                2,
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Elegia: Andante non troppo",
+                            "subtracks": [],
+                            "timing": 7.9,
+                            "tracks": [
+                                3,
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Intermezzo interrotto: Allegretto",
+                            "subtracks": [],
+                            "timing": 4.217,
+                            "tracks": [
+                                4,
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Finale: Pesante; Presto",
+                            "subtracks": [],
+                            "timing": 8.967,
+                            "tracks": [
+                                5,
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Concerto for Orchestra",
+                    "tracks": [
+                        1,
+                        5
+                    ],
+                    "catalogue": "Sz"
+                },
+                {
+                    "artists": [
+                        "Reiner, Fritz",
+                        "Chicago Symphony"
+                    ],
+                    "catalogue num": 106,
+                    "composer": "Bartók, Béla",
+                    "date": 1936,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante tranquillo",
+                            "subtracks": [],
+                            "timing": 7.05,
+                            "tracks": [
+                                6,
+                                6
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro",
+                            "subtracks": [],
+                            "timing": 6.983,
+                            "tracks": [
+                                7,
+                                7
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Adagio",
+                            "subtracks": [],
+                            "timing": 7,
+                            "tracks": [
+                                8,
+                                8
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro molto",
+                            "subtracks": [],
+                            "timing": 6.7,
+                            "tracks": [
+                                9,
+                                9
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Music for Strings and Percussion Celesta",
+                    "tracks": [
+                        6,
+                        9
+                    ],
+                    "catalogue": "Sz"
+                },
+                {
+                    "artists": [
+                        "Reiner, Fritz",
+                        "Chicago Symphony"
+                    ],
+                    "catalogue num": 97,
+                    "composer": "Bartók, Béla",
+                    "date": 1931,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "An Evening in the Village",
+                            "subtracks": [],
+                            "timing": 2.683,
+                            "tracks": [
+                                10,
+                                10
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Bear Dance",
+                            "subtracks": [],
+                            "timing": 1.617,
+                            "tracks": [
+                                11,
+                                11
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Melody",
+                            "subtracks": [],
+                            "timing": 2,
+                            "tracks": [
+                                12,
+                                12
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Slightly Tipsy",
+                            "subtracks": [],
+                            "timing": 2.233,
+                            "tracks": [
+                                13,
+                                13
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Swineherd's Dance",
+                            "subtracks": [],
+                            "timing": 1.95,
+                            "tracks": [
+                                14,
+                                14
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Hungarian Sketches",
+                    "tracks": [
+                        10,
+                        14
+                    ],
+                    "catalogue": "Sz"
+                }
+            ],
+            "total timing": 75.667
+        }
+    ],
+    "id": 5,
+    "label": "RCA",
+    "num discs": 1,
+    "title": "Concerto for Orchestra"
+}

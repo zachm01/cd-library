@@ -1,0 +1,168 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Mahler, Gustav",
+        "Hampson, Thomas",
+        "Bernstein, Leonard",
+        "Wiener Philharmoniker"
+    ],
+    "copyright date": 1991,
+    "id": 87,
+    "label": "Deutsche Grammophon",
+    "num discs": 1,
+    "title": "Mahler: Lieder eines fahrenden Gesellen • Rückert-Lieder",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 68.233,
+            "pieces": [
+                {
+                    "artists": [
+                        "Hampson, Thomas",
+                        "Bernstein, Leonard",
+                        "Wiener Philharmoniker"
+                    ],
+                    "catalogue": "GMW",
+                    "catalogue num": 10,
+                    "composer": "Mahler, Gustav",
+                    "date": 1892,
+                    "num movements": 4,
+                    "title": "Lieder eines fahrenden Gesellen",
+                    "tracks": [1, 4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Wenn mein Schatz Hochzeit macht (Schneller — Sanft bewegt)",
+                            "timing": 4.417,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Ging heut' morgen übers Feld (In gemächlicher Bewegung)",
+                            "timing": 4.117,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Ich hab' ein glühend Messer (Stürmich, wild)",
+                            "timing": 3.334,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Die zwei blauen Augen ([Alla Marcia.] Mit geheimnisvoll schwermütigem Ausdruck — Ohne Sentimentialität)",
+                            "timing": 5.567,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Hampson, Thomas",
+                        "Bernstein, Leonard",
+                        "Wiener Philharmoniker"
+                    ],
+                    "catalogue": "GMW",
+                    "catalogue num": 45,
+                    "composer": "Mahler, Gustav",
+                    "date": 1904,
+                    "num movements": 5,
+                    "title": "Kindertotenlieder",
+                    "tracks": [5, 9],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Nun will die Sonn' so hell aufgehn (Langsam und schwermütig; nicht schleppend)",
+                            "timing": 5.983,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Nun seh' ich wohl, warum so dunkle Flammen (Ruhig, nicht schleppened)",
+                            "timing": 5.2,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Wenn dein Mütterlein (Schwer, dumpf)",
+                            "timing": 6.05,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Oft denk' ich, sie sind nur ausgegangen (Ruhig bewegt, ohne zu eilen)",
+                            "timing": 3.517,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "In diesem Wetter, in diesem Braus",
+                            "timing": 7.4,
+                            "tracks": [9],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Hampson, Thomas",
+                        "Bernstein, Leonard",
+                        "Wiener Philharmoniker"
+                    ],
+                    "catalogue": "GMW",
+                    "catalogue num": 39,
+                    "composer": "Mahler, Gustav",
+                    "date": 1902,
+                    "num movements": 5,
+                    "title": "5 Lieder nach Gedichten von Friedrich Rückert",
+                    "tracks": [10, 14],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Liebst du um Schönheit (Innig)",
+                            "timing": 2.733,
+                            "tracks": [10],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Blicke mir nicht in die Lieder (Sehr lebhaft)",
+                            "timing": 1.5,
+                            "tracks": [11],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Ich atmet' einen linden Duft (Sehr zart und innig)",
+                            "timing": 3.0,
+                            "tracks": [12],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Um Mitternacht (Ruhig, gleichmäßig)",
+                            "timing": 7.383,
+                            "tracks": [13],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Ich bin der Welt abhanden gekommen (Äußerst langsam und zurückhaltend)",
+                            "timing": 7.783,
+                            "tracks": [14],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

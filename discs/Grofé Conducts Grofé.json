@@ -1,0 +1,111 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Grofé, Ferde",
+        "Sanroma, Jesús",
+        "Rochester Philharmonic Orchestra"
+    ],
+    "copyright date": 1989,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Grofé, Ferde",
+                        "Rochester Philharmonic Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Grofé, Ferde",
+                    "date": 1931,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Sunrise",
+                            "subtracks": [],
+                            "timing": 5.417,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Painted Desert",
+                            "subtracks": [],
+                            "timing": 5.1,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "On the Trail",
+                            "subtracks": [],
+                            "timing": 8.6,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Sunset",
+                            "subtracks": [],
+                            "timing": 4.983,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Cloudburst",
+                            "subtracks": [],
+                            "timing": 8.3,
+                            "tracks": [
+                                4
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Grand Canyon Suite",
+                    "tracks": [
+                        1,
+                        5
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Grofé, Ferde",
+                        "Sanroma, Jesús",
+                        "Rochester Philharmonic Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Grofé, Ferde",
+                    "date": 1958,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 15.317,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Piano Concerto in D-minor",
+                    "tracks": [
+                        6
+                    ],
+                    "catalogue": ""
+                }
+            ],
+            "total timing": 48
+        }
+    ],
+    "id": 30,
+    "label": "Philips",
+    "num discs": 1,
+    "title": "Grofé Conducts Grofé"
+}

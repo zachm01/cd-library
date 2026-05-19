@@ -1,0 +1,171 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Tchaikovsky, Pyotr Ilyich",
+        "Markevitch, Igor",
+        "London Symphony Orchestra"
+    ],
+    "copyright date": 1966,
+    "id": 86,
+    "label": "Philips",
+    "num discs": 2,
+    "title": "Tchaikovsky: Symphonies Nos. 4-6 • Markevitch",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 67.583,
+            "pieces": [
+                {
+                    "artists": [
+                        "Markevitch, Igor",
+                        "London Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 36,
+                    "composer": "Tchaikovsky, Pyotr Ilyich",
+                    "date": 1878,
+                    "num movements": 4,
+                    "title": "Symphony No. 4 in F minor",
+                    "tracks": [1, 4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante sostenuto — Moderato con anima",
+                            "timing": 18.383,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andantino in modo di canzona",
+                            "timing": 9.617,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Scherzo (Allegro)",
+                            "timing": 5.483,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Finale (Allegro con fuoco)",
+                            "timing": 8.75,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Markevitch, Igor",
+                        "London Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 64,
+                    "composer": "Tchaikovsky, Pyotr Ilyich",
+                    "date": 1888,
+                    "num movements": 4,
+                    "title": "Symphony No. 5 in E minor",
+                    "tracks": [5, 6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Andante – Allegro con anima",
+                            "timing": 12.5,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante cantabile, con alcuna licenza — Moderato con anima",
+                            "timing": 12.267,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "total timing": 64.117,
+            "pieces": [
+                {
+                    "artists": [
+                        "Markevitch, Igor",
+                        "London Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 64,
+                    "composer": "Tchaikovsky, Pyotr Ilyich",
+                    "date": 1888,
+                    "num movements": 4,
+                    "title": "Symphony No. 5 in E minor",
+                    "tracks": [1, 2],
+                    "movements": [
+                        {
+                            "number": 3,
+                            "subtitle": "Valse (Allegro moderato)",
+                            "timing": 5.4,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Finale (Andante maestoso — Allegro vivace",
+                            "timing": 12.9,
+                            "tracks": [2],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Markevitch, Igor",
+                        "London Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 74,
+                    "composer": "Tchaikovsky, Pyotr Ilyich",
+                    "date": 1893,
+                    "num movements": 4,
+                    "title": "Symphony No. 6 in B minor \"Pathétique\"",
+                    "tracks": [3, 6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Adagio — Allegro non troppo",
+                            "timing": 18.617,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegro con grazia",
+                            "timing": 7.533,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro molto vivace",
+                            "timing": 9.367,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Finale (Adagio lamentoso — Andante)",
+                            "timing": 9.75,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

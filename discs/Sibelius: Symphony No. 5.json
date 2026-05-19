@@ -1,0 +1,118 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Sibelius, Jean",
+        "Järvi, Neeme",
+        "Gothenburg Symphony Orchestra"
+    ],
+    "copyright date": 1984,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Järvi, Neeme",
+                        "Gothenburg Symphony Orchestra"
+                    ],
+                    "catalogue num": 82,
+                    "composer": "Sibelius, Jean",
+                    "date": 1915,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Tempo molto moderato. Allegro moderato",
+                            "subtracks": [],
+                            "timing": 13.883,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante mosso, quasi allegretto",
+                            "subtracks": [],
+                            "timing": 1.15,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro molto",
+                            "subtracks": [],
+                            "timing": 9.367,
+                            "tracks": [
+                                3
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Symphony No. 5 in E-flat",
+                    "tracks": [
+                        1,
+                        3
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Järvi, Neeme",
+                        "Gothenburg Symphony Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Sibelius, Jean",
+                    "date": 1922,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 5.05,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Andante festivo",
+                    "tracks": [
+                        4
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Järvi, Neeme",
+                        "Gothenburg Symphony Orchestra"
+                    ],
+                    "catalogue num": 10,
+                    "composer": "Sibelius, Jean",
+                    "date": 1893,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 7.767,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Karelia-Overture",
+                    "tracks": [
+                        5
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 46.417
+        }
+    ],
+    "id": 7,
+    "label": "BIS",
+    "num discs": 1,
+    "title": "Sibelius: Symphony No. 5"
+}

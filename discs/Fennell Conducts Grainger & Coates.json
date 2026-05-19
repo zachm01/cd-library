@@ -1,0 +1,301 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Fennel, Frederick",
+        "Eastman-Rochester \"Pops\" Orchestra",
+        "London \"Pops\" Orchestra",
+        "Grainger, Percy",
+        "Caotes, Eric"
+    ],
+    "copyright date": 1993,
+    "id": 77,
+    "label": "Mercury Living Presence",
+    "num discs": 1,
+    "title": "Fennel Conducts Grainger & Coates",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 63.9,
+            "pieces": [
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman-Rochester \"Pops\" Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Grainger, Percy",
+                    "date": 1918,
+                    "num movements": 1,
+                    "title": "Country Gardens",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 2.317,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman-Rochester \"Pops\" Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Grainger, Percy",
+                    "date": 1913,
+                    "num movements": 1,
+                    "title": "Shepherd's Hey",
+                    "tracks": [2],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 2.317,
+                            "tracks": [2],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman-Rochester \"Pops\" Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Grainger, Percy",
+                    "date": 1921,
+                    "num movements": 1,
+                    "title": "Colonial Song",
+                    "tracks": [3],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 6.067,
+                            "tracks": [3],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman-Rochester \"Pops\" Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Grainger, Percy",
+                    "date": 1919,
+                    "num movements": 1,
+                    "title": "Children's March",
+                    "tracks": [4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 4.217,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman-Rochester \"Pops\" Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Grainger, Percy",
+                    "date": 1942,
+                    "num movements": 1,
+                    "title": "The Immovable Do",
+                    "tracks": [5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 4.467,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman-Rochester \"Pops\" Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Grainger, Percy",
+                    "date": 1937,
+                    "num movements": 1,
+                    "title": "Mock Morris",
+                    "tracks": [6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 4.467,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman-Rochester \"Pops\" Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Grainger, Percy",
+                    "date": 1932,
+                    "num movements": 1,
+                    "title": "Handel in the Strand",
+                    "tracks": [7],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 4.317,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman-Rochester \"Pops\" Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Grainger, Percy",
+                    "date": 1920,
+                    "num movements": 1,
+                    "title": "Irish Tune from County Derry",
+                    "tracks": [8],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 3.583,
+                            "tracks": [8],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman-Rochester \"Pops\" Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Grainger, Percy",
+                    "date": 1930,
+                    "num movements": 1,
+                    "title": "Spoon River",
+                    "tracks": [9],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 4.083,
+                            "tracks": [9],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman-Rochester \"Pops\" Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Grainger, Percy",
+                    "date": 1912,
+                    "num movements": 1,
+                    "title": "My Robin is to the Greenwood Gone",
+                    "tracks": [10],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 4.15,
+                            "tracks": [10],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman-Rochester \"Pops\" Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Grainger, Percy",
+                    "date": 1914,
+                    "num movements": 1,
+                    "title": "Molly on the Shore",
+                    "tracks": [11],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 4.433,
+                            "tracks": [11],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman-Rochester \"Pops\" Orchestra"
+                    ],
+                    "catalogue": "",
+                    "catalogue num": -1,
+                    "composer": "Coates, Eric",
+                    "date": 1944,
+                    "num movements": 3,
+                    "title": "The Three Elizabeths",
+                    "tracks": [12, 14],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Halcyon Days",
+                            "timing": 7.45,
+                            "tracks": [12],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Springtime in Angus",
+                            "timing": 8.033,
+                            "tracks": [13],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Youth of Britain",
+                            "timing": 4.9,
+                            "tracks": [14],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

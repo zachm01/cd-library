@@ -1,0 +1,223 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Prokofiev, Sergei",
+        "Abbado, Claudio",
+        "Obraztsova, Elena",
+        "London Symphony Chorus",
+        "London Symphony Orchestra"
+    ],
+    "copyright date": 1980,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Abbado, Claudio",
+                        "Obraztsova, Elena",
+                        "London Symphony Chorus",
+                        "London Symphony Orchestra"
+                    ],
+                    "catalogue num": 78,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1939,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Russia under the Mongol Yoke",
+                            "subtracks": [],
+                            "timing": 3.15,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Song about Alexander Nevsky",
+                            "subtracks": [],
+                            "timing": 3.533,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "The Crusaders in Pskov",
+                            "subtracks": [],
+                            "timing": 6.667,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Arise, ye Russian People",
+                            "subtracks": [],
+                            "timing": 2.334,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "The Battle on the Ice",
+                            "subtracks": [],
+                            "timing": 12.067,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "The Field of the Dead",
+                            "subtracks": [],
+                            "timing": 6.017,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Alexander's Entry into Pskov",
+                            "subtracks": [],
+                            "timing": 4.75,
+                            "tracks": [
+                                7
+                            ]
+                        }
+                    ],
+                    "num movements": 7,
+                    "title": "Alexander Nevsky (Op. 78)",
+                    "tracks": [
+                        1,
+                        7
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Abbado, Claudio",
+                        "London Symphony Orchestra"
+                    ],
+                    "catalogue num": 20,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1915,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "The Adoration of Veless and Ala",
+                            "subtracks": [],
+                            "timing": 5.633,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "The Enemy God and the Dance of the Spirits of Darkness",
+                            "subtracks": [],
+                            "timing": 3.183,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Night",
+                            "subtracks": [],
+                            "timing": 6.267,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "The Glorious Departure of Lolly and the Sun's Procession",
+                            "subtracks": [],
+                            "timing": 5.55,
+                            "tracks": [
+                                11
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Scythian Suite (Op. 20)",
+                    "tracks": [
+                        8,
+                        11
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Abbado, Claudio",
+                        "London Symphony Orchestra"
+                    ],
+                    "catalogue num": 60,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1933,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Kijé's Birth",
+                            "subtracks": [],
+                            "timing": 4.167,
+                            "tracks": [
+                                12
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Romance",
+                            "subtracks": [],
+                            "timing": 4.15,
+                            "tracks": [
+                                13
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Kijé's Wedding",
+                            "subtracks": [],
+                            "timing": 2.6,
+                            "tracks": [
+                                14
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Troika",
+                            "subtracks": [],
+                            "timing": 2.733,
+                            "tracks": [
+                                15
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Kijé's Burial",
+                            "subtracks": [],
+                            "timing": 5.917,
+                            "tracks": [
+                                16
+                            ]
+                        }
+                    ],
+                    "num movements": 4,
+                    "title": "Lieutenant Kijé (Op. 60)",
+                    "tracks": [
+                        12,
+                        16
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 78.85
+        }
+    ],
+    "id": 58,
+    "label": "Deutsche Grammophon",
+    "num discs": 1,
+    "title": "Prokofiev: Alexander Nevsky"
+}

@@ -1,0 +1,220 @@
+{
+    "RRD format": "ADD",
+    "all artists": [
+        "Jacob, Gordon",
+        "William Walton",
+        "Holst, Gustav",
+        "Bennett, Robert Russell",
+        "Williams, Clifton",
+        "Fennell, Frederick",
+        "Eastman Wind Ensemble"
+    ],
+    "copyright date": 1990,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman Wind Ensemble"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Jacob, Gordon",
+                    "date": 1924,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "The Earle of Oxford's Marche",
+                            "subtracks": [],
+                            "timing": 3.233,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Pavana",
+                            "subtracks": [],
+                            "timing": 2.8,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Jhon come kisse me now",
+                            "subtracks": [],
+                            "timing": 1.883,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "The Mayden's Song",
+                            "subtracks": [],
+                            "timing": 3.833,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Wolsey's Wilde",
+                            "subtracks": [],
+                            "timing": 2.283,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "The Bells",
+                            "subtracks": [],
+                            "timing": 4.217,
+                            "tracks": [
+                                6
+                            ]
+                        }
+                    ],
+                    "num movements": 6,
+                    "title": "Suite \"William Byrd\"",
+                    "tracks": [
+                        1,
+                        6
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman Wind Ensemble"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "William Walton",
+                    "date": 1937,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 9.917,
+                            "tracks": [
+                                7
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "\"Crown Imperial\": A Coronation March",
+                    "tracks": [
+                        7
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman Wind Ensemble"
+                    ],
+                    "catalogue num": 178,
+                    "composer": "Holst, Gustav",
+                    "date": 1930,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 13.7,
+                            "tracks": [
+                                8
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "\"Hammersmith\": Prelude and Scherzo, Op. 52",
+                    "tracks": [
+                        8
+                    ],
+                    "catalogue": "H"
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman Wind Ensemble"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Bennett, Robert Russell",
+                    "date": 1958,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Serenade",
+                            "subtracks": [],
+                            "timing": 4.217,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Spiritual",
+                            "subtracks": [],
+                            "timing": 5.1,
+                            "tracks": [
+                                10
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Celebration",
+                            "subtracks": [],
+                            "timing": 4.383,
+                            "tracks": [
+                                11
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Symphonic Songs for Band",
+                    "tracks": [
+                        9,
+                        11
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Fennell, Frederick",
+                        "Eastman Wind Ensemble"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Williams, Clifton",
+                    "date": 1956,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 5.833,
+                            "tracks": [
+                                12
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Fanfare and Allegro",
+                    "tracks": [
+                        12
+                    ],
+                    "catalogue": ""
+                }
+            ],
+            "total timing": 61.5
+        }
+    ],
+    "id": 10,
+    "label": "Mercury Living Presence",
+    "num discs": 1,
+    "title": "British and American Band Classics"
+}

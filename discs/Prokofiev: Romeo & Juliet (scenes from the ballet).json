@@ -1,0 +1,239 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Prokofiev, Sergei",
+        "Tilson-Thomas, Michael",
+        "San Francisco Symphony"
+    ],
+    "copyright date": 1996,
+    "id": 74,
+    "label": "RCA",
+    "num discs": 1,
+    "title": "Prokofiev: Romeo & Juliet (scenes from the ballet)",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 0.0,
+            "pieces": [
+                {
+                    "artists": [
+                        "Tilson-Thomas, Michael",
+                        "San Francisco Symphony"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 64,
+                    "composer": "Prokofiev, Sergei",
+                    "date": 1935,
+                    "num movements": 29,
+                    "title": "Romeo & Juliet",
+                    "tracks": [1, 29],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Introduction to Act I",
+                            "timing": 2.75,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Romeo",
+                            "timing": 1.683,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "The Street Awakens",
+                            "timing": 1.433,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "The Quarrel",
+                            "timing": 1.767,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "The Fight",
+                            "timing": 2.583,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "The Duke's Command",
+                            "timing": 1.667,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Interlude",
+                            "timing": 2.2,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "Nurse",
+                            "timing": 2.167,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 9,
+                            "subtitle": "Young Juliet",
+                            "timing": 3.617,
+                            "tracks": [9],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 10,
+                            "subtitle": "Arrival of the Guests",
+                            "timing": 4.183,
+                            "tracks": [10],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 11,
+                            "subtitle": "Dance of the Knights",
+                            "timing": 4.567,
+                            "tracks": [11],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 12,
+                            "subtitle": "Mercutio",
+                            "timing": 2.167,
+                            "tracks": [12],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 13,
+                            "subtitle": "Madrigal",
+                            "timing": 2.0,
+                            "tracks": [13],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 14,
+                            "subtitle": "Gavotte",
+                            "timing": 2.783,
+                            "tracks": [14],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 15,
+                            "subtitle": "Balcony Scene",
+                            "timing": 8.25,
+                            "tracks": [15],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 16,
+                            "subtitle": "Introduction to Act III",
+                            "timing": 1.233,
+                            "tracks": [16],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 17,
+                            "subtitle": "Folk Dance",
+                            "timing": 4.1,
+                            "tracks": [17],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 18,
+                            "subtitle": "Dance with Mandolins",
+                            "timing": 1.917,
+                            "tracks": [18],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 19,
+                            "subtitle": "Public Merrymaking",
+                            "timing": 2.783,
+                            "tracks": [19],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 20,
+                            "subtitle": "The Meeting of Tybalt and Mercutio",
+                            "timing": 1.75,
+                            "tracks": [20],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 21,
+                            "subtitle": "The Duel",
+                            "timing": 1.383,
+                            "tracks": [21],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 22,
+                            "subtitle": "Romeo Decides to Avenge Mercutio",
+                            "timing": 1.217,
+                            "tracks": [22],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 23,
+                            "subtitle": "Finale (Death of Tybalt)",
+                            "timing": 1.217,
+                            "tracks": [23],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 24,
+                            "subtitle": "Romeo and Juliet",
+                            "timing": 1.283,
+                            "tracks": [24],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 25,
+                            "subtitle": "Romeo and Juliet at Parting",
+                            "timing": 3.4,
+                            "tracks": [25],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 26,
+                            "subtitle": "Interlude",
+                            "timing": 1.4,
+                            "tracks": [26],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 27,
+                            "subtitle": "Juliet Alone",
+                            "timing": 1.883,
+                            "tracks": [27],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 28,
+                            "subtitle": "Juliet's Funeral",
+                            "timing": 6.117,
+                            "tracks": [28],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 29,
+                            "subtitle": "Juliet's Funeral",
+                            "timing": 3.067,
+                            "tracks": [29],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

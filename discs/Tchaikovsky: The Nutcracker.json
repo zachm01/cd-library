@@ -1,0 +1,278 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Tchaikovsky, Pyotr Ilyich",
+        "Rattle, Simon",
+        "Berliner Philharmoniker"
+    ],
+    "copyright date": 2010,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Rattle, Simon",
+                        "Berliner Philharmoniker"
+                    ],
+                    "catalogue num": 71,
+                    "composer": "Tchaikovsky, Pyotr Ilyich",
+                    "date": 1892,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 3.783133,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "The Nutcracker: Miniature Overture",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Rattle, Simon",
+                        "Berliner Philharmoniker"
+                    ],
+                    "catalogue num": 71,
+                    "composer": "Tchaikovsky, Pyotr Ilyich",
+                    "date": 1892,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "The Decoration of the Christmas Tree",
+                            "subtracks": [],
+                            "timing": 3.783,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "March",
+                            "subtracks": [],
+                            "timing": 2.417,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Children's Galop and Entry of the Parents",
+                            "subtracks": [],
+                            "timing": 2.267,
+                            "tracks": [
+                                4
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Arrival of Drosselmeyer",
+                            "subtracks": [],
+                            "timing": 5.467,
+                            "tracks": [
+                                5
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Grandfather's Dance",
+                            "subtracks": [],
+                            "timing": 6.233,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 6,
+                            "subtitle": "Scene: Clara and the Nutcracker",
+                            "subtracks": [],
+                            "timing": 6.317,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 7,
+                            "subtitle": "Scene: The Battle",
+                            "subtracks": [],
+                            "timing": 3.45,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 8,
+                            "subtitle": "Scene: In the Pine Forest",
+                            "subtracks": [],
+                            "timing": 3.967,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 9,
+                            "subtitle": "Waltz of the Snowflakes",
+                            "subtracks": [],
+                            "timing": 6.683,
+                            "tracks": [
+                                10
+                            ]
+                        }
+                    ],
+                    "num movements": 9,
+                    "title": "The Nutcracker: Act I",
+                    "tracks": [
+                        2,
+                        10
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 43.783
+        },
+        {
+            "number": 2,
+            "pieces": [
+                {
+                    "artists": [
+                        "Rattle, Simon",
+                        "Berliner Philharmoniker"
+                    ],
+                    "catalogue num": 71,
+                    "composer": "Tchaikovsky, Pyotr Ilyich",
+                    "date": 1892,
+                    "movements": [
+                        {
+                            "number": 10,
+                            "subtitle": "Scene: The Kingdom of Sweets",
+                            "subtracks": [],
+                            "timing": 3.833,
+                            "tracks": [
+                                1
+                            ]
+                        },
+                        {
+                            "number": 11,
+                            "subtitle": "Scene: Clara and the Prince",
+                            "subtracks": [],
+                            "timing": 4.967,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 12,
+                            "subtitle": "Divertissement",
+                            "subtracks": [
+                                {
+                                    "subtitle": "Chocolate: Spanish Dance",
+                                    "timing": 1.217,
+                                    "track": 3
+                                },
+                                {
+                                    "subtitle": "Coffee: Arabian Dance",
+                                    "timing": 3.9,
+                                    "track": 4
+                                },
+                                {
+                                    "subtitle": "Tea: Chinese Dance",
+                                    "timing": 1.2,
+                                    "track": 5
+                                },
+                                {
+                                    "subtitle": "Trepak: Russian Dance",
+                                    "timing": 1.15,
+                                    "track": 6
+                                },
+                                {
+                                    "subtitle": "Dance of the Reed Pipes",
+                                    "timing": 2.483,
+                                    "track": 7
+                                },
+                                {
+                                    "subtitle": "Mother Gigogne",
+                                    "timing": 2.55,
+                                    "track": 8
+                                }
+                            ],
+                            "timing": 12.5,
+                            "tracks": [
+                                3,
+                                8
+                            ]
+                        },
+                        {
+                            "number": 13,
+                            "subtitle": "Waltz of the Flowers",
+                            "subtracks": [],
+                            "timing": 6.917,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 14,
+                            "subtitle": "Pas de deux",
+                            "subtracks": [
+                                {
+                                    "subtitle": "",
+                                    "timing": 5.1,
+                                    "track": 10
+                                },
+                                {
+                                    "subtitle": "Variation I: Tarantella",
+                                    "timing": 0.65,
+                                    "track": 11
+                                },
+                                {
+                                    "subtitle": "Variation II: Dance of the Sugarplum Fairy",
+                                    "timing": 2.4,
+                                    "track": 12
+                                },
+                                {
+                                    "subtitle": "Coda",
+                                    "timing": 1.35,
+                                    "track": 13
+                                }
+                            ],
+                            "timing": 9.5,
+                            "tracks": [
+                                10,
+                                13
+                            ]
+                        },
+                        {
+                            "number": 15,
+                            "subtitle": "Final Waltz and Apotheosis",
+                            "subtracks": [],
+                            "timing": 4.85,
+                            "tracks": [
+                                14
+                            ]
+                        }
+                    ],
+                    "num movements": 6,
+                    "title": "The Nutcracker: Act II",
+                    "tracks": [
+                        1,
+                        14
+                    ],
+                    "catalogue": "opus"
+                }
+            ],
+            "total timing": 42.617
+        }
+    ],
+    "id": 15,
+    "label": "EMI",
+    "num discs": 2,
+    "title": "Tchaikovsky: The Nutcracker"
+}

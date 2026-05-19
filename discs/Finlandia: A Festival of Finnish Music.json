@@ -1,0 +1,339 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Sibelius, Jean",
+        "Rautavaara, Einojuhani",
+        "Raitio, Väinö",
+        "Englund, Einar",
+        "Krohn, Felix",
+        "Klami, Uuno",
+        "Kajanus, Robert",
+        "Pacius, Frederik",
+        "Vänskä, Osmo",
+        "Kang. Dong-Suk",
+        "Lahti Symphony Orchestra"
+    ],
+    "copyright date": 1992,
+    "discs": [
+        {
+            "number": 1,
+            "pieces": [
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": 26,
+                    "composer": "Sibelius, Jean",
+                    "date": 1899,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 8.433,
+                            "tracks": [
+                                1
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Finlandia (Op. 26)",
+                    "tracks": [
+                        1
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": 61,
+                    "composer": "Rautavaara, Einojuhani",
+                    "date": 1972,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "The Bog",
+                            "subtracks": [],
+                            "timing": 6.567,
+                            "tracks": [
+                                2
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Melancholy",
+                            "subtracks": [],
+                            "timing": 3.983,
+                            "tracks": [
+                                3
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Swans migrating",
+                            "subtracks": [],
+                            "timing": 6.367,
+                            "tracks": [
+                                43
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Cantus Arcticus (Op. 61)",
+                    "tracks": [
+                        2,
+                        4
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": 15,
+                    "composer": "Raitio Väinö",
+                    "date": 1916,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 7.717,
+                            "tracks": [
+                                5
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Joutsenet",
+                    "tracks": [
+                        5
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Englund, Einar",
+                    "date": 1952,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Alkusoitto (Prelude)",
+                            "subtracks": [],
+                            "timing": 1.6,
+                            "tracks": [
+                                6
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Tunturi (The Fell)",
+                            "subtracks": [],
+                            "timing": 4.217,
+                            "tracks": [
+                                7
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Porajot (The Reindeer Race)",
+                            "subtracks": [],
+                            "timing": 1.4,
+                            "tracks": [
+                                8
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Surumarssi (Funeral March)",
+                            "subtracks": [],
+                            "timing": 3.217,
+                            "tracks": [
+                                9
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Finaali (Finale)",
+                            "subtracks": [],
+                            "timing": 2.75,
+                            "tracks": [
+                                10
+                            ]
+                        }
+                    ],
+                    "num movements": 5,
+                    "title": "Valkoinen peura",
+                    "tracks": [
+                        6,
+                        10
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Kang. Dong-Suk",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": 117,
+                    "composer": "Sibelius, Jean",
+                    "date": 1929,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Contry-scenery",
+                            "subtracks": [],
+                            "timing": 1.983,
+                            "tracks": [
+                                11
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Evening in spring",
+                            "subtracks": [],
+                            "timing": 2.85,
+                            "tracks": [
+                                12
+                            ]
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "In the summer",
+                            "subtracks": [],
+                            "timing": 1.833,
+                            "tracks": [
+                                13
+                            ]
+                        }
+                    ],
+                    "num movements": 3,
+                    "title": "Suite for Violin and String Orchestra",
+                    "tracks": [
+                        11,
+                        13
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Krohn, Felix",
+                    "date": 1924,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 6.017,
+                            "tracks": [
+                                14
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Odalisque (arr. Leo Funtek)",
+                    "tracks": [
+                        14
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Klami, Uuno",
+                    "date": 1946,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 6.717,
+                            "tracks": [
+                                15
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Pyöräilijä (The Cyclist)",
+                    "tracks": [
+                        15
+                    ],
+                    "catalogue": "opus"
+                },
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Kajanus, Robert",
+                    "date": 1904,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "subtracks": [],
+                            "timing": 2.7,
+                            "tracks": [
+                                16
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Porilaisten marssi (March of the People of Pori)",
+                    "tracks": [
+                        16
+                    ],
+                    "catalogue": ""
+                },
+                {
+                    "artists": [
+                        "Vänskä, Osmo",
+                        "Lahti Symphony Orchestra"
+                    ],
+                    "catalogue num": -1,
+                    "composer": "Pacius, Frederik",
+                    "date": 1848,
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Finnish National Anthem",
+                            "subtracks": [],
+                            "timing": 2.233,
+                            "tracks": [
+                                17
+                            ]
+                        }
+                    ],
+                    "num movements": 1,
+                    "title": "Maamme (Our Country)",
+                    "tracks": [
+                        17
+                    ],
+                    "catalogue": ""
+                }
+            ],
+            "total timing": 73.783
+        }
+    ],
+    "id": 57,
+    "label": "BIS",
+    "num discs": 1,
+    "title": "\"Finlandia\": A Festival of Finnish Music"
+}

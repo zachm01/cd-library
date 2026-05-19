@@ -1,0 +1,169 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Lloyd-Jones, David",
+        "Hugh, Tim",
+        "Royal Scottish National Orchestra",
+        "Holst, Gustav"
+    ],
+    "copyright date": 1998,
+    "id": 82,
+    "label": "Naxos",
+    "num discs": 1,
+    "title": "Holst: Beni Mora • Somerset Rhapsody • Invocation",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 69.033,
+            "pieces": [
+                {
+                    "artists": [
+                        "Lloyd-Jones, David",
+                        "Royal Scottish National Orchestra"
+                    ],
+                    "catalogue": "H",
+                    "catalogue num": 87,
+                    "composer": "Holst, Gustav",
+                    "date": 1907,
+                    "num movements": 1,
+                    "title": "Somerset Rhapsody",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 9.567,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Lloyd-Jones, David",
+                        "Royal Scottish National Orchestra"
+                    ],
+                    "catalogue": "H",
+                    "catalogue num": 107,
+                    "composer": "Holst, Gustav",
+                    "date": 1910,
+                    "num movements": 3,
+                    "title": "Beni Mora",
+                    "tracks": [2, 4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "First Dance",
+                            "timing": 6.3,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Second Dance",
+                            "timing": 3.967,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Finale: In the Street of the Ouled Naïls",
+                            "timing": 7.067,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Lloyd-Jones, David",
+                        "Hugh, Tim",
+                        "Royal Scottish National Orchestra"
+                    ],
+                    "catalogue": "H",
+                    "catalogue num": 75,
+                    "composer": "Holst, Gustav",
+                    "date": 1911,
+                    "num movements": 1,
+                    "title": "Invocation",
+                    "tracks": [5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 10.2,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Lloyd-Jones, David",
+                        "Royal Scottish National Orchestra"
+                    ],
+                    "catalogue": "H",
+                    "catalogue num": 151,
+                    "composer": "Holst, Gustav",
+                    "date": 1922,
+                    "num movements": 1,
+                    "title": "Fugal Overture",
+                    "tracks": [6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 5.067,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Lloyd-Jones, David",
+                        "Royal Scottish National Orchestra"
+                    ],
+                    "catalogue": "H",
+                    "catalogue num": 172,
+                    "composer": "Holst, Gustav",
+                    "date": 1927,
+                    "num movements": 1,
+                    "title": "Egdon Heath",
+                    "tracks": [7],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 12.717,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Lloyd-Jones, David",
+                        "Royal Scottish National Orchestra"
+                    ],
+                    "catalogue": "H",
+                    "catalogue num": 178,
+                    "composer": "Holst, Gustav",
+                    "date": 1930,
+                    "num movements": 1,
+                    "title": "Hammersmith",
+                    "tracks": [8],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 13.7,
+                            "tracks": [8],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

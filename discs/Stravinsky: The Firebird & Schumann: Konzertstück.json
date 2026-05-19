@@ -1,0 +1,80 @@
+{
+    "RRD format": "DDD",
+    "all artists": [
+        "Stravinsky, Igor",
+        "Schumann, Robert",
+        "Noseda, Gianandrea",
+        "National Symphony Orchestra"
+    ],
+    "copyright date": 2023,
+    "id": 89,
+    "label": "The Kennedy Center",
+    "num discs": 1,
+    "title": "The Firebird & Konzertstück",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 62.683,
+            "pieces": [
+                {
+                    "artists": [
+                        "Noseda, Gianandrea",
+                        "National Symphony Orchestra"
+                    ],
+                    "catalogue": "K",
+                    "catalogue num": 10,
+                    "composer": "Stavinsky, Igor",
+                    "date": 1910,
+                    "num movements": 1,
+                    "title": "The Firebird",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 44.867,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                        "Noseda, Gianandrea",
+                        "National Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 86,
+                    "composer": "Schumann, Robert",
+                    "date": 1849,
+                    "num movements": 3,
+                    "title": "Konzertstück for Four Horns and Orchestra",
+                    "tracks": [2, 4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Lebhaft",
+                            "timing": 7.483,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Romanze. Ziemlich langsam",
+                            "timing": 4.35,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Sehr lebhaft",
+                            "timing": 5.983,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
