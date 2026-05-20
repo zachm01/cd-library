@@ -44,7 +44,7 @@ List: `[]`
 # Artist Names
 
 Artist names are organized as follows: `[family name][delimiter][personal name]`  
-If the artist's name uses standard Western name order, then the delimiter is a `,`. If the artist's name follows the convention of putting the family name before the personal name, then the delimiter is a `.`. 
+If the artist's name follows the convention of putting the personal name before the family name, then the delimiter is a `,`. If the artist's name follows the convention of putting the family name before the personal name, then the delimiter is a `.`. 
 
 # To Do
 
