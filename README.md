@@ -6,7 +6,7 @@ In the summer of 2024, I began collecting compact discs so I could listen to my 
 
 Each "disc" (which may actually include multiple CDs) is documented in JSON format that follows the template provided in `template.json`. Some objects, like boxed sets of CDs, or CD cases that contain two or more discs are in my collection and I wanted each physical object to map to one file. This template allows multiple discs to be documented per file. The fields for each file are described as follows:
 
- - `"SPARS code"`: a [three-position code](https://en.wikipedia.org/wiki/SPARS_code) denoting the type of recording equipment used to produce the audio on the CD. The first position represents the recording equipment (i.e. micorphones); the second position represents the mixing equipment, and the third position represents the delivery equipment (the CD itself). Since CDs are digital by nature, the last letter of the code is always `D` (for `D`igital) in these files. Some CDs have `A`s (for `A`nalog) in the first two positions, but `DDD` (all digital) is the most common, with 76/101 discs using this format as of May 2026.
+ - `"SPARS code"`: a [three-position code](https://en.wikipedia.org/wiki/SPARS_code) denoting the type of recording equipment used to produce the audio on the CD. The first position represents the recording equipment (i.e. micorphones); the second position represents the mixing equipment, and the third position represents the delivery equipment (the CD itself). Since CDs are digital by nature, the last letter of the code is always `D` (for `D`igital) in these files. Some CDs have `A`s (for `A`nalog) in the first two positions, but `DDD` (all digital) is the most common, with ≈75% of discs using this format.
  - `"all artists"`: a list of the names of every artist featured on the discs contained in this jewel case.
  - `"copyright date"`: copyright date listed on the back of the case.
  - `"id"`: sequential ID, unique to each file.
@@ -35,13 +35,25 @@ Each "disc" (which may actually include multiple CDs) is documented in JSON form
          - `"timing"`: the duration of the single track this object refers to.
          - `"track"`: the number of the single track this object refers to.
 
-## Default values:
+### Default values:
 
 Numerical: `-1`  
 String: `""`  
 List: `[]`  
 
-# Artist Names
+# Naming Conventions
+
+### File names
+
+Each disc uses the (family) name of the _artist_ for which I am most likely to remember the disc by, followed by a colon and the name printed on the side of the CD casing. In most cases, the artist whose name the file bears is fairly straightforward; if the album contains music by only one composer, then I use that composer's name. If there are multiple composers featured, but one piece on the album is clearly the most prominent work, then I use the name of the most prominent piece's composer. 
+
+File names are far less strictly organized; sometimes, the name printed on the side of a CD case includes the main composer's name at the very front, in which case I do not need to add anything to the file name. If the main artist on a disc has their name featured in a title, but it includes both personal and family names, then I may modify the title so that the artist's family name appears first in the title. 
+
+Some albums do not have a single identifiable main artist (e.g. "Finlandia: A Festival of Finnish Music"). In this case, I use the name printed on the CD for the file name. In other similar cases, I might re-arrange the words in the title so that the word with which I primarily associate the album appears first (e.g. "The Fantastic Philadelphians" $\rightarrow$ "Philadelphians, The Fantastic"). I try to ensure that the artist or group or keyword that the album most clearly associates itself with appears as the first word of the file name.
+
+File names are inconsistently organized, but the characteristic which unifies them is that sorting file names lexographically always follows the sorted order in which I keep my physical CD cases. 
+
+### Artist names
 
 Artist names are organized as follows: `[family name][delimiter][personal name]`  
 If the artist's name follows the convention of putting the personal name before the family name, then the delimiter is a `,`. If the artist's name follows the convention of putting the family name before the personal name, then the delimiter is a `.`. 
@@ -49,3 +61,4 @@ If the artist's name follows the convention of putting the personal name before 
 # To Do
 
  - Add links to images of album covers (I understand the irony that all my CDs are available online)
+ - I currently have 2, or maybe 4, individual CDs and one boxed set containing 12 CDs that I have yet o catalogue. 
