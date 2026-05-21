@@ -51,7 +51,7 @@ File names are far less strictly organized; sometimes, the name printed on the s
 
 Some albums do not have a single identifiable main artist (e.g. "Finlandia: A Festival of Finnish Music"). In this case, I use the name printed on the CD for the file name. In other similar cases, I might re-arrange the words in the title so that the word with which I primarily associate the album appears first (e.g. "The Fantastic Philadelphians" $\rightarrow$ "Philadelphians, The Fantastic"). I try to ensure that the artist or group or keyword that the album most clearly associates itself with appears as the first word of the file name.
 
-_File names are inconsistently organized, but the characteristic which unifies them is that sorting file names lexographically always follows the sorted order in which I keep my physical CD cases._
+File names are inconsistently organized, but the characteristic which unifies them is that sorting file names lexographically always follows the sorted order in which I keep my physical CD cases. 
 
 ### Artist names
 
