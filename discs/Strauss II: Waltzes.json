@@ -1,0 +1,197 @@
+{
+    "SPARS code": "DDD",
+    "all artists": [
+      "Strauss II, Johann",
+      "Thomson, Bryden",
+      "Hallé Orchestra"
+    ],
+    "copyright date": 1987,
+    "id": 105,
+    "label": "EMI CFP",
+    "num discs": 1,
+    "title": "Waltzes by Johann Strauss II",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 71.933,
+            "pieces": [
+                {
+                    "artists": [
+                      "Thomson, Bryden",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 314,
+                    "composer": "Strauss II, Johann",
+                    "date": 1867,
+                    "num movements": 1,
+                    "title": "On the Beautiful Blue Danube",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 9.567,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Thomson, Bryden",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 316,
+                    "composer": "Strauss II, Johann",
+                    "date": 1867,
+                    "num movements": 1,
+                    "title": "Artist's Life",
+                    "tracks": [2],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 8.667,
+                            "tracks": [2],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Thomson, Bryden",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 333,
+                    "composer": "Strauss II, Johann",
+                    "date": 1869,
+                    "num movements": 1,
+                    "title": "Wine, Women and Song",
+                    "tracks": [3],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 9.2,
+                            "tracks": [3],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Thomson, Bryden",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 234,
+                    "composer": "Strauss II, Johann",
+                    "date": 1860,
+                    "num movements": 1,
+                    "title": "Accelerations",
+                    "tracks": [4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 7.633,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Thomson, Bryden",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 354,
+                    "composer": "Strauss II, Johann",
+                    "date": 1873,
+                    "num movements": 1,
+                    "title": "Vienna Blood",
+                    "tracks": [5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 8.2,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Thomson, Bryden",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 410,
+                    "composer": "Strauss II, Johann",
+                    "date": 1882,
+                    "num movements": 1,
+                    "title": "Voices of Spring",
+                    "tracks": [6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 6.017,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Thomson, Bryden",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 325,
+                    "composer": "Strauss II, Johann",
+                    "date": 1868,
+                    "num movements": 1,
+                    "title": "Tales from Vienna Woods",
+                    "tracks": [7],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 11.717,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Thomson, Bryden",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 437,
+                    "composer": "Strauss II, Johann",
+                    "date": 1889,
+                    "num movements": 1,
+                    "title": "Emperor",
+                    "tracks": [8],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 10.933,
+                            "tracks": [8],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
