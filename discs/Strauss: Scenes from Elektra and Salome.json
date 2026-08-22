@@ -1,0 +1,95 @@
+{
+    "SPARS code": "ADD",
+    "all artists": [
+      "Strauss, Richard",
+      "Reiner, Fritz",
+      "Borkh, Inge",
+      "Schoeffler, Paul",
+      "Yeend, Frances",
+      "Chicago Lyric Theatre Chorus",
+      "Chicago Symphony Orchestra"
+    ],
+    "copyright date": 1956,
+    "id": 104,
+    "label": "RCA",
+    "num discs": 1,
+    "title": "Strauss — Scenes from Elektra and Salome",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 67.017,
+            "pieces": [
+                {
+                    "artists": [
+                      "Reiner, Fritz",
+                      "Borkh, Inge",
+                      "Schoeffler, Paul",
+                      "Yeend, Frances",
+                      "Chicago Lyric Theatre Chorus",
+                      "Chicago Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 58,
+                    "composer": "Strauss, Richard",
+                    "date": 1908,
+                    "num movements": 3,
+                    "title": "Elektra",
+                    "tracks": [1, 3],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Elektra's Soliloquy: Allein! Weh, ganz allein",
+                            "timing": 9.567,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Recognition Scene: Was willst due, fremder Mensch?",
+                            "timing": 21.567,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Finale: Elektra! Schwester! Komm mit uns!",
+                            "timing": 9.667,
+                            "tracks": [3],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Reiner, Fritz",
+                      "Borkh, Inge",
+                      "Chicago Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 54,
+                    "composer": "Strauss, Richard",
+                    "date": 1905,
+                    "num movements": 2,
+                    "title": "Salome",
+                    "tracks": [4, 5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Dance of the Seven Veils",
+                            "timing": 9.0,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Final Scene: Ah! du wolltest mich nicht deinen Mund",
+                            "timing": 17.033,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
