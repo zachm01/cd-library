@@ -1,0 +1,156 @@
+{
+    "SPARS code": "DDD",
+    "all artists": [
+      "Rimsky-Korsakov, Nikolai",
+      "Glinka, Mikhail",
+      "Mussorgsky, Modest",
+      "Borodin, Alexander",
+      "Handley, Vernon",
+      "Hallé Orchestra"
+    ],
+    "copyright date": 1988,
+    "id": 106,
+    "label": "EMI CFP",
+    "num discs": 1,
+    "title": "Russian Spectacular",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 63.633,
+            "pieces": [
+                {
+                    "artists": [
+                      "Handley, Vernon",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": -1,
+                    "composer": "Glinka, Mikhail",
+                    "date": 1842,
+                    "num movements": 1,
+                    "title": "Ruslan and Ludmilla - Overture",
+                    "tracks": [1],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 5.283,
+                            "tracks": [1],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Handley, Vernon",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": -1,
+                    "composer": "Mussorgsky, Modest",
+                    "date": 1886,
+                    "num movements": 1,
+                    "title": "A Night on the Bare Mountain (arr. Rimsky-Korsakov)",
+                    "tracks": [2],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 10.85,
+                            "tracks": [2],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Handley, Vernon",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 34,
+                    "composer": "Rimsky-Korsakov, Nikolai",
+                    "date": 1887,
+                    "num movements": 1,
+                    "title": "Capriccio Espagnol",
+                    "tracks": [3],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 15.533,
+                            "tracks": [3],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Handley, Vernon",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": -1,
+                    "composer": "Borodin, Alexander",
+                    "date": 1880,
+                    "num movements": 1,
+                    "title": "In the Steppes of Central Asia",
+                    "tracks": [4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 6.283,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Handley, Vernon",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": -1,
+                    "composer": "Borodin, Alexander",
+                    "date": 1887,
+                    "num movements": 1,
+                    "title": "Prince Igor — Overtur (orch. Glazunov)",
+                    "tracks": [5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 10.9,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Handley, Vernon",
+                      "Hallé Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 36,
+                    "composer": "Rimsky-Korsakov, Nikolai",
+                    "date": 1888,
+                    "num movements": 1,
+                    "title": "Russian Easter Festival Overture",
+                    "tracks": [6],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "",
+                            "timing": 14.783,
+                            "tracks": [6],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
