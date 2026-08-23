@@ -1,0 +1,113 @@
+{
+    "SPARS code": "DDD",
+    "all artists": [
+      "Tippett, Michael",
+      "Hickox, Richard",
+      "Chilingirian, Levon",
+      "Rowland-Jones, Simon",
+      "de Groote, Philip",
+      "Bournemouth Symphony Orchestra"
+    ],
+    "copyright date": 1995,
+    "id": 108,
+    "label": "Chandos",
+    "num discs": 1,
+    "title": "Tippett: Triple Concerto/Concerto for Orchestra",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 66.967,
+            "pieces": [
+                {
+                    "artists": [
+                      "Hickox, Richard",
+                      "Chilingirian, Levon",
+                      "Rowland-Jones, Simon",
+                      "de Groote, Philip",
+                      "Bournemouth Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": -1,
+                    "composer": "Tippett, Michael",
+                    "date": 1979,
+                    "num movements": 5,
+                    "title": "Triple Concerto",
+                    "tracks": [1, 5],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Medium fast —",
+                            "timing": 13.017,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Interlude: medium slow —",
+                            "timing": 3.167,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Very slow, calmer still —",
+                            "timing": 9.917,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Interlude: medium fast —",
+                            "timing": 2.333,
+                            "tracks": [4],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Medium fast",
+                            "timing": 5.917,
+                            "tracks": [5],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Hickox, Richard",
+                      "Bournemouth Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": -1,
+                    "composer": "Tippett, Michael",
+                    "date": 1963,
+                    "num movements": 3,
+                    "title": "Concerto for Orchestra",
+                    "tracks": [6, 8],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro",
+                            "timing": 10.217,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Lento",
+                            "timing": 12.15,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Allegro molto",
+                            "timing": 9.95,
+                            "tracks": [7],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
