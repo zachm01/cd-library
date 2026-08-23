@@ -1,0 +1,228 @@
+{
+    "SPARS code": "DDD",
+    "all artists": [
+      "Mahler, Gustav",
+      "Bernstein, Leonard",
+      "Hendricks, Barbara",
+      "Ludwig, Christa",
+      "Westminster Choir",
+      "New York Philharmonic"
+    ],
+    "copyright date": 1988,
+    "id": 107,
+    "label": "Deutsche Grammophon",
+    "num discs": 2,
+    "title": "Mahler: Symphony No. 2 \"Resurrection\"",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 37.133,
+            "pieces": [
+                {
+                    "artists": [
+                      "Bernstein, Leonard",
+                      "New York Philharmonic"
+                    ],
+                    "catalogue": "GMW",
+                    "catalogue num": 30,
+                    "composer": "Mahler, Gustav",
+                    "date": 1894,
+                    "num movements": 2,
+                    "title": "Symphony No. 2 in C minor \"Resurrection\"",
+                    "tracks": [1, 10],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro maestoso (Totenfeier)",
+                            "timing": 24.867,
+                            "tracks": [1, 5],
+                            "subtracks": [
+                                {
+                                    "subtitle": "Mit durchaus ernstem und feierlichem Ausdruck",
+                                    "timing": 7.017,
+                                    "track": 1
+                                },
+                                {
+                                    "subtitle": "Sehr mäßig und zurückhaltend",
+                                    "timing": 5.833,
+                                    "track": 2
+                                },
+                                {
+                                    "subtitle": "Schnell",
+                                    "timing": 3.733,
+                                    "track": 3
+                                },
+                                {
+                                    "subtitle": "Tempo I",
+                                    "timing": 4.75,
+                                    "track": 4
+                                },
+                                {
+                                    "subtitle": "Tempo sostenuto",
+                                    "timing": 3.533,
+                                    "track": 5
+                                }
+                            ]
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Andante moderato",
+                            "timing": 12.083,
+                            "tracks": [6, 10],
+                            "subtracks": [
+                                {
+                                    "subtitle": "Sehr gemächlich",
+                                    "timing": 1.733,
+                                    "track": 6
+                                },
+                                {
+                                    "subtitle": "Nicht eilen. Sehr gemächlich",
+                                    "timing": 1.8,
+                                    "track": 7
+                                },
+                                {
+                                    "subtitle": "In Tempo I zurückkehren",
+                                    "timing": 2.067,
+                                    "track": 8
+                                },
+                                {
+                                    "subtitle": "Energisch bewegt",
+                                    "timing": 2.433,
+                                    "track": 9
+                                },
+                                {
+                                    "subtitle": "Wieder ins Tempo zurückgehen. Tempo I",
+                                    "timing": 4.05,
+                                    "track": 10
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": 1,
+            "total timing": 56.367,
+            "pieces": [
+                {
+                    "artists": [
+                      "Bernstein, Leonard",
+                      "Hendricks, Barbara",
+                      "Ludwig, Christa",
+                      "Westminster Choir",
+                      "New York Philharmonic"
+                    ],
+                    "catalogue": "GMW",
+                    "catalogue num": 30,
+                    "composer": "Mahler, Gustav",
+                    "date": 1894,
+                    "num movements": 3,
+                    "title": "Symphony No. 2 in C minor \"Resurrection\"",
+                    "tracks": [1, 15],
+                    "movements": [
+                        {
+                            "number": 3,
+                            "subtitle": "Scherzo",
+                            "timing": 12.405,
+                            "tracks": [1, 3],
+                            "subtracks": [
+                                {
+                                    "subtitle": "In ruhig fließender Bewegung",
+                                    "timing": 5.0,
+                                    "track": 1
+                                },
+                                {
+                                    "subtitle": "Sehr getragen und gesangvoll",
+                                    "timing": 2.45,
+                                    "track": 2
+                                },
+                                {
+                                    "subtitle": "Zum Tempo I zurückkehren",
+                                    "timing": 4.933,
+                                    "track": 2
+                                }
+                            ]
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Urlicht",
+                            "timing": 6.3,
+                            "tracks": [4],
+                            "subtracks": [
+                                {
+                                    "subtitle": "Sehr feierlich, aber schlicht \"O Röschen rot\"",
+                                    "timing": 6.3,
+                                    "track": 4
+                                }
+                            ]
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "",
+                            "timing": 38.533,
+                            "tracks": [5, 15],
+                            "subtracks": [
+                                {
+                                    "subtitle": "Im Tempo des Scherzos. Wild herausfahrend",
+                                    "timing": 1.733,
+                                    "track": 5
+                                },
+                                {
+                                    "subtitle": "Langsam",
+                                    "timing": 3.983,
+                                    "track": 6
+                                },
+                                {
+                                    "subtitle": "Im Anfang sehr zurückgehalten",
+                                    "timing": 1.317,
+                                    "track": 7
+                                },
+                                {
+                                    "subtitle": "Wieder sehr breit",
+                                    "timing": 3.683,
+                                    "track": 8
+                                },
+                                {
+                                    "subtitle": "Molto ritenuto. Maestoso",
+                                    "timing": 4.25,
+                                    "track": 9
+                                },
+                                {
+                                    "subtitle": "Wieder zurückhaltend",
+                                    "timing": 3.967,
+                                    "track": 10
+                                },
+                                {
+                                    "subtitle": "Sehr langsam und gedehnt",
+                                    "timing": 2.783,
+                                    "track": 11
+                                },
+                                {
+                                    "subtitle": "Langsam. Misterioso \"Auferstehn, ja auferstehn wirst du\"",
+                                    "timing": 4.167,
+                                    "track": 12
+                                },
+                                {
+                                    "subtitle": "Langsam ppp. Nicht schleppen \"Wieder aufzublühn wirst du gesät\"",
+                                    "timing": 3.95,
+                                    "track": 13
+                                },
+                                {
+                                    "subtitle": "Etwas bewegter \"O glaube, mein Herz, o glaube\"",
+                                    "timing": 3.55,
+                                    "track": 14
+                                },
+                                {
+                                    "subtitle": "Mit Aufschwung, aber nicht eilen \"O Schmerz, du Alldurchdringer\"",
+                                    "timing": 5.15,
+                                    "track": 15
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
