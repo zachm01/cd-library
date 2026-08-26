@@ -1,0 +1,114 @@
+{
+    "SPARS code": "DDD",
+    "all artists": [
+      "Shostakovich, Dmitri",
+      "Yoel Levi",
+      "Atlanta Symphony Orchestra"
+    ],
+    "copyright date": 1990,
+    "id": 109,
+    "label": "Telarc",
+    "num discs": 1,
+    "title": "Shostakovich: Symphonies No. 5 & 9",
+    "discs": [
+        {
+            "number": 1,
+            "total timing": 77.633,
+            "pieces": [
+                {
+                    "artists": [
+                      "Yoel Levi",
+                      "Atlanta Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 47,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1937,
+                    "num movements": 4,
+                    "title": "Symphony No. 5",
+                    "tracks": [1, 4],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Moderato",
+                            "timing": 16.833,
+                            "tracks": [1],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Allegretto",
+                            "timing": 5.467,
+                            "tracks": [2],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Largo",
+                            "timing": 15.517,
+                            "tracks": [3],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Allegro non troppo",
+                            "timing": 11.15,
+                            "tracks": [4],
+                            "subtracks": []
+                        }
+                    ]
+                },
+                {
+                    "artists": [
+                      "Yoel Levi",
+                      "Atlanta Symphony Orchestra"
+                    ],
+                    "catalogue": "opus",
+                    "catalogue num": 70,
+                    "composer": "Shostakovich, Dmitri",
+                    "date": 1945,
+                    "num movements": 5,
+                    "title": "Symphony No. 9",
+                    "tracks": [5, 9],
+                    "movements": [
+                        {
+                            "number": 1,
+                            "subtitle": "Allegro",
+                            "timing": 5.183,
+                            "tracks": [5],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 2,
+                            "subtitle": "Moderato",
+                            "timing": 9.0,
+                            "tracks": [6],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 3,
+                            "subtitle": "Presto",
+                            "timing": 2.783,
+                            "tracks": [7],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 4,
+                            "subtitle": "Largo",
+                            "timing": 4.45,
+                            "tracks": [8],
+                            "subtracks": []
+                        },
+                        {
+                            "number": 5,
+                            "subtitle": "Allegretto",
+                            "timing": 6.533,
+                            "tracks": [9],
+                            "subtracks": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
